@@ -1,0 +1,29 @@
+Extrait d'un mail du support client Paybox :
+
+Nous avons mis récemment à disposition de nos commerçants une plateforme de recette permettant de réaliser des tests sur le No de contrat habituel sans impacter le fonctionnement normal du compte en mode production.
+
+ 
+
+L’accès à cette plateforme se fait de la manière suivante :
+
+ 
+
+. Pour l’application Paybox System : en documentant les variables « PBX_PAYBOX » et « PBX_BACKUP1 » avec la valeur https://preprod-tpeweb.paybox.com/cgi/MYchoix_pagepaiement.cgi
+
+  Afin de différencier la page de paiement de la plateforme de recette de celle de la plateforme de production, la mention ***TEST*** a été rajoutée devant l'enseigne.
+
+ 
+
+. Pour les applications PPPS et PPPS+ : en appelant l’url https://preprod-ppps.paybox.com/PPPS.php
+
+ 
+
+L'accès au back-office commerçant associé se fait via l'url https://preprod-admin.paybox.com/
+
+L’utilisateur et le mot de passe sont les mêmes que ceux du compte en production.
+
+ 
+
+ 
+
+Nous restons à votre disposition pour tous renseignements complémentaires.

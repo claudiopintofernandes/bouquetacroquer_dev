@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pk_blocklinkfooter</name>
+	<displayName><![CDATA[Liens du pied de page]]></displayName>
+	<version><![CDATA[1.6]]></version>
+	<description><![CDATA[Ajoute un bloc avec des liens suppl&eacute;mentaires]]></description>
+	<author><![CDATA[promokit.eu]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Voulez-vous vraiment supprimer tous vos liens ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

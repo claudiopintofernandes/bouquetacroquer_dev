@@ -1,0 +1,17 @@
+2016-06-03 21:11:12 1464981072 DEBUG: URL to check 2
+2016-06-03 21:11:12 1464981072 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-03 21:11:12 1464981072 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-03 21:11:12 1464981072 DEBUG: Cart 1312: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-06-03 21:11:54 1464981114 DEBUG: Call params: M=4800&R=1312%20-%20Laurianne%20%20Prevot&T=631486006&A=457666&B=0&C=Visa&D=1709&E=00000&G=D&H=061E0B8FC4033D4C2EF55082BFF5D48417CEB814&I=FRA&J=&N=&P=CARTE&Q=21%3A11%3A14&S=627428689&W=03062016&Y=FRA&K=InMX9jwTIjd9W1nvH4Rgbly%2FdcRtuih%2FJZPA6xFZ%2BFzgs6Ck9cstkzpU9f7DhUq005X%2FKlRMnwXJ1rjbiYbvCmgAgbZfbi9kTQDkwHSfgwhYSFoszJ3LW3oOMEnbTws4vwQHUa%2FVahEmx2kzeGt8o5A7WdGl5hvPTg5Hu%2BXW0%2B8%3D
+2016-06-03 21:11:54 1464981114 DEBUG: Cart 1312: Standard IPN
+2016-06-03 21:11:54 1464981114 DEBUG: Cart 1312: Validating order (PS1.5+)
+2016-06-03 21:11:58 1464981114 DEBUG: Cart 1312: Order 171 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-03 23:34:13 1464989653 DEBUG: URL to check 2
+2016-06-03 23:34:13 1464989653 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-03 23:34:13 1464989653 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-03 23:34:13 1464989653 DEBUG: Cart 1325: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-06-03 23:34:56 1464989696 DEBUG: Call params: M=3400&R=1325%20-%20Julien%20Grandgirard&T=631496169&A=308222&B=0&C=Visa&D=1610&E=00000&G=D&H=DBB2B39EAE8046475DC5BEE4D350EEAC62B042B2&I=FRA&J=&N=&P=CARTE&Q=23%3A34%3A14&S=627438688&W=03062016&Y=FRA&K=Ux8oDbb5jgJTHaIdXs9C3uA80LbOnf4CZbCISHv1OslfejImFQCkW7mYX2rJPgxg7uqYSCck4aQHv5Op7osVVstc%2FF0nIg%2BNKXdZ1xQM8gsmi6tAhUbXjtzvDdPOmpC5u9%2BDraCb%2BPUpDVgy3tstpFhFOIcGiqPZYZ9Jmp5RHnA%3D
+2016-06-03 23:34:56 1464989696 DEBUG: Cart 1325: Standard IPN
+2016-06-03 23:34:56 1464989696 DEBUG: Cart 1325: Validating order (PS1.5+)
+2016-06-03 23:35:00 1464989696 DEBUG: Cart 1325: Order 172 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-03 23:35:41 1464989741 DEBUG: Cart 1325: Customer is back from E-Transactions payment page. Payment success.

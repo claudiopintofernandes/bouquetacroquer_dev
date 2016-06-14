@@ -1,0 +1,18 @@
+2016-04-20 09:00:46 1461135646 DEBUG: URL to check 2
+2016-04-20 09:00:46 1461135646 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-20 09:00:46 1461135646 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-20 09:00:46 1461135646 DEBUG: Cart 677: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-04-20 09:01:27 1461135687 DEBUG: Call params: M=6100&R=677%20-%20Parinet%20VERONIQUE&T=625726797&A=897131&B=0&C=MasterCard&D=1904&E=00000&G=D&H=38F2EABE5C1DA9BF7455291763A2694A259EF5E9&I=FRA&J=&N=&P=CARTE&Q=09%3A00%3A48&S=621667396&W=20042016&Y=FRA&K=QR9J%2BJRd1WpuDgklPszLJIJoipUYpNTnvW7AB9HdKOERcsKw%2BU3fR5bTERC0yW6an4flb%2Btl6AKxlbz92C7ecGyxmuAgNk5y5iyebf%2BhjrXefJekb3P7z7QhHufCQ07pVvBUMDi2mgtRYnANJS2FYjSUVPAfa2JOmVWuud9j9Gw%3D
+2016-04-20 09:01:27 1461135687 DEBUG: Cart 677: Standard IPN
+2016-04-20 09:01:27 1461135687 DEBUG: Cart 677: Validating order (PS1.5+)
+2016-04-20 09:01:31 1461135687 DEBUG: Cart 677: Order 108 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-20 09:42:57 1461138177 DEBUG: URL to check 2
+2016-04-20 09:42:57 1461138177 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-20 09:42:57 1461138177 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-20 09:42:57 1461138177 DEBUG: Cart 769: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-20 09:46:05 1461138365 DEBUG: Call params: M=5600&R=769%20-%20Maud%20DA%20SILVA&T=625738851&A=537654&B=0&C=Visa&D=1904&E=00000&G=D&H=44D0C12CB246B239B2F90C40DC127B267EFE75A6&I=FRA&J=&N=&P=CARTE&Q=09%3A42%3A59&S=621676965&W=20042016&Y=FRA&K=CC812M3ddFjMJXKn4Lh848fkm2N%2F6x5t%2Balgwf%2FkspxAT8gQ1tiOCxkv4mqTvQTuYg5sqjZED3C87vgEJyy8sMlEf8z9mI9GwS%2FzyogjkOdAq9R6aQrLyqX8SXxphzHGjpAWbHglYG5%2FWRhVqx47VE5JnD6iDGAr97o%2BFn5bb1c%3D
+2016-04-20 09:46:05 1461138365 DEBUG: Cart 769: Standard IPN
+2016-04-20 09:46:05 1461138365 DEBUG: Cart 769: Validating order (PS1.5+)
+2016-04-20 09:46:09 1461138365 DEBUG: Cart 769: Order 109 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-20 09:46:11 1461138371 DEBUG: Cart 769: Customer is back from E-Transactions payment page. Payment success.
+2016-04-20 10:26:03 1461140763 DEBUG: Cart 769: Customer is back from E-Transactions payment page. Payment success.

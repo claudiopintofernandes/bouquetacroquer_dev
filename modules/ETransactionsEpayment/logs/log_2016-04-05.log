@@ -1,0 +1,9 @@
+2016-04-05 13:51:24 1459857084 DEBUG: URL to check 2
+2016-04-05 13:51:24 1459857084 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-05 13:51:24 1459857084 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-05 13:51:24 1459857084 DEBUG: Cart 656: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-05 13:51:56 1459857116 DEBUG: Call params: M=5700&R=656%20-%20Sebastien%20OBON&T=622233589&A=309460&B=0&C=Visa&D=1710&E=00000&G=D&H=0FB38A0FCF945092D72FD1AAA3F14B1E58F78438&I=FRA&J=&N=&P=CARTE&Q=13%3A51%3A25&S=618620748&W=05042016&Y=FRA&K=P9sx2LadVs5QUTwysabVIdHCud99Yk%2B3EOK2jOgNWI20TZwN%2B65DVBKIjw2q%2FggKkh7XnvVl8EOP5YSk7xNeYtfMsiiQg6A5O0wmplxHKBE4ifjHiB5574PKgGSaRoqhNzV5Y7w87vslEL0maYRA9kecH8%2BvrokSoGT5Q5Lvfl0%3D
+2016-04-05 13:51:56 1459857116 DEBUG: Cart 656: Standard IPN
+2016-04-05 13:51:56 1459857116 DEBUG: Cart 656: Validating order (PS1.5+)
+2016-04-05 13:52:01 1459857116 DEBUG: Cart 656: Order 94 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-05 13:52:01 1459857121 DEBUG: Cart 656: Customer is back from E-Transactions payment page. Payment success.

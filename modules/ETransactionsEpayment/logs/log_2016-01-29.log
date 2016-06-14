@@ -1,0 +1,8 @@
+2016-01-29 18:26:30 1454088390 DEBUG: URL to check 2
+2016-01-29 18:26:30 1454088390 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-29 18:26:30 1454088390 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-29 18:26:30 1454088390 DEBUG: Cart 87: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-01-29 18:27:27 1454088447 DEBUG: Call params: M=4900&R=87%20-%20Veronique%20Fichet&T=602283527&A=827141&B=0&C=Visa&D=1709&E=00000&G=D&H=1222F46FD2D1A24F947A00963EBE4B8E640A5F0A&I=FRA&J=&N=&P=CARTE&Q=18%3A26%3A32&S=602044422&W=29012016&Y=FRA&K=pnah0GJFYUrUppGLgWaLZBWTIHkxCVjjWfQinlVJQhyLuXGnuGNITZCWuvZ3s8l3jxsFGFq6fC%2FEYP%2BPi2VfiJCMRqSVJOvQ84YDIafYne6FxLOFKUBP4Htv4Qk5d8yzFfaWI95lBLYkOMAAIVb%2BaX1%2Fn8dPjs6IbtlHYiPqAks%3D
+2016-01-29 18:27:27 1454088447 DEBUG: Cart 87: Standard IPN
+2016-01-29 18:27:27 1454088447 DEBUG: Cart 87: Validating order (PS1.5+)
+2016-01-29 18:27:36 1454088447 DEBUG: Cart 87: Order 23 / Le paiement a été autorisé et capturé par E-Transactions.

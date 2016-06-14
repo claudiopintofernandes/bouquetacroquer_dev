@@ -1,0 +1,21 @@
+2016-05-12 10:50:27 1463043027 DEBUG: URL to check 2
+2016-05-12 10:50:27 1463043027 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-12 10:50:27 1463043027 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-12 10:50:27 1463043027 DEBUG: Cart 950: Redirecting customer to E-Transactions (CARTE, CB).
+2016-05-12 10:52:24 1463043144 DEBUG: URL to check 2
+2016-05-12 10:52:24 1463043144 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-12 10:52:24 1463043144 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-12 10:52:24 1463043144 DEBUG: Cart 950: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-12 10:57:12 1463043432 DEBUG: Call params: M=5100&R=950%20-%20Kevin%20Courdier&T=628717952&A=123459&B=0&C=Visa&D=1611&E=00000&G=D&H=DB7E0DF0D31220C127E09DFE1BB9A18B0485369F&I=FRA&J=&N=&P=CARTE&Q=10%3A56%3A09&S=624654106&W=12052016&Y=FRA&K=JzBy06pPnnahhgKR1%2FBub4Nh9jUg%2FOLzAbHSlcvN15kcf7Bf7lN%2FZBQaX44yjcZyCuJ%2FvKWBzTKrnK3PU3cLntTw67opcAkD%2F5F0sA3uzDKIYAn4YcKbMTnvH5uKzfrf0tydRGA538B5GdwM7gZH3kZOaXiupJzprp4MGvulo6s%3D
+2016-05-12 10:57:13 1463043432 DEBUG: Cart 950: Standard IPN
+2016-05-12 10:57:13 1463043432 DEBUG: Cart 950: Validating order (PS1.5+)
+2016-05-12 10:57:17 1463043432 DEBUG: Cart 950: Order 135 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-12 10:57:19 1463043439 DEBUG: Cart 950: Customer is back from E-Transactions payment page. Payment success.
+2016-05-12 17:34:13 1463067253 DEBUG: URL to check 2
+2016-05-12 17:34:13 1463067253 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-12 17:34:13 1463067253 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-12 17:34:13 1463067253 DEBUG: Cart 963: Redirecting customer to E-Transactions (CARTE, CB).
+2016-05-12 17:36:59 1463067419 DEBUG: Call params: M=4300&R=963%20-%20Alexia%20Dupont&T=628778004&A=324188&B=0&C=Visa&D=1904&E=00000&G=D&H=A18D56081731BB39F05B1C54F9D30B4089E2D456&I=FRA&J=&N=&P=CARTE&Q=17%3A34%3A15&S=624711709&W=12052016&Y=FRA&K=eJCIBBeFj7jn2mPNDydpW6WFW1CYEDZkGH6zJfKPLAjfbg7CiYwJAzWpfNZGQbib7mDlal0zq%2FJVTLDY447zDOiqKOpIi7YOolC%2FrdN%2BBDumES9t3BzD4Cb1p0SxCyMQNkEH0q5fpS6%2BS5lFqEm0iJ4td2n7IdHPT806HWXKzt4%3D
+2016-05-12 17:36:59 1463067419 DEBUG: Cart 963: Standard IPN
+2016-05-12 17:36:59 1463067419 DEBUG: Cart 963: Validating order (PS1.5+)
+2016-05-12 17:37:04 1463067419 DEBUG: Cart 963: Order 136 / Le paiement a été autorisé et capturé par E-Transactions.

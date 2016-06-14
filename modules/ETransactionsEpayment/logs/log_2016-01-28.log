@@ -1,0 +1,8 @@
+2016-01-28 09:47:23 1453970843 DEBUG: URL to check 2
+2016-01-28 09:47:23 1453970843 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-28 09:47:23 1453970843 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-28 09:47:23 1453970843 DEBUG: Cart 81: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-28 09:48:10 1453970890 DEBUG: Call params: M=6100&R=81%20-%20Marie%20Laval&T=601785796&A=R25175&B=0&C=MasterCard&D=1609&E=00000&G=D&H=279ADA29405027EADCAD7E03631889D96AA5DB71&I=AUS&J=&N=&P=CARTE&Q=09%3A47%3A27&S=601627563&W=28012016&Y=AUS&K=EEm0fM2emqjWhR6HneHviRPA55KTsVpeywW160EYA0IXfhzeOB4asv0ebmmhwlf4fuxO7in4wG4wox1333EUohgddblPzRQiFfSBibBUuntCI5CnlAo6IcaG6paGvwQzFhaGDqHwFLou9vhpXSxh2s22jlMS05ZgyKwSPANK8Cg%3D
+2016-01-28 09:48:10 1453970890 DEBUG: Cart 81: Standard IPN
+2016-01-28 09:48:10 1453970890 DEBUG: Cart 81: Validating order (PS1.5+)
+2016-01-28 09:48:16 1453970890 DEBUG: Cart 81: Order 22 / Le paiement a été autorisé et capturé par E-Transactions.

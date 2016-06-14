@@ -1,0 +1,15 @@
+2016-03-19 17:22:13 1458404532 DEBUG: URL to check 2
+2016-03-19 17:22:13 1458404532 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-19 17:22:18 1458404532 DEBUG:   Exception Exception: name lookup timed out
+2016-03-19 17:22:18 1458404532 DEBUG: Checking E-Transactions URL https://tpeweb1.e-transactions.fr/load.html
+2016-03-19 17:22:22 1458404542 DEBUG: URL to check 2
+2016-03-19 17:22:22 1458404542 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-19 17:22:22 1458404542 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-19 17:22:22 1458404542 DEBUG: Cart 554: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-03-19 17:22:23 1458404532 DEBUG:   Exception Exception: name lookup timed out
+2016-03-19 17:22:23 1458404532 DEBUG: No valid URL found!
+2016-03-19 17:23:01 1458404581 DEBUG: Call params: M=3900&R=554%20-%20Jeannine%20%20LARDY&T=616911544&A=976081&B=0&C=MasterCard&D=1909&E=00000&G=D&H=BF150E9F88B6DA2D68201BC7C88998FD10A63C85&I=FRA&J=&N=&P=CARTE&Q=17%3A22%3A23&S=614266138&W=19032016&Y=FRA&K=e8uKSHAMgfQlaLQKYou6prZjnQq8p9UOyB1sMZcTw%2F4JamrJCbIrooKRBT5BALmGv9hBxx3l3Uxu2K97rlDkIxAEbFK2T8X72QZgIixeq4i42Sd9%2Fv9VEH2AFL%2Bx9oSmkTbDhE4bFVwPPWpS3t6uJaER2VSAR0x0NIEs6mFEwCw%3D
+2016-03-19 17:23:01 1458404581 DEBUG: Cart 554: Standard IPN
+2016-03-19 17:23:01 1458404581 DEBUG: Cart 554: Validating order (PS1.5+)
+2016-03-19 17:23:06 1458404581 DEBUG: Cart 554: Order 76 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-19 17:23:19 1458404599 DEBUG: Cart 554: Customer is back from E-Transactions payment page. Payment success.

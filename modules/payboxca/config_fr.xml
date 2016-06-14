@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>payboxca</name>
+	<displayName><![CDATA[Cr&eacute;dit Agricole]]></displayName>
+	<version><![CDATA[3.4.2]]></version>
+	<description><![CDATA[Ce module de paiement Cr&eacute;dit Agricole permet &agrave; vos clients de payer par carte de cr&eacute;dit]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

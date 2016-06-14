@@ -1,0 +1,17 @@
+2016-02-04 10:12:23 1454577143 DEBUG: URL to check 2
+2016-02-04 10:12:23 1454577143 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-04 10:12:23 1454577143 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-04 10:12:23 1454577143 DEBUG: Cart 154: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-04 10:13:31 1454577211 DEBUG: Call params: M=3400&R=154%20-%20Michelle%20lomont&T=603947903&A=622393&B=0&C=Visa&D=1611&E=00000&G=D&H=69D51D5B48D7535E1819998A2A1CAA7C403D22A1&I=FRA&J=&N=&P=CARTE&Q=10%3A12%3A25&S=603456477&W=04022016&Y=FRA&K=laf16ZbmfafExecROyzEM6heevdNVdo2OaZXgJ0K4JODFxBC75ecOWsN7700KM6Th8r8QnXAiexaOpcrqMLoWyJQLs4NuURxtoTqB6kY%2B9FiZFDqkSuutvPc3Yfmbu2Nm3sXGAgH9NZ6dLwMCXXr%2FqR6Zk3t2HNQK4oyDjHVOCA%3D
+2016-02-04 10:13:31 1454577211 DEBUG: Cart 154: Standard IPN
+2016-02-04 10:13:31 1454577211 DEBUG: Cart 154: Validating order (PS1.5+)
+2016-02-04 10:13:37 1454577211 DEBUG: Cart 154: Order 28 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-04 14:12:32 1454591552 DEBUG: URL to check 2
+2016-02-04 14:12:32 1454591552 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-04 14:12:32 1454591552 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-04 14:12:32 1454591552 DEBUG: Cart 159: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-04 14:13:10 1454591590 DEBUG: Call params: M=5100&R=159%20-%20Rachel%20yvroud&T=604023813&A=201874&B=0&C=Visa&D=1606&E=00000&G=D&H=8687A0A126E05FA7BBFBACC8D98571F7AC1D7FCD&I=FRA&J=&N=&P=CARTE&Q=14%3A12%3A33&S=603518273&W=04022016&Y=FRA&K=YfEUeFavIyLaUrgI1Kas0kzeTNPJFygH7IwoDwmJ82BKGHDFb%2BA3Pbqz84SbcgHr0pkV%2B3m%2FbC5jTOCtsuoZZx1V%2FQ%2FpmxjLE61ueRj%2BtlDGpH4Hn1xneaIYlNqvQw71k%2B3Gqcx90gq0rLAqt8W7JjiMg07pFAvJcniisjxfvlU%3D
+2016-02-04 14:13:10 1454591590 DEBUG: Cart 159: Standard IPN
+2016-02-04 14:13:10 1454591590 DEBUG: Cart 159: Validating order (PS1.5+)
+2016-02-04 14:13:15 1454591590 DEBUG: Cart 159: Order 29 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-04 14:13:19 1454591599 DEBUG: Cart 159: Customer is back from E-Transactions payment page. Payment success.

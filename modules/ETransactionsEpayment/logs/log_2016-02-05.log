@@ -1,0 +1,26 @@
+2016-02-05 12:15:35 1454670935 DEBUG: URL to check 2
+2016-02-05 12:15:36 1454670935 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-05 12:15:36 1454670935 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-05 12:15:36 1454670935 DEBUG: Cart 155: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-05 12:42:08 1454672528 DEBUG: Cart 155: Customer is back fromE-Transactions payment page. Payment refused by E-Transactions (30).
+2016-02-05 12:42:13 1454672533 DEBUG: URL to check 2
+2016-02-05 12:42:13 1454672533 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-05 12:42:13 1454672533 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-05 12:42:13 1454672533 DEBUG: Cart 155: Redirecting customer to E-Transactions (CARTE, CB).
+2016-02-05 13:08:02 1454674082 DEBUG: URL to check 2
+2016-02-05 13:08:02 1454674082 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-05 13:08:03 1454674082 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-05 13:08:03 1454674082 DEBUG: Cart 155: Redirecting customer to E-Transactions (CARTE, CB).
+2016-02-05 13:10:04 1454674204 DEBUG: URL to check 2
+2016-02-05 13:10:04 1454674204 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-05 13:10:05 1454674204 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-05 13:10:05 1454674204 DEBUG: Cart 155: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-05 13:37:41 1454675860 DEBUG: URL to check 2
+2016-02-05 13:37:41 1454675860 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-05 13:37:41 1454675860 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-05 13:37:41 1454675860 DEBUG: Cart 170: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-05 13:38:12 1454675892 DEBUG: Call params: M=6700&R=170%20-%20Aurelie%20MIGLIOR&T=604340013&A=582104&B=0&C=Visa&D=1806&E=00000&G=D&H=3471FE9CB835EE078D6812B27E71EC8CAFBA7B2E&I=FRA&J=&N=&P=CARTE&Q=13%3A37%3A42&S=603785543&W=05022016&Y=FRA&K=1Mvzz%2Fh2MBnYF1Aadwt5RFl6fYBqYC%2BF21%2F971comErOlZAHAHhViShorethBbfoLSwZ%2B8cxzDPvT0qwgAjaCTciv%2FaIC6UFCC7YAErAh8gcHznB2BQfvCA8F1oRJq9afKBy02Qg67ixP29RjLDPCaNcpXh6qeAh443MPGu%2BIRg%3D
+2016-02-05 13:38:12 1454675892 DEBUG: Cart 170: Standard IPN
+2016-02-05 13:38:12 1454675892 DEBUG: Cart 170: Validating order (PS1.5+)
+2016-02-05 13:38:16 1454675892 DEBUG: Cart 170: Order 30 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-05 14:04:45 1454677485 DEBUG: Cart 170: Customer is back from E-Transactions payment page. Payment success.

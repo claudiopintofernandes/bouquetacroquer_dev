@@ -1,0 +1,19 @@
+2016-05-17 11:35:53 1463477752 DEBUG: URL to check 2
+2016-05-17 11:35:53 1463477752 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-17 11:35:53 1463477752 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-17 11:35:53 1463477752 DEBUG: Cart 966: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-17 11:36:50 1463477810 DEBUG: Call params: M=3800&R=966%20-%20Laura%20gillet&T=629283111&A=756639&B=0&C=MasterCard&D=1803&E=00000&G=D&H=2C4719A25AF8FED2D338593A8B5374D0B3AB638D&I=FRA&J=&N=&P=CARTE&Q=11%3A35%3A54&S=625213636&W=17052016&Y=FRA&K=luxTCQ3R8PFTenQ2msvm3Elroyqxyopvlo08FekrzeiO2PUYZhqiMC1xhc08f0A5eBggYC9TG%2F6ayxz3UgCt70pkW2as36%2B7lp0m3u1Nls6BDSiDU%2F%2BPWjA%2BoQm2Xr%2F%2BhkQbdTkP32%2BZPJ7uoD79gnql4Gy%2FRD1vVvybZynHyQs%3D
+2016-05-17 11:36:50 1463477810 DEBUG: Cart 966: Standard IPN
+2016-05-17 11:36:50 1463477810 DEBUG: Cart 966: Validating order (PS1.5+)
+2016-05-17 11:36:55 1463477815 DEBUG: Cart 966: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2016-05-17 11:36:56 1463477816 DEBUG: Cart 966: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2016-05-17 11:36:56 1463477810 DEBUG: Cart 966: Order 140 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-17 11:36:57 1463477817 DEBUG: Cart 966: Customer is back from E-Transactions payment page. Payment success.
+2016-05-17 21:43:56 1463514236 DEBUG: URL to check 2
+2016-05-17 21:43:56 1463514236 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-17 21:43:56 1463514236 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-17 21:43:56 1463514236 DEBUG: Cart 1011: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-17 21:45:19 1463514319 DEBUG: Call params: M=5600&R=1011%20-%20Helene%20Coutand&T=629375990&A=522861&B=0&C=Visa&D=1705&E=00000&G=D&H=DC56DEDC079870E84FD5C270B642ED2293427F95&I=FRA&J=&N=&P=CARTE&Q=21%3A43%3A57&S=625303727&W=17052016&Y=FRA&K=eEmH%2FxRsS3VPrm04WioI3mkIEW%2Fqvu%2BLedqbNnwpTvD6m0VKb9EzVwPa%2Bfvtr7zEssHkWvdiGMiXr%2Fz70YUH3%2BcMmUC47iwFA0azF7hP3DYWpETN16Ae9jr6RXAQU6flu%2Fvr1kdNSiyQP8IvTMzkLseO0xByfRgXrrsZswxMT4o%3D
+2016-05-17 21:45:19 1463514319 DEBUG: Cart 1011: Standard IPN
+2016-05-17 21:45:19 1463514319 DEBUG: Cart 1011: Validating order (PS1.5+)
+2016-05-17 21:45:25 1463514319 DEBUG: Cart 1011: Order 141 / Le paiement a été autorisé et capturé par E-Transactions.

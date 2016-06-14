@@ -1,0 +1,24 @@
+2016-05-22 12:48:01 1463914081 DEBUG: URL to check 2
+2016-05-22 12:48:01 1463914081 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-22 12:48:01 1463914081 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-22 12:48:01 1463914081 DEBUG: Cart 1068: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-22 12:48:55 1463914135 DEBUG: Call params: M=4600&R=1068%20-%20Joelle%20MORENO&T=629897474&A=951210&B=0&C=Visa&D=1701&E=00000&G=D&H=C249D302616A617BE918BB63B167EDBAEC893A61&I=FRA&J=&N=&P=CARTE&Q=12%3A48%3A02&S=625828113&W=22052016&Y=FRA&K=3ZQ51eXW37VX8PVilmJAZ%2FYFGjxBiyVKRFxsLtnLcS9aSLIO5ZyKE82TUYxrlEoloamfLRs%2F5nm2fSjixMEtMwN6LCVxmj4EdJFNnJMmx05O4m22aH5zx2kaKnv1fmuGKBs3qL%2F%2FW5SBeFqXEV7HCBrwKMqdACel%2FC%2BRwM8Udbw%3D
+2016-05-22 12:48:55 1463914135 DEBUG: Cart 1068: Standard IPN
+2016-05-22 12:48:55 1463914135 DEBUG: Cart 1068: Validating order (PS1.5+)
+2016-05-22 12:49:00 1463914135 DEBUG: Cart 1068: Order 145 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-22 12:49:03 1463914143 DEBUG: Cart 1068: Customer is back from E-Transactions payment page. Payment success.
+2016-05-22 16:17:26 1463926646 DEBUG: URL to check 2
+2016-05-22 16:17:26 1463926646 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-22 16:17:26 1463926646 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-22 16:17:26 1463926646 DEBUG: Cart 1072: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-22 16:17:56 1463926676 DEBUG: Call params: M=3400&R=1072%20-%20Thierry%20BARBARY&T=629922916&B=0&C=EUROCARD_MASTERCARD&D=1809&E=00004&H=88C7C8940D0FA5D2E61C777C62495EBB14810F86&I=FRA&J=&N=&P=CARTE&Q=16%3A17%3A27&S=625852927&W=22052016&K=1UKSZrTc4dmflSwpYe03L9Xn3G21LxqnNqZO0RmXIXtvJuUqLMh19eY49Vl5Zwfda2WXuQIpFmJHJ16WkBny5bbFI9Bu2Ln%2Btr9dSgbTAUqlI1F0YI5yhfViO2z1W0k4QP9ktjRQtflvdWn9LXLFwE8zQmOzLiAl8pfcjvf3oL4%3D
+2016-05-22 16:17:56 1463926676 DEBUG: Cart 1072: (IPN) Payment was refused by E-Transactions(4).
+2016-05-22 16:18:02 1463926682 DEBUG: Cart 1072: Customer is back fromE-Transactions payment page. Payment refused by E-Transactions (4).
+2016-05-22 16:18:09 1463926689 DEBUG: URL to check 2
+2016-05-22 16:18:09 1463926689 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-22 16:18:10 1463926689 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-22 16:18:10 1463926689 DEBUG: Cart 1072: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-22 16:18:41 1463926721 DEBUG: Call params: M=3400&R=1072%20-%20Thierry%20BARBARY&T=629922999&A=537521&B=0&C=MasterCard&D=1809&E=00000&G=D&H=6B4D4F95C5DD82B95463614D5A1B4EF8F7795840&I=FRA&J=&N=&P=CARTE&Q=16%3A18%3A11&S=625853013&W=22052016&Y=FRA&K=yFTiw95K7YtQklKwUHgK6kDcJopCAhdAgLAQkmtmopv9mRjd5q8swcBvaXcYQTx8CwEsGVJm8yUFrNRnsqM%2F1LRvS%2BgjU7a9eFY3CkoTpMbrwxY4oLAzV7jVK6A6OoHX8rcJPEbghiBNkgxrXJnOJx70OngklEzK5z6sy3kh%2BNE%3D
+2016-05-22 16:18:41 1463926721 DEBUG: Cart 1072: Standard IPN
+2016-05-22 16:18:41 1463926721 DEBUG: Cart 1072: Validating order (PS1.5+)
+2016-05-22 16:18:46 1463926721 DEBUG: Cart 1072: Order 146 / Le paiement a été autorisé et capturé par E-Transactions.

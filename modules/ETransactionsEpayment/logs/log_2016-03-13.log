@@ -1,0 +1,10 @@
+2016-03-13 21:37:14 1457901434 DEBUG: URL to check 2
+2016-03-13 21:37:14 1457901434 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-13 21:37:14 1457901434 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-13 21:37:14 1457901434 DEBUG: Cart 513: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-13 21:38:25 1457901505 DEBUG: Call params: M=4800&R=513%20-%20Christelle%20Devaud&T=615017301&A=608213&B=0&C=Visa&D=1605&E=00000&G=D&H=09AA2AE493E54237E27DC6B58B72A994AD28B3F8&I=FRA&J=&N=&P=CARTE&Q=21%3A37%3A16&S=612735105&W=13032016&Y=FRA&K=HdlC9LJqsjoeCYHpwXeBqcelFg8IycEUSm6x5AebNXpswfMPYoOESEmFK4xNExDuTidTvDD5%2FszazQ7Gf2R69tpI2xAnYBj46pk9DTDOw1WOSyrt7tyAaM4C0w3tI2tQQFFRN7bbQUyE9LXeEzQII40suEhH8JZS5wO3J8woiRE%3D
+2016-03-13 21:38:25 1457901505 DEBUG: Cart 513: Standard IPN
+2016-03-13 21:38:25 1457901505 DEBUG: Cart 513: Validating order (PS1.5+)
+2016-03-13 21:38:30 1457901510 DEBUG: Cart 513: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2016-03-13 21:38:31 1457901505 DEBUG: Cart 513: Order 70 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-13 21:38:31 1457901511 DEBUG: Cart 513: Customer is back from E-Transactions payment page. Payment success.

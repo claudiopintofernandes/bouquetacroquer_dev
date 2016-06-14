@@ -1,0 +1,9 @@
+2016-03-20 16:08:46 1458486526 DEBUG: URL to check 2
+2016-03-20 16:08:46 1458486526 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-20 16:08:46 1458486526 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-20 16:08:46 1458486526 DEBUG: Cart 566: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-20 16:09:40 1458486580 DEBUG: Call params: M=7300&R=566%20-%20Marguerite%20Steib&T=617151896&A=273490&B=0&C=Visa&D=1806&E=00000&G=D&H=F86D301C78692726044C4C7B30C987A08C5F765C&I=FRA&J=&N=&P=CARTE&Q=16%3A08%3A47&S=614479188&W=20032016&Y=FRA&K=H4oUarQWbKQIYusoMuKmNk8QxpR9IxCUz9Rq%2FmJ6Toa0xRcCWomCxq2xsFub0zwWWcFdEIxqMD7TxpYEIhzY7OJWJsqS3ZHfvWXtBY4GAzupnwAkbzd1TJ5gJ1Fs7LqFAFzXIdIa1dn5zgXIgiNE2mxgUZtLlFyu2Kimv40ZTV0%3D
+2016-03-20 16:09:40 1458486580 DEBUG: Cart 566: Standard IPN
+2016-03-20 16:09:40 1458486580 DEBUG: Cart 566: Validating order (PS1.5+)
+2016-03-20 16:09:45 1458486580 DEBUG: Cart 566: Order 77 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-20 16:10:16 1458486616 DEBUG: Cart 566: Customer is back from E-Transactions payment page. Payment success.

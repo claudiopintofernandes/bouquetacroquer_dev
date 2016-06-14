@@ -1,0 +1,9 @@
+2016-02-07 12:06:04 1454843164 DEBUG: URL to check 2
+2016-02-07 12:06:04 1454843164 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-07 12:06:04 1454843164 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-07 12:06:04 1454843164 DEBUG: Cart 172: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-02-07 12:07:28 1454843248 DEBUG: Call params: M=8300&R=172%20-%20Beatrice%20CHATENDEAU&T=604869887&A=983249&B=0&C=MasterCard&D=1811&E=00000&G=D&H=CB449D96C2B0D33FECF6AC90DD577A8C575CD900&I=FRA&J=&N=&P=CARTE&Q=12%3A06%3A07&S=604226752&W=07022016&Y=FRA&K=W8IGISPo3JNoPZMCel2px3I1O9yzf9ODfTJUb0Dyb7l2biEBN8brnJjhernH3fzszXWbv2JKq38NEirNhRkRauYVEiHm4%2BE4MKHARZanDRb23qrA5BTYZEzc4GhFFHohXPLhAPWIp2mOFZtDe2rR1KeJellx%2BnLErR1Km9uQ9FU%3D
+2016-02-07 12:07:28 1454843248 DEBUG: Cart 172: Standard IPN
+2016-02-07 12:07:28 1454843248 DEBUG: Cart 172: Validating order (PS1.5+)
+2016-02-07 12:07:33 1454843248 DEBUG: Cart 172: Order 33 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-07 12:07:53 1454843273 DEBUG: Cart 172: Customer is back from E-Transactions payment page. Payment success.

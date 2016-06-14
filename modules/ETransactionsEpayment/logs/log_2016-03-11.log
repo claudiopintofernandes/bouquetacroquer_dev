@@ -1,0 +1,26 @@
+2016-03-11 09:32:58 1457685178 DEBUG: URL to check 2
+2016-03-11 09:32:58 1457685178 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-11 09:32:58 1457685178 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-11 09:32:58 1457685178 DEBUG: Cart 486: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-03-11 09:33:46 1457685226 DEBUG: Call params: M=10300&R=486%20-%20Valerie%20Soubielle&T=614230086&A=066287&B=0&C=MasterCard&D=1710&E=00000&G=D&H=E4A3EA0A3218671A1A7C3F495E02CE274FD64821&I=FRA&J=&N=&P=CARTE&Q=09%3A32%3A59&S=612084771&W=11032016&Y=FRA&K=GrU0pmgJwsHcMSuFuUCfJeqxFTETmEAxQSkfYlSNGbOZtiOScjtTHAmybTyEfnMC%2B2jdOdRuOTG1PvlVgXkc68xUH18hp141PdGgJpt7yyREPCyM1MMbMhP%2FGJPpjZWsXPsJoK32KYqEyfIVTDG4cYTHWJk42QYIlF8%2F%2BvJ%2BjE4%3D
+2016-03-11 09:33:46 1457685226 DEBUG: Cart 486: Standard IPN
+2016-03-11 09:33:46 1457685226 DEBUG: Cart 486: Validating order (PS1.5+)
+2016-03-11 09:33:50 1457685226 DEBUG: Cart 486: Order 65 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-11 09:33:57 1457685237 DEBUG: Cart 486: Customer is back from E-Transactions payment page. Payment success.
+2016-03-11 11:31:49 1457692309 DEBUG: URL to check 2
+2016-03-11 11:31:49 1457692309 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-11 11:31:49 1457692309 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-11 11:31:49 1457692309 DEBUG: Cart 491: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-11 11:32:28 1457692348 DEBUG: Call params: M=4800&R=491%20-%20Olivia%20tribout&T=614279988&A=024527&B=0&C=Visa&D=1809&E=00000&G=D&H=5DD07AB9DAA06053B361C28D53FDC276B1D56B9F&I=FRA&J=&N=&P=CARTE&Q=11%3A31%3A51&S=612124110&W=11032016&Y=FRA&K=1D6qBQHB%2BoJVi27iozzFzGsVrR7ovs9NnGl19%2BqONSPbrC7XncddBZsHVEFYOSDeH36S08JTqQdHlE8%2B33g0qG%2Fy3zZ0dls5mn1PnXAXgJgJEucmjQ1QiLLxwptnpsYovwlNl9PzXOZB75tlnMYV%2BAPFfzYn9MDCz9yamgLF6Nw%3D
+2016-03-11 11:32:28 1457692348 DEBUG: Cart 491: Standard IPN
+2016-03-11 11:32:28 1457692348 DEBUG: Cart 491: Validating order (PS1.5+)
+2016-03-11 11:32:33 1457692348 DEBUG: Cart 491: Order 66 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-11 11:32:49 1457692369 DEBUG: Cart 491: Customer is back from E-Transactions payment page. Payment success.
+2016-03-11 21:25:57 1457727957 DEBUG: URL to check 2
+2016-03-11 21:25:57 1457727957 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-11 21:25:57 1457727957 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-11 21:25:57 1457727957 DEBUG: Cart 501: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-11 21:27:01 1457728021 DEBUG: Call params: M=3700&R=501%20-%20Marie-Laure%20Charbonnier&T=614481942&A=433207&B=0&C=Visa&D=1804&E=00000&G=D&H=3020ECAEACFABFCC0F7A44EED5064F6225B9D2C8&I=FRA&J=&N=&P=CARTE&Q=21%3A25%3A58&S=612280779&W=11032016&Y=FRA&K=IyX44msJeu2F0k2kiyu9B6Eb%2BxB7AcxWYgXQdU%2BdKaAC8%2Bav9rrjZOH3955i5OyIlFKwsFZ7jKTWa%2BvV8o%2Bfom6BQ2%2FGZ%2BZp8mt8c2UhzlJXoBlHF8jLb1tBBYIIoIE1pYHd%2F8SjGedSTHAoEXcaqxxomsi9yuHuR377w1aRyDA%3D
+2016-03-11 21:27:01 1457728021 DEBUG: Cart 501: Standard IPN
+2016-03-11 21:27:01 1457728021 DEBUG: Cart 501: Validating order (PS1.5+)
+2016-03-11 21:27:06 1457728021 DEBUG: Cart 501: Order 67 / Le paiement a été autorisé et capturé par E-Transactions.

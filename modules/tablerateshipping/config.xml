@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>tablerateshipping</name>
+	<displayName><![CDATA[Table Rate Shipping - PrestaShop Shipping by Zip Code Module]]></displayName>
+	<version><![CDATA[0.7.6]]></version>
+	<description><![CDATA[Setup shipping charges based on zone, country, state/region, city, zip/post code,
+            total weight, total price, total quantity and total volume]]></description>
+	<author><![CDATA[Kahanit]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<confirmUninstall><![CDATA[Uninstalling the module will also delete all data?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

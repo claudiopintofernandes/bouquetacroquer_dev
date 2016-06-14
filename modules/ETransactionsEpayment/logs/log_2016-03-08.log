@@ -1,0 +1,20 @@
+2016-03-08 14:30:24 1457443824 DEBUG: URL to check 2
+2016-03-08 14:30:24 1457443824 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-08 14:30:24 1457443824 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-08 14:30:24 1457443824 DEBUG: Cart 393: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-08 14:30:59 1457443859 DEBUG: Call params: M=4800&R=393%20-%20Peronnet%20AURELIE&T=613266446&A=187367&B=0&C=Visa&D=1805&E=00000&G=D&H=DC1BF79D55309449072CFA4CE8B31D2CE4D7B327&I=FRA&J=&N=&P=CARTE&Q=14%3A30%3A25&S=611296524&W=08032016&Y=FRA&K=A1YQU3L%2Fdmf9%2BIUz3GOQw6jm0jZWOhcVeKAIXgpl90ZwYHGrKL%2BR1nKXrPhYtXvolk7Pvf%2BmQvYPOLfp0tvj%2BCvR8FuWWhLqlgM0Gm0nRwrXq01zXBKKzen85T%2BiqidmHr%2BLXDMeS7x2RTXp9qDk4Wiif6W8ZDVmDry%2BCebAbLY%3D
+2016-03-08 14:30:59 1457443859 DEBUG: Cart 393: Standard IPN
+2016-03-08 14:30:59 1457443859 DEBUG: Cart 393: Validating order (PS1.5+)
+2016-03-08 14:31:06 1457443859 DEBUG: Cart 393: Order 61 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-08 14:31:15 1457443875 DEBUG: Cart 393: Customer is back from E-Transactions payment page. Payment success.
+2016-03-08 15:17:42 1457446662 DEBUG: URL to check 2
+2016-03-08 15:17:42 1457446662 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-08 15:17:42 1457446662 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-08 15:17:42 1457446662 DEBUG: Cart 468: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-08 15:18:17 1457446697 DEBUG: Call params: M=4800&R=468%20-%20Peronnet%20AURELIE&T=613287810&A=126724&B=0&C=Visa&D=1805&E=00000&G=D&H=DC1BF79D55309449072CFA4CE8B31D2CE4D7B327&I=FRA&J=&N=&P=CARTE&Q=15%3A17%3A44&S=611313003&W=08032016&Y=FRA&K=G4kZx%2FPzjNbiIkwg1062a7%2BEv%2Ftie4A57LTwXKwgyhJaFAKXhBALBLAgutpQrQBlt5A3ZM61rXnYvxLwlHL%2Fl5CtA%2BYDCWID9Jjq7eGCa225FKtf5rcvP7cZRYI7g3GoUKCwsyWXYjB5QJ2KLoMHfGsGGi9zdlOqvaUZmTJUgYI%3D
+2016-03-08 15:18:17 1457446697 DEBUG: Cart 468: Standard IPN
+2016-03-08 15:18:17 1457446697 DEBUG: Cart 468: Validating order (PS1.5+)
+2016-03-08 15:18:20 1457446700 DEBUG: Cart 468: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2016-03-08 15:18:21 1457446701 DEBUG: Cart 468: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2016-03-08 15:18:22 1457446697 DEBUG: Cart 468: Order 62 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-08 15:18:23 1457446703 DEBUG: Cart 468: Customer is back from E-Transactions payment page. Payment success.

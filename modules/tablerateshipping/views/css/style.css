@@ -1,0 +1,39 @@
+/**
+ * Overrides carrier shipping with Table Rate Shipping
+ * 
+ * Table Rate Shipping by Kahanit(https://www.kahanit.com/) is licensed under a 
+ * Creative Creative Commons Attribution-NoDerivatives 4.0 International License.
+ * Based on a work at https://www.kahanit.com/.
+ * Permissions beyond the scope of this license may be available at https://www.kahanit.com/.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/.
+ * 
+ * @author    Amit Sidhpura <amit@kahanit.com>
+ * @copyright 2015 Kahanit
+ * @license   http://creativecommons.org/licenses/by-nd/4.0/
+ */
+
+#ktrs-content.bootstrap .panel{padding:0;}
+#ktrs-content.bootstrap .panel .panel-heading{margin:0;}
+#ktrs-content.bootstrap .panel .panel-footer{overflow:hidden;height:auto;margin:0;}
+
+#block-ratetable .action_buttons{margin-bottom:10px;}
+#block-ratetable .panel-footer .action_buttons{margin-bottom:0;}
+
+#tabletablerate{margin-bottom:10px;}
+#tabletablerate tr{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
+#tabletablerate tr td{cursor:pointer;}
+#tabletablerate a{text-decoration:none;}
+
+.bootstrap .Zebra_Pagination,.bootstrap .Zebra_Pagination ul{padding:0;margin:0 !important;}
+.bootstrap .Zebra_Pagination{float:right;}
+.bootstrap .Zebra_Pagination ul li{display:inline;}
+.bootstrap .Zebra_Pagination ul li a,.bootstrap .Zebra_Pagination ul li span{display:inline-block;margin-left:3px;}
+.bootstrap .Zebra_Pagination ul li a.disabled,.bootstrap .Zebra_Pagination ul li a.current{color:white;background-color:#00aff0;border-color:#00aff0;cursor:default;}
+
+.form-control[type="file"]{height:auto;}
+
+.modal-title{margin:0 !important;}
+.panel-heading *,.modal-title *{vertical-align:middle;}
+
+.modal-content .panel{margin:0 !important;}
+.module-text{font-size:1em;clear:both;text-align:right;margin-bottom:20px;}

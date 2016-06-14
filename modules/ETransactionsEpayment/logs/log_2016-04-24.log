@@ -1,0 +1,9 @@
+2016-04-24 11:34:29 1461490469 DEBUG: URL to check 2
+2016-04-24 11:34:29 1461490469 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-24 11:34:29 1461490469 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-24 11:34:29 1461490469 DEBUG: Cart 803: Redirecting customer to E-Transactions (CARTE, CB).
+2016-04-24 11:35:45 1461490545 DEBUG: Call params: M=9700&R=803%20-%20Benedicte%20%20cardon&T=626267070&A=823053&B=0&C=Visa&D=1804&E=00000&G=D&H=F16D7BB381D0FEA9E6186BBA8F2EDBF0F45A3574&I=FRA&J=&N=&P=CARTE&Q=11%3A34%3A30&S=622180793&W=24042016&Y=FRA&K=MV0bafnfIJf433rR5u16w9%2F5fqIsKE%2BQV0VjqrdE1o228sqFdbea2d7aJXH21qyC9D09mU3KYJnkyAUcZZvUBd5PCFBSBFUzVYJhMh%2BFgwJltWYiA7Zgt3FZS1p1i9wY4zG%2BX5oEwhz1SaNYHXUoKhz1HmHhnBwkoJnd59NpFXY%3D
+2016-04-24 11:35:45 1461490545 DEBUG: Cart 803: Standard IPN
+2016-04-24 11:35:45 1461490545 DEBUG: Cart 803: Validating order (PS1.5+)
+2016-04-24 11:35:49 1461490545 DEBUG: Cart 803: Order 112 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-24 11:36:00 1461490560 DEBUG: Cart 803: Customer is back from E-Transactions payment page. Payment success.

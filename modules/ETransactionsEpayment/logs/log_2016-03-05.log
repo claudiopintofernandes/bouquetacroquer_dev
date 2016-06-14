@@ -1,0 +1,12 @@
+2016-03-05 10:48:07 1457171287 DEBUG: URL to check 2
+2016-03-05 10:48:07 1457171287 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-05 10:48:07 1457171287 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-05 10:48:07 1457171287 DEBUG: Cart 437: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-05 10:48:51 1457171331 DEBUG: URL to check 2
+2016-03-05 10:48:51 1457171331 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-05 10:48:51 1457171331 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-05 10:48:51 1457171331 DEBUG: Cart 437: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-03-05 10:50:39 1457171439 DEBUG: Call params: M=5100&R=437%20-%20Chantal%20Dubreuil&T=612165173&A=522118&B=0&C=MasterCard&D=1709&E=00000&G=D&H=FE35AD77E8078DCD2C2F8440D04B0ACF39003923&I=FRA&J=&N=&P=CARTE&Q=10%3A48%3A52&S=610384555&W=05032016&Y=FRA&K=1wQQRquoHscMt%2BV2j1Pbhq1C%2FjTdFfdIlT1MhfmdgRaf0KCyxGHns4by6Y2LPigHuZ%2BTO1FW4RAYL82IZmJkl1pfScDPSRXHW5194ju8YaLktHuPjx4r5HhaF895YkK6s%2F7D22H%2FeiI4%2FXWq9FNoCQhGMbwZENY6vZ0Tbuni7rA%3D
+2016-03-05 10:50:39 1457171439 DEBUG: Cart 437: Standard IPN
+2016-03-05 10:50:39 1457171439 DEBUG: Cart 437: Validating order (PS1.5+)
+2016-03-05 10:50:45 1457171439 DEBUG: Cart 437: Order 52 / Le paiement a été autorisé et capturé par E-Transactions.

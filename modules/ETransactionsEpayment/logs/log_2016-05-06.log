@@ -1,0 +1,9 @@
+2016-05-06 16:51:08 1462546268 DEBUG: URL to check 2
+2016-05-06 16:51:08 1462546268 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-06 16:51:08 1462546268 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-06 16:51:08 1462546268 DEBUG: Cart 882: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-06 16:52:53 1462546373 DEBUG: Call params: M=8600&R=882%20-%20Marie%20Jehannin&T=627973094&A=227957&B=0&C=MasterCard&D=1607&E=00000&G=D&H=33FD377AF9A83F148409116D5CD9F11AA20B1112&I=FRA&J=&N=&P=CARTE&Q=16%3A51%3A10&S=623896065&W=06052016&Y=FRA&K=tGiTRunY74DoZNkzWNRCgygLQtRf5UOIV6k%2FL8OfidwBKVNO%2FYiJP%2FjhV52nAGwuZGrH%2Fpj8HNo2wMSU15rgAKIjPIaQWWXocI38wky6Zc7L2f1hOUhZfMolkXEyb0hC27Ke3Ju2Dp2e7O6iYuj6Ep%2B5vO0r4TwKbZqnLinN%2BxE%3D
+2016-05-06 16:52:53 1462546373 DEBUG: Cart 882: Standard IPN
+2016-05-06 16:52:53 1462546373 DEBUG: Cart 882: Validating order (PS1.5+)
+2016-05-06 16:52:57 1462546373 DEBUG: Cart 882: Order 128 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-06 16:53:13 1462546393 DEBUG: Cart 882: Customer is back from E-Transactions payment page. Payment success.

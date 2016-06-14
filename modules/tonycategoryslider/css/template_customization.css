@@ -1,0 +1,7 @@
+.flexslider.small .flexslider:hover .flex-next:hover, .flexslider.small .flexslider:hover .flex-prev:hover {
+background-color:{$button_color};
+}
+.flexslider.small .flex-next:hover, .flexslider.small .flex-prev:hover {
+background-color:{$button_color};
+}
+.flexslider.small .flex-direction-nav a:hover i{color:#fff;}

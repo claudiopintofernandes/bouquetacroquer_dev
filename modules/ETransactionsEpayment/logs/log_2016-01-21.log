@@ -1,0 +1,48 @@
+2016-01-21 12:11:23 1453374683 DEBUG: URL to check 1
+2016-01-21 12:11:23 1453374683 DEBUG: Checking E-Transactions URL https://preprod-tpeweb.e-transactions.fr/load.html
+2016-01-21 12:11:23 1453374683 DEBUG:   Valid url found: https://preprod-tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-21 12:11:23 1453374683 DEBUG: Cart 1: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-21 12:13:28 1453374808 DEBUG: URL to check 2
+2016-01-21 12:13:28 1453374808 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-21 12:13:28 1453374808 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-21 12:13:28 1453374808 DEBUG: Cart 1: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-21 12:13:37 1453374817 DEBUG: Cart 1: Payment was canceled by user onE-Transactions payment page.
+2016-01-21 14:47:37 1453384057 DEBUG: URL to check 2
+2016-01-21 14:47:37 1453384057 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-21 14:47:37 1453384057 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-21 14:47:37 1453384057 DEBUG: Cart 14: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-21 14:48:26 1453384106 DEBUG: Call params: M=500&R=14%20-%20Benani-Merle%20souad&T=600599858&A=583450&B=0&C=MasterCard&D=1711&E=00000&G=D&H=068E2A0215A6821F4C05520290517E82E14B410E&I=FRA&J=&N=&P=CARTE&Q=14%3A47%3A38&S=600547911&W=21012016&Y=FRA&K=MYWy%2B2foR%2FiULVDmrQtZ6rXvq2KXrdfcjIXxij64XxtJp%2FkDD%2FaCrxBjU2G%2BagJvTHaS0psQSOpMX6M3DyZ9koDjXT8912c%2FRc4GqZtwD%2FMZJErGs63%2Fh0AYQfq067efcXn%2BzxumB%2FvOxyiWiGVOkFpoNYRZU8Q5sc3ZcBMlEvI%3D
+2016-01-21 14:48:26 1453384106 DEBUG: Cart 14: Standard IPN
+2016-01-21 14:48:26 1453384106 DEBUG: Cart 14: Validating order (PS1.5+)
+2016-01-21 14:48:31 1453384106 DEBUG: Cart 14: Order 1 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-01-21 14:48:32 1453384112 DEBUG: Cart 14: Customer is back from E-Transactions payment page. Payment success.
+2016-01-21 16:32:41 1453390361 DEBUG: URL to check 2
+2016-01-21 16:32:41 1453390361 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-21 16:32:41 1453390361 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-21 16:32:41 1453390361 DEBUG: Cart 16: Redirecting customer to E-Transactions (CARTE, CB).
+2016-01-21 16:33:28 1453390408 DEBUG: Call params: M=3400&R=16%20-%20Marie%20Laure%20GUERIN&T=600612916&A=064451&B=0&C=Visa&D=1709&E=00000&G=D&H=3FEA1E63D91E31A967344B12BB728C7CA25868A4&I=FRA&J=&N=&P=CARTE&Q=16%3A32%3A42&S=600560823&W=21012016&Y=FRA&K=Su7vPYiy1R%2Fbm8CG0N5rHzsv4xu9%2Bdvic4uMU1tjhGWoPAAplV5blD1ZmaS%2FZ8rdUnVMESJYZX0hq8cpQfMn8gwCI97KLAwmIL%2Bb5jIovwWlcVfLepE9tdfWsd2QwQXSrLE0umUmT2gPAA%2F%2Feh0Th8kXFq%2BbVfkLayCauO6HmCA%3D
+2016-01-21 16:33:28 1453390408 DEBUG: Cart 16: Standard IPN
+2016-01-21 16:33:28 1453390408 DEBUG: Cart 16: Validating order (PS1.5+)
+2016-01-21 16:33:34 1453390408 DEBUG: Cart 16: Order 2 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-01-21 16:33:40 1453390420 DEBUG: Cart 16: Customer is back from E-Transactions payment page. Payment success.
+2016-01-21 16:36:02 1453390561 DEBUG: URL to check 2
+2016-01-21 16:36:02 1453390561 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-21 16:36:02 1453390561 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-21 16:36:02 1453390561 DEBUG: Cart 9: Redirecting customer to E-Transactions (CARTE, CB).
+2016-01-21 17:20:16 1453393216 DEBUG: URL to check 2
+2016-01-21 17:20:16 1453393216 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-21 17:20:16 1453393216 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-21 17:20:16 1453393216 DEBUG: Cart 12: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-21 17:21:15 1453393275 DEBUG: Call params: M=4300&R=12%20-%20Lucie%20Thevenon&T=600618882&A=636007&B=0&C=MasterCard&D=1603&E=00000&G=D&H=B0FCE8E46BB1ACCC3DA9022D531BFBE307766EF0&I=FRA&J=&N=&P=CARTE&Q=17%3A20%3A18&S=600566754&W=21012016&Y=FRA&K=SJhkeggG8YWvFBf52lvRqJ1JoOnwc2sIkltlASI9sNTRDq8TJ59n6RLaFsHCCaPdO69UCQ2ckZyGBKX1qOii0cGsxw7AyMOFxCMpN7SD%2FIqadQqIFhXuoLNCTmlYFXpe70QD7kdzzkI3ikTg6uUy5aZ7aOQeYM10g96wYXTEbcw%3D
+2016-01-21 17:21:15 1453393275 DEBUG: Cart 12: Standard IPN
+2016-01-21 17:21:15 1453393275 DEBUG: Cart 12: Validating order (PS1.5+)
+2016-01-21 17:21:21 1453393275 DEBUG: Cart 12: Order 3 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-01-21 17:56:28 1453395388 DEBUG: URL to check 2
+2016-01-21 17:56:28 1453395388 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-21 17:56:28 1453395388 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-21 17:56:28 1453395388 DEBUG: Cart 20: Redirecting customer to E-Transactions (CARTE, CB).
+2016-01-21 17:56:32 1453395392 DEBUG: Cart 20: Payment was canceled by user onE-Transactions payment page.
+2016-01-21 21:40:13 1453408813 DEBUG: URL to check 2
+2016-01-21 21:40:13 1453408813 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-21 21:40:13 1453408813 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-21 21:40:13 1453408813 DEBUG: Cart 17: Redirecting customer to E-Transactions (CARTE, VISA).

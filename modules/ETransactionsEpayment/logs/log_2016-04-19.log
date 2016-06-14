@@ -1,0 +1,13 @@
+2016-04-19 20:45:50 1461091550 DEBUG: URL to check 2
+2016-04-19 20:45:50 1461091550 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-19 20:45:50 1461091550 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-19 20:45:50 1461091550 DEBUG: Cart 767: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-04-19 20:46:50 1461091610 DEBUG: URL to check 2
+2016-04-19 20:46:50 1461091610 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-19 20:46:50 1461091610 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-19 20:46:50 1461091610 DEBUG: Cart 767: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-04-19 20:47:26 1461091646 DEBUG: Call params: M=3500&R=767%20-%20Florine%20Pinon&T=625679967&A=404413&B=0&C=MasterCard&D=1902&E=00000&G=D&H=03332FA6362530C9B23B3BD62E8F3EF73F1EEEA8&I=FRA&J=&N=&P=CARTE&Q=20%3A46%3A51&S=621623344&W=19042016&Y=FRA&K=EdVRQ5VwABMMbi2GbS049MM51Im1VbRhBEJc6X%2BFXYux2Y0D%2B5IMhE5tzbZGgMARTF7uWda3NOeN0QNRBrq%2BUwznO6h5%2F5PfwvSCg10R8wBuBnpowV15WUQwGFQ27iEf2LoC2tRnl0k6og%2BBvUJh5fpfoUpWmL50dBHy3GfciSY%3D
+2016-04-19 20:47:26 1461091646 DEBUG: Cart 767: Standard IPN
+2016-04-19 20:47:26 1461091646 DEBUG: Cart 767: Validating order (PS1.5+)
+2016-04-19 20:47:31 1461091646 DEBUG: Cart 767: Order 107 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-19 20:47:34 1461091654 DEBUG: Cart 767: Customer is back from E-Transactions payment page. Payment success.

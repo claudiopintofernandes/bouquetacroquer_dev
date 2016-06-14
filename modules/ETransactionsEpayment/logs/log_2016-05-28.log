@@ -1,0 +1,23 @@
+2016-05-28 15:16:01 1464441361 DEBUG: URL to check 2
+2016-05-28 15:16:01 1464441361 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-28 15:16:01 1464441361 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-28 15:16:01 1464441361 DEBUG: Cart 1234: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-28 18:44:39 1464453879 DEBUG: URL to check 2
+2016-05-28 18:44:39 1464453879 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-28 18:44:39 1464453879 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-28 18:44:39 1464453879 DEBUG: Cart 1245: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-28 18:47:22 1464454042 DEBUG: Call params: M=4100&R=1245%20-%20Evelyne%20Cermolacce&T=630682927&A=209651&B=0&C=Visa&D=1704&E=00000&G=D&H=C5C5153EA9825E61D364C6630EA94636676BD22D&I=FRA&J=&N=&P=CARTE&Q=18%3A44%3A40&S=626615926&W=28052016&Y=FRA&K=jEI2bZSS%2FupLgapGexCLaWK%2FqmeBhOtiE2ENwnFPevqofwfs3V%2FT0xC9ni9TUFfLXkF%2FwodqLvB31mrRlBbCgutIKsO9YE%2FQwbEGceXmr6%2BNz88reN5bG7%2BxA40TV06j2q5og63mSaLCtNdBie1kZHaPyQdHepAc26iXG9ZoNBM%3D
+2016-05-28 18:47:22 1464454042 DEBUG: Cart 1245: Standard IPN
+2016-05-28 18:47:22 1464454042 DEBUG: Cart 1245: Validating order (PS1.5+)
+2016-05-28 18:47:27 1464454042 DEBUG: Cart 1245: Order 164 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-28 20:48:35 1464461315 DEBUG: URL to check 2
+2016-05-28 20:48:35 1464461315 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-28 20:48:35 1464461315 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-28 20:48:35 1464461315 DEBUG: Cart 1247: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-28 20:51:11 1464461471 DEBUG: Call params: M=3600&R=1247%20-%20Chantal%20Pasdeloup&T=630693967&B=0&C=MasterCard&D=1905&E=00105&G=D&H=A94EA1D0BD11D1C4670CE9CF851BCE77B2C447EB&I=FRA&J=&N=&P=CARTE&Q=20%3A48%3A37&S=626626651&W=28052016&Y=FRA&K=AKwh4glQ87SZ6XxAgejZudxJpLG4PCOEGYUzSXQqWA4fIUwlS74AKuHsIsC053UxVB6OkOMwh688zWca27GPxIzmMh%2BqyCMUhf18nRsH1j%2BGuhGY9WVh75aXNvRW%2FK75HeHUiFVXA8ymqX7SbJSoX2WWw%2BMIUhVMLqRMDBY62Ok%3D
+2016-05-28 20:51:11 1464461471 DEBUG: Cart 1247: (IPN) Payment was refused by E-Transactions(105).
+2016-05-28 20:52:03 1464461523 DEBUG: Call params: M=3600&R=1247%20-%20Chantal%20Pasdeloup&T=630693967&A=664820&B=0&C=MasterCard&D=1605&E=00000&G=D&H=58CA2B78773F97A359887B076CD002A20D6DFDC7&I=FRA&J=&N=&P=CARTE&Q=20%3A48%3A37&S=626626707&W=28052016&Y=FRA&K=bz4ZyW4uuKpjl4h4E3hV0eEiMfDMgcQr%2FHjU3yRrOhlbio8LZVy1ysIARUfXv2FtAl3DK3Efoy0sSvR7a7LFtsj7KuNWEH6VGOLjRphuAPUCbzfVDls1QUnMdkXdqnM0ejwFtKR2OMxjyAe3M6iga8NlC5s3Bo7x04bEsI2otQY%3D
+2016-05-28 20:52:03 1464461523 DEBUG: Cart 1247: Standard IPN
+2016-05-28 20:52:03 1464461523 DEBUG: Cart 1247: Validating order (PS1.5+)
+2016-05-28 20:52:07 1464461523 DEBUG: Cart 1247: Order 165 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-28 20:52:17 1464461537 DEBUG: Cart 1247: Customer is back from E-Transactions payment page. Payment success.

@@ -1,0 +1,21 @@
+2016-06-09 14:27:00 1465475220 DEBUG: URL to check 2
+2016-06-09 14:27:00 1465475220 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-09 14:27:00 1465475220 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-09 14:27:00 1465475220 DEBUG: Cart 1372: Redirecting customer to E-Transactions (CARTE, E_CARD).
+2016-06-09 15:48:34 1465480113 DEBUG: URL to check 2
+2016-06-09 15:48:34 1465480113 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-09 15:48:34 1465480113 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-09 15:48:34 1465480113 DEBUG: Cart 1372: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-06-09 15:48:55 1465480135 DEBUG: Call params: M=5200&R=1372%20-%20Jessica%20GRALL&T=632229745&A=492254&B=0&C=Visa&D=1901&E=00000&G=D&H=643037477A01D1204BA926BD0EC19664AFE60898&I=FRA&J=&N=&P=CARTE&Q=15%3A48%3A35&S=628183027&W=09062016&Y=FRA&K=OEN0CT51yd81hc4lvOx5UJABoI4nE6v%2FOV%2FF%2FwAvkEVBDFuILugSKnyBlTAqu1tJhUy7mK0nsziEWeqWEe0KW13VSxw6Wwlf55gw6D5VO9slEeKqSMf90BFq%2FqtizH%2Baz2G4VfC4EBnJ6COPlBhagJ%2BgATTIZN0tNwJKCmxOxf0%3D
+2016-06-09 15:48:55 1465480135 DEBUG: Cart 1372: Standard IPN
+2016-06-09 15:48:55 1465480135 DEBUG: Cart 1372: Validating order (PS1.5+)
+2016-06-09 15:49:00 1465480135 DEBUG: Cart 1372: Order 180 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-09 15:49:03 1465480143 DEBUG: Cart 1372: Customer is back from E-Transactions payment page. Payment success.
+2016-06-09 22:34:51 1465504491 DEBUG: URL to check 2
+2016-06-09 22:34:51 1465504491 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-09 22:34:51 1465504491 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-09 22:34:51 1465504491 DEBUG: Cart 1379: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-06-09 22:35:56 1465504556 DEBUG: Call params: M=4800&R=1379%20-%20Laetitia%20MINNE&T=632280384&A=528693&B=0&C=Visa&D=1611&E=00000&G=D&H=3280C9BE07D3291F27509002848A4E1D933BD6CD&I=FRA&J=&N=&P=CARTE&Q=22%3A34%3A52&S=628233457&W=09062016&Y=FRA&K=MFyDq8UBR8TegVSfNCwozEALddqCQOGpJrOpI78E3Hmfru3SYhZegnP4GsRN3IrFZKk2dbGqqC9CI6apRDffhTI0Wbr8vza4PUahF04TGkyZEGhDgeUeVGlfrgytbUUky61vZP8CkOI7QO715ADaHF%2BxGXNcqMgAAzz5xtwn8s0%3D
+2016-06-09 22:35:56 1465504556 DEBUG: Cart 1379: Standard IPN
+2016-06-09 22:35:56 1465504556 DEBUG: Cart 1379: Validating order (PS1.5+)
+2016-06-09 22:36:00 1465504556 DEBUG: Cart 1379: Order 181 / Le paiement a été autorisé et capturé par E-Transactions.

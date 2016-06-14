@@ -1,0 +1,8 @@
+2016-01-30 15:09:40 1454162980 DEBUG: URL to check 2
+2016-01-30 15:09:40 1454162980 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-30 15:09:40 1454162980 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-30 15:09:40 1454162980 DEBUG: Cart 112: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-01-30 15:10:25 1454163025 DEBUG: Call params: M=9600&R=112%20-%20Geraldine%20%20Porlan-vales&T=602501057&A=542240&B=0&C=Visa&D=1702&E=00000&G=D&H=6E461DA2C651568ADC05CF9F9E4879A4ED876422&I=FRA&J=&N=&P=CARTE&Q=15%3A09%3A46&S=602230030&W=30012016&Y=FRA&K=tIW%2FuMYqxRpqrcbIQXtC%2F4RfOZMkPqEQSsXPQuq6mKNZu6IVck5B3qYpD64DwcY35Gwp0%2BxiZtXNvEqPhipG%2FEStV3oZyT2lgfiPbqlEbTVJXT81JdDFk2pRBBBaCn%2BAhCe9LFfxFrFTu9cOJCitwrRBns4GS3R7CaNTdmOa9GQ%3D
+2016-01-30 15:10:25 1454163025 DEBUG: Cart 112: Standard IPN
+2016-01-30 15:10:25 1454163025 DEBUG: Cart 112: Validating order (PS1.5+)
+2016-01-30 15:10:30 1454163025 DEBUG: Cart 112: Order 24 / Le paiement a été autorisé et capturé par E-Transactions.

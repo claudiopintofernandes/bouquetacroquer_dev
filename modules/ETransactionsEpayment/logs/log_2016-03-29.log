@@ -1,0 +1,37 @@
+2016-03-29 09:35:05 1459236905 DEBUG: URL to check 2
+2016-03-29 09:35:05 1459236905 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-29 09:35:05 1459236905 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-29 09:35:05 1459236905 DEBUG: Cart 612: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-29 13:50:37 1459252237 DEBUG: URL to check 2
+2016-03-29 13:50:37 1459252237 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-29 13:50:40 1459252240 DEBUG: URL to check 2
+2016-03-29 13:50:40 1459252240 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-29 13:50:40 1459252240 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-29 13:50:40 1459252240 DEBUG: Cart 622: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-29 13:50:42 1459252237 DEBUG:   Exception Exception: name lookup timed out
+2016-03-29 13:50:42 1459252237 DEBUG: Checking E-Transactions URL https://tpeweb1.e-transactions.fr/load.html
+2016-03-29 13:50:47 1459252237 DEBUG:   Exception Exception: name lookup timed out
+2016-03-29 13:50:47 1459252237 DEBUG: No valid URL found!
+2016-03-29 13:52:20 1459252340 DEBUG: Call params: M=6100&R=622%20-%20Stephanie%20gillouin&T=619822369&A=119410&B=0&C=Visa&D=1809&E=00000&G=D&H=03EBA13CEA72F2280501C3E7216C380887E71E1A&I=FRA&J=&N=&P=CARTE&Q=13%3A50%3A42&S=616667395&W=29032016&Y=FRA&K=d1VJZmcyF7SuMLi2UrlFrlvCRXcoNNGe9n86jDVcmLVVG%2BRzg2aZszvEs2YCYkEqyIr7WeNghZ7m30UUuw0SXmfUh1sesmn41aIoPoDnFddloxP1sT3GPQEMjZpb%2BTRjDhtjM%2BcxWefaEbELqC9OWVtWv5yHvvWJfeKtNWv%2Bll0%3D
+2016-03-29 13:52:20 1459252340 DEBUG: Cart 622: Standard IPN
+2016-03-29 13:52:20 1459252340 DEBUG: Cart 622: Validating order (PS1.5+)
+2016-03-29 13:52:24 1459252340 DEBUG: Cart 622: Order 86 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-29 13:52:25 1459252345 DEBUG: Cart 622: Customer is back from E-Transactions payment page. Payment success.
+2016-03-29 16:48:16 1459262896 DEBUG: URL to check 2
+2016-03-29 16:48:16 1459262896 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-29 16:48:16 1459262896 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-29 16:48:16 1459262896 DEBUG: Cart 625: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-29 16:48:47 1459262927 DEBUG: Call params: M=3000&R=625%20-%20Sina%20PARTAUD&T=619899389&A=351406&B=0&C=Visa&D=1606&E=00000&G=D&H=9F1453ECAA8FAECC89A507B809CCB952C10AD35E&I=FRA&J=&N=&P=CARTE&Q=16%3A48%3A17&S=616726348&W=29032016&Y=FRA&K=Z2vNAHaZY441%2BTpLJlm6nuRjAKhYLgKSomu0ZzAIUjjF7sZF8%2BR1i%2F%2Fr33FlK4jwIyrqIlFTvmkMA5TcRnmdmFcN0nDYJFtItm1JKqpYkCwlvMU%2BQ51YdAFs2i9XgGtEmrHgKEWJt614mI467Om5kC7V7ctYIqgtud2ol5a1RHI%3D
+2016-03-29 16:48:47 1459262927 DEBUG: Cart 625: Standard IPN
+2016-03-29 16:48:47 1459262927 DEBUG: Cart 625: Validating order (PS1.5+)
+2016-03-29 16:48:51 1459262927 DEBUG: Cart 625: Order 87 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-29 16:48:54 1459262934 DEBUG: Cart 625: Customer is back from E-Transactions payment page. Payment success.
+2016-03-29 23:24:49 1459286689 DEBUG: URL to check 2
+2016-03-29 23:24:49 1459286689 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-29 23:24:49 1459286689 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-29 23:24:49 1459286689 DEBUG: Cart 627: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-29 23:25:41 1459286741 DEBUG: Call params: M=1700&R=627%20-%20Cecilia%20DEPRESLE&T=620043482&A=645225&B=0&C=Visa&D=1807&E=00000&G=D&H=0AC779A7D79C592452DB9FF9D0CA488B20D9FC89&I=FRA&J=&N=&P=CARTE&Q=23%3A24%3A50&S=616838578&W=29032016&Y=FRA&K=biiwgOwNDFa%2F4DwOpIjFyZSqyQtKvCFSP%2F34Ni7MfqNG168NdycAZ%2FCeOCwmdJFNkwj%2B%2F27eDSOBU8SrEwK5aIwH3RGxDixkhY%2FKQbLGi3ERV6bZH6tNAWC9Z167HmZNZAteO7mFBkNi1Q%2FHn1N7UQdjtJyhbCXxhhaUggyydmE%3D
+2016-03-29 23:25:41 1459286741 DEBUG: Cart 627: Standard IPN
+2016-03-29 23:25:41 1459286741 DEBUG: Cart 627: Validating order (PS1.5+)
+2016-03-29 23:25:45 1459286741 DEBUG: Cart 627: Order 88 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-29 23:26:01 1459286761 DEBUG: Cart 627: Customer is back from E-Transactions payment page. Payment success.

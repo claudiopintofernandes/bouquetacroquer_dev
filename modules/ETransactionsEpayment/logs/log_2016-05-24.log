@@ -1,0 +1,19 @@
+2016-05-24 13:18:20 1464088700 DEBUG: URL to check 2
+2016-05-24 13:18:20 1464088700 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-24 13:18:20 1464088700 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-24 13:18:20 1464088700 DEBUG: Cart 1112: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-24 13:19:47 1464088787 DEBUG: Call params: M=4100&R=1112%20-%20Mathieu%20Bromet&T=630177080&A=082338&B=0&C=Visa&D=1809&E=00000&G=D&H=99EB4A79C75FFF873C090A737C7DACB815D7636C&I=FRA&J=&N=&P=CARTE&Q=13%3A18%3A22&S=626107467&W=24052016&Y=FRA&K=R%2B1PDQMOPwvbMadrCL4aBgoPzgDEQ9CKHJ5TUqeFhJ7DEDbgk7%2BQi%2FhD2o3UwP6z026qnJ3bzIh7cZrhBdWMH7X81kfTSWiiLlwssjLRStXY%2B28jLyTS8EuhUF%2BslxF63SAASx6Ffd1Toc5Z1PANJrjhZiIYdJBkrXDpt7kjZnA%3D
+2016-05-24 13:19:47 1464088787 DEBUG: Cart 1112: Standard IPN
+2016-05-24 13:19:47 1464088787 DEBUG: Cart 1112: Validating order (PS1.5+)
+2016-05-24 13:19:50 1464088790 DEBUG: Cart 1112: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2016-05-24 13:19:51 1464088787 DEBUG: Cart 1112: Order 152 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-24 13:19:51 1464088791 DEBUG: Cart 1112: Customer is back from E-Transactions payment page. Payment success.
+2016-05-24 21:59:30 1464119970 DEBUG: URL to check 2
+2016-05-24 21:59:30 1464119970 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-24 21:59:30 1464119970 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-24 21:59:30 1464119970 DEBUG: Cart 1127: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-24 21:59:52 1464119992 DEBUG: Call params: M=2800&R=1127%20-%20Karen%20Quenet&T=630248766&A=512144&B=0&C=Visa&D=1706&E=00000&G=D&H=D21982738B1AD89EEA74A5C9D425C0D2FA6CDE23&I=FRA&J=&N=&P=CARTE&Q=21%3A59%3A32&S=626176185&W=24052016&Y=FRA&K=xt0Ss82HcQDSriZP%2FMOegxi%2FFH8ayZ4WCKoy86ZapwZSZQsW3%2Bla%2Bdu1YL2xwYwIwMppp%2BnOPC8%2BN0ycpFZj4UdVyvLZtUG2uQKwnP5Gjclr0%2BmKUquKKLUFhp0aqNk7qQ9%2FmCvD2R%2F0Bym79X%2FSWf1oBkK8oWmjEIh5%2FOzb6gE%3D
+2016-05-24 21:59:52 1464119992 DEBUG: Cart 1127: Standard IPN
+2016-05-24 21:59:52 1464119992 DEBUG: Cart 1127: Validating order (PS1.5+)
+2016-05-24 21:59:56 1464119992 DEBUG: Cart 1127: Order 153 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-24 21:59:58 1464119998 DEBUG: Cart 1127: Customer is back from E-Transactions payment page. Payment success.

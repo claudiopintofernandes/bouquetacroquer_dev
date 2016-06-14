@@ -1,0 +1,30 @@
+2016-04-10 01:51:11 1460245871 DEBUG: URL to check 2
+2016-04-10 01:51:11 1460245871 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-10 01:51:11 1460245871 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-10 01:51:11 1460245871 DEBUG: Cart 688: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-10 01:54:38 1460246078 DEBUG: Call params: M=3800&R=688%20-%20Isabelle%20lesage&T=623772317&A=333280&B=0&C=Visa&D=1806&E=00000&G=D&H=11003A2AEA57E5557A1BD675274DE1ECBD0EF4B1&I=FRA&J=&N=&P=CARTE&Q=01%3A51%3A13&S=619894488&W=10042016&Y=FRA&K=jhrRXzDNC4AuPsGuLoWX7TZIe%2BMmTwg1Nhe%2FT%2FEaJFvosixIJo1ZNSd5Qi9uswoXxJ7GpO8kN%2BNUB1fpQop1GNacJH39jMB6fGVCEvX%2Fhk3XMdyaBjAhErR4ryFFA9RCzZGx7LCQprAIhm31fx5T%2BImohWcGFSdCsWNGqJBMyw4%3D
+2016-04-10 01:54:38 1460246078 DEBUG: Cart 688: Standard IPN
+2016-04-10 01:54:38 1460246078 DEBUG: Cart 688: Validating order (PS1.5+)
+2016-04-10 01:54:42 1460246078 DEBUG: Cart 688: Order 97 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-10 01:54:56 1460246096 DEBUG: Cart 688: Customer is back from E-Transactions payment page. Payment success.
+2016-04-10 12:29:33 1460284173 DEBUG: URL to check 2
+2016-04-10 12:29:33 1460284173 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-10 12:29:33 1460284173 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-10 12:29:33 1460284173 DEBUG: Cart 673: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-10 12:29:58 1460284197 DEBUG: URL to check 2
+2016-04-10 12:29:58 1460284197 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-10 12:29:58 1460284197 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-10 12:29:58 1460284197 DEBUG: Cart 673: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-10 12:30:05 1460284205 DEBUG: URL to check 2
+2016-04-10 12:30:05 1460284205 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-10 12:30:05 1460284205 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-10 12:30:05 1460284205 DEBUG: Cart 673: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-04-10 12:30:14 1460284214 DEBUG: URL to check 2
+2016-04-10 12:30:14 1460284214 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-10 12:30:14 1460284214 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-10 12:30:14 1460284214 DEBUG: Cart 673: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-10 12:30:53 1460284253 DEBUG: Call params: M=9800&R=673%20-%20Julie%20cuzenard&T=623850338&A=243138&B=0&C=Visa&D=1809&E=00000&G=D&H=0A7A7C7ED5FEC2A0E1287DBD71A936340838360F&I=FRA&J=&N=&P=CARTE&Q=12%3A30%3A15&S=619962447&W=10042016&Y=FRA&K=p62d8ZnXszJPhw3SaEv7MJV%2BDSw%2BPw4lg4n1nQ0%2BE1Bhd6XuLCSUooKXJG8VXmh8tRhWCAeTQUm621SLSr%2F2TbNEUl5T0VBqYkiPDql1or5XwNJzZ3CkACdFvh6k9ZKWYekL%2BExSeqIyBMsr1IbFrBbgI3YiLrxPy8A09WtSTmE%3D
+2016-04-10 12:30:53 1460284253 DEBUG: Cart 673: Standard IPN
+2016-04-10 12:30:53 1460284253 DEBUG: Cart 673: Validating order (PS1.5+)
+2016-04-10 12:30:57 1460284253 DEBUG: Cart 673: Order 98 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-10 12:31:04 1460284264 DEBUG: Cart 673: Customer is back from E-Transactions payment page. Payment success.

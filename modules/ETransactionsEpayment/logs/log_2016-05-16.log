@@ -1,0 +1,9 @@
+2016-05-16 16:56:28 1463410588 DEBUG: URL to check 2
+2016-05-16 16:56:28 1463410588 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-16 16:56:29 1463410588 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-16 16:56:29 1463410588 DEBUG: Cart 1001: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-16 16:57:07 1463410627 DEBUG: Call params: M=3000&R=1001%20-%20Alexia%20Demerle&T=629189756&A=265179&B=0&C=MasterCard&D=1611&E=00000&G=D&H=2E13376EA0E14EF1D2633E8B526AE7F6FCABB87A&I=FRA&J=&N=&P=CARTE&Q=16%3A56%3A30&S=625120122&W=16052016&Y=FRA&K=xZFpzrn3c8minQLDHmjiWUpavD3HVxibAUVbSu%2BOR4M9lQumAZ0tY7iRLt3acAr5XXHGOEUF22NDenR2ji008MNdPeNkzt6l0NnRMSe6qA0G8JxqiEnR3nu0SImUsaKGynPwCngu%2FA2TE3vfvHoCoVLu%2B0SaYqSbhtqWDjVUqg4%3D
+2016-05-16 16:57:07 1463410627 DEBUG: Cart 1001: Standard IPN
+2016-05-16 16:57:07 1463410627 DEBUG: Cart 1001: Validating order (PS1.5+)
+2016-05-16 16:57:11 1463410627 DEBUG: Cart 1001: Order 139 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-16 16:57:19 1463410639 DEBUG: Cart 1001: Customer is back from E-Transactions payment page. Payment success.

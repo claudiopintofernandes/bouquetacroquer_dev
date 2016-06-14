@@ -1,0 +1,29 @@
+2016-05-04 07:41:14 1462340474 DEBUG: URL to check 2
+2016-05-04 07:41:14 1462340474 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-04 07:41:14 1462340474 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-04 07:41:14 1462340474 DEBUG: Cart 880: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-04 07:43:29 1462340609 DEBUG: URL to check 2
+2016-05-04 07:43:29 1462340609 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-04 07:43:29 1462340609 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-04 07:43:29 1462340609 DEBUG: Cart 880: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-04 07:44:16 1462340656 DEBUG: Call params: M=4700&R=880%20-%20Jean%20Michel%20BUTAUD&T=627648137&A=853912&B=0&C=Visa&D=1702&E=00000&G=D&H=CB40689CAF15A641E1F430C78BFC8E0C25325FD3&I=FRA&J=&N=&P=CARTE&Q=07%3A43%3A30&S=623581249&W=04052016&Y=FRA&K=KPSTZqaILp2StlLEuk%2B7T7Rg%2FFSDCrLZn39cTOZ0v51UosBXyQgqSH7pQlvyfojSdpOXxUry8AT1SwuyuozdSDVPz2YNy5Hy8%2FKt9vlQ99pq85qbvAaEDCu75vQLL8AljGMHTKMMsirHZnjdW75WRNbkcZlCg982FBZmAVK2JUk%3D
+2016-05-04 07:44:16 1462340656 DEBUG: Cart 880: Standard IPN
+2016-05-04 07:44:16 1462340656 DEBUG: Cart 880: Validating order (PS1.5+)
+2016-05-04 07:44:21 1462340656 DEBUG: Cart 880: Order 125 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-04 14:39:26 1462365566 DEBUG: URL to check 2
+2016-05-04 14:39:26 1462365566 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-04 14:39:26 1462365566 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-04 14:39:26 1462365566 DEBUG: Cart 887: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-04 14:40:23 1462365623 DEBUG: Call params: M=4900&R=887%20-%20Emmanuelle%20colay&T=627713278&A=635549&B=0&C=MasterCard&D=1609&E=00000&G=D&H=EB07BCB02D2E0959DE304E99C6DD59581A5A3323&I=FRA&J=&N=&P=CARTE&Q=14%3A39%3A27&S=623644243&W=04052016&Y=FRA&K=rmj828hUdpx%2BapkgkZ7eiwHifYhLuZw07OFySm7k55HQupEYuFpO2%2BT5YzypeurCz0BWPs8EdeTOYMeAwTXQ15mb2rU2HiYmdNf%2FycvlNqkwpvHnF14Bt5Kr17%2BTIxaCMLQK5OIG77dPbyVne%2FmeF%2BFpWTndzCRWIrG9NifBEtw%3D
+2016-05-04 14:40:23 1462365623 DEBUG: Cart 887: Standard IPN
+2016-05-04 14:40:23 1462365623 DEBUG: Cart 887: Validating order (PS1.5+)
+2016-05-04 14:40:27 1462365623 DEBUG: Cart 887: Order 126 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-04 14:40:59 1462365659 DEBUG: Cart 887: Customer is back from E-Transactions payment page. Payment success.
+2016-05-04 22:27:25 1462393645 DEBUG: URL to check 2
+2016-05-04 22:27:25 1462393645 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-04 22:27:25 1462393645 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-04 22:27:25 1462393645 DEBUG: Cart 890: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-04 22:29:04 1462393744 DEBUG: Call params: M=6800&R=890%20-%20Yann%20Leluan&T=627773932&A=368531&B=0&C=Visa&D=1704&E=00000&G=D&H=52597A62D97EF210F112FA3AFC4CD4354DBA5E95&I=FRA&J=&N=&P=CARTE&Q=22%3A27%3A27&S=623701741&W=04052016&Y=FRA&K=ZpWb0fuz1I4LOI%2BaLeFOKrN%2F%2BP%2F%2FCSf5LI7lqq3Y96R0StG%2B8zJgmQpvdDAGDXpmFg%2BToSZnHvt65%2ByEQjfInJMB6ypfN4xc4gGFoBIFJBwsli9igXiSjveVgWQXM7i9X5viIm8I0BMp630n0MQMtux636rvGEt7XyjsNmQc%2BxM%3D
+2016-05-04 22:29:04 1462393744 DEBUG: Cart 890: Standard IPN
+2016-05-04 22:29:04 1462393744 DEBUG: Cart 890: Validating order (PS1.5+)
+2016-05-04 22:29:08 1462393744 DEBUG: Cart 890: Order 127 / Le paiement a été autorisé et capturé par E-Transactions.

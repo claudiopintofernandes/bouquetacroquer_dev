@@ -1,0 +1,8 @@
+2016-03-03 13:46:24 1457009184 DEBUG: URL to check 2
+2016-03-03 13:46:24 1457009184 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-03 13:46:24 1457009184 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-03 13:46:24 1457009184 DEBUG: Cart 414: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-03 13:47:06 1457009226 DEBUG: Call params: M=2300&R=414%20-%20Alice%20ARRASSUS&T=611520360&A=513162&B=0&C=Visa&D=1709&E=00000&G=D&H=F164EA09106A7B216E3B5991047FDA21BCA228F0&I=FRA&J=&N=&P=CARTE&Q=13%3A46%3A27&S=609860110&W=03032016&Y=FRA&K=Va9keSDUvQHzrvoRq2LCBFn7NJOPNzLeIukjalmlbS%2BKMV2bLODYarCq%2FfdYZGIWjuW9qoqNwTmDuCPtpCNfrkcKGb8OQOdFGZxrHQHSovtfX0wbvEij8rnukiESDK5C6SLjcFEpyP%2BPvzmFTuBciSrJORzde1TS6aj71cgramw%3D
+2016-03-03 13:47:06 1457009226 DEBUG: Cart 414: Standard IPN
+2016-03-03 13:47:06 1457009226 DEBUG: Cart 414: Validating order (PS1.5+)
+2016-03-03 13:47:11 1457009226 DEBUG: Cart 414: Order 50 / Le paiement a été autorisé et capturé par E-Transactions.

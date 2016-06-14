@@ -1,0 +1,16 @@
+2016-03-09 19:45:09 1457549109 DEBUG: URL to check 2
+2016-03-09 19:45:09 1457549109 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-09 19:45:09 1457549109 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-09 19:45:09 1457549109 DEBUG: Cart 472: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-09 19:45:38 1457549138 DEBUG: Call params: M=2900&R=472%20-%20Quentin%20Gronencheld&T=613758290&A=464506&B=0&C=Visa&D=1705&E=00000&G=D&H=E929012BDB8728507B6E668217605F163145DACD&I=FRA&J=&N=&P=CARTE&Q=19%3A45%3A10&S=611694242&W=09032016&Y=FRA&K=EWdFXYrltA0ZGkZVOuivBYHhm2lTmL4ed%2FhnsgI8HAcBhpdHyvTzUzjYEHwXMxa%2Fqo0oX36N%2Bodfqnl3%2BYyuPFAm0sb6ixrk3RRAyrAjF%2BElZf7oUjAih6dBydqA86FZbRRkaTQRk1IolKpNq4LKr8V6e7HF3ZhXP7aG3%2B3OCy0%3D
+2016-03-09 19:45:38 1457549138 DEBUG: Cart 472: Standard IPN
+2016-03-09 19:45:38 1457549138 DEBUG: Cart 472: Validating order (PS1.5+)
+2016-03-09 19:45:42 1457549142 DEBUG: Cart 472: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2016-03-09 19:45:43 1457549138 DEBUG: Cart 472: Order 63 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-09 19:45:43 1457549143 DEBUG: Cart 472: Customer is back from E-Transactions payment page. Payment success.
+2016-03-09 21:10:55 1457554255 DEBUG: URL to check 2
+2016-03-09 21:10:55 1457554255 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-09 21:11:00 1457554255 DEBUG:   Exception Exception: name lookup timed out
+2016-03-09 21:11:00 1457554255 DEBUG: Checking E-Transactions URL https://tpeweb1.e-transactions.fr/load.html
+2016-03-09 21:11:05 1457554255 DEBUG:   Exception Exception: name lookup timed out
+2016-03-09 21:11:05 1457554255 DEBUG: No valid URL found!

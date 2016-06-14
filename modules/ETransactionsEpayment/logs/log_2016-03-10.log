@@ -1,0 +1,8 @@
+2016-03-10 13:52:54 1457614374 DEBUG: URL to check 2
+2016-03-10 13:52:54 1457614374 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-10 13:52:54 1457614374 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-10 13:52:54 1457614374 DEBUG: Cart 482: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-10 13:53:14 1457614394 DEBUG: Call params: M=5100&R=482%20-%20Merriem%20Gomri&T=613985923&A=961887&B=0&C=Visa&D=1707&E=00000&G=D&H=A52A31FB8EB9B0BEAFFDD6A73C3C647F10833320&I=GBR&J=&N=&P=CARTE&Q=13%3A52%3A56&S=611884129&W=10032016&Y=LUX&K=nmSxa8dUmrd7ILtN8D5kZQafaoFLE1z8%2FZzgr9te5fMQYAu4QXuq3RrGBtSruZc%2FWk6L1dZL1xgFaKy%2B3gRlBNkr4BNZ01s5RvP09G6khx%2FkxiFeV7FLiDgt4htY12hY7gs5ZYPX9pIoPDUuC5caJ0wbXgvQsdYFfjTAdc7jZRc%3D
+2016-03-10 13:53:14 1457614394 DEBUG: Cart 482: Standard IPN
+2016-03-10 13:53:14 1457614394 DEBUG: Cart 482: Validating order (PS1.5+)
+2016-03-10 13:53:18 1457614394 DEBUG: Cart 482: Order 64 / Le paiement a été autorisé et capturé par E-Transactions.

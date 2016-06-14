@@ -1,0 +1,30 @@
+2016-05-25 07:28:24 1464154104 DEBUG: URL to check 2
+2016-05-25 07:28:24 1464154104 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-25 07:28:24 1464154104 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-25 07:28:24 1464154104 DEBUG: Cart 1105: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-25 07:29:02 1464154142 DEBUG: Call params: M=2800&R=1105%20-%20Pierre-Yves%20Fayard&T=630267173&B=0&C=VISA&D=1606&E=00004&H=7C99F72F43CDBC1BED655955A5A5F5F6CFEDCB78&I=FRA&J=&N=&P=CARTE&Q=07%3A28%3A25&S=626197405&W=25052016&K=GVbbyjfC9Ll9sEw8LpEggFYq5uLoSvjSApHDGpHXVRZKqcc9QRGW%2FPCgmN3rwr2QdCl7J32qH7tnNkhC2wT45U6Z3evU8SurdBZJPSglqKkF1SAJeqSmrctDyIU9fwTjMUC69EmJRglinrbpfQu3F1fMeJ2qhwVa97M9vuXPusc%3D
+2016-05-25 07:29:02 1464154142 DEBUG: Cart 1105: (IPN) Payment was refused by E-Transactions(4).
+2016-05-25 07:29:40 1464154180 DEBUG: Call params: M=2800&R=1105%20-%20Pierre-Yves%20Fayard&T=630267173&B=0&C=VISA&D=1606&E=00004&H=7C99F72F43CDBC1BED655955A5A5F5F6CFEDCB78&I=FRA&J=&N=&P=CARTE&Q=07%3A28%3A25&S=626197424&W=25052016&K=W1iBdBFpxr3R4FpBk4u8j4I%2BrlMq8I0D4%2BRRsScn5VMwC1sVl4XxaCOvlJO4oRg796wUqAt99Md9rSsE7ciFX98uMB3R77I0aUL7qA4B2QEZNQ5uYaYxnAK0IXt16WZQXYM8v9eQ%2FK5pfp2%2BQD3vE94415GY5AKsh%2B%2FBsGwJ95o%3D
+2016-05-25 07:29:40 1464154180 DEBUG: Cart 1105: (IPN) Payment was refused by E-Transactions(4).
+2016-05-25 07:30:11 1464154211 DEBUG: URL to check 2
+2016-05-25 07:30:11 1464154211 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-25 07:30:12 1464154211 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-25 07:30:12 1464154211 DEBUG: Cart 1105: Redirecting customer to E-Transactions (CARTE, CB).
+2016-05-25 07:30:49 1464154249 DEBUG: Call params: M=2800&R=1105%20-%20Pierre-Yves%20Fayard&T=630267227&A=132362&B=0&C=Visa&D=1606&E=00000&G=D&H=49FFA910E251FBA12DFE580F0A38686DDA928C39&I=FRA&J=&N=&P=CARTE&Q=07%3A30%3A12&S=626197465&W=25052016&Y=FRA&K=1dyfXyFTKhdnW%2FHAPCe3o1HnFmBc%2Bu6HBhqLUEQGWrnunu8VYI%2Fx7cQaiMvpCb2Mb1JOLCq6VEOPKSpHYQ8rd3AxKRJBgTLYD7yCmJYTJTv0ktMXoKsSlNcTDqCY%2BhWOo60lvVgrGcMUs1M3xz9FyEA3X4N7cGIlBMJngDbrZR8%3D
+2016-05-25 07:30:49 1464154249 DEBUG: Cart 1105: Standard IPN
+2016-05-25 07:30:49 1464154249 DEBUG: Cart 1105: Validating order (PS1.5+)
+2016-05-25 07:30:54 1464154249 DEBUG: Cart 1105: Order 154 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-25 07:30:58 1464154258 DEBUG: Cart 1105: Customer is back from E-Transactions payment page. Payment success.
+2016-05-25 20:32:19 1464201139 DEBUG: URL to check 2
+2016-05-25 20:32:19 1464201139 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-25 20:32:19 1464201139 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-25 20:32:19 1464201139 DEBUG: Cart 1146: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-25 21:11:47 1464203507 DEBUG: URL to check 2
+2016-05-25 21:11:47 1464203507 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-25 21:11:47 1464203507 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-25 21:11:47 1464203507 DEBUG: Cart 1148: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-25 21:12:45 1464203565 DEBUG: Call params: M=5600&R=1148%20-%20Isabelle%20Barret&T=630367883&A=474788&B=0&C=Visa&D=1809&E=00000&G=D&H=35BB8CFE0529A9F96A79659E08B37BFAC9C260E7&I=CHE&J=&N=&P=CARTE&Q=21%3A11%3A48&S=626296679&W=25052016&Y=CHE&K=Y4PyJ6qFfzwkj1NwX75tOW2WssSrOpjNk73gXb4tKX7wZiM8J3ZCMGqyCcc%2FkaGZmSfCErBocNVCemT%2BajILZ2T%2FAVZTS8lhQTBg63NYNlukH3NSN8cS%2BuqLmadFeGHSunO73bzu2hVRc%2Fd28RW1Fr4zbsKp3ot8RJryJpsaNOM%3D
+2016-05-25 21:12:45 1464203565 DEBUG: Cart 1148: Standard IPN
+2016-05-25 21:12:45 1464203565 DEBUG: Cart 1148: Validating order (PS1.5+)
+2016-05-25 21:12:50 1464203565 DEBUG: Cart 1148: Order 155 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-25 21:12:56 1464203576 DEBUG: Cart 1148: Customer is back from E-Transactions payment page. Payment success.

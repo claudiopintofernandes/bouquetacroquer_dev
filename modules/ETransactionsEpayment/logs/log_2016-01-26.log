@@ -1,0 +1,26 @@
+2016-01-26 11:17:36 1453803456 DEBUG: URL to check 2
+2016-01-26 11:17:36 1453803456 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-26 11:17:36 1453803456 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-26 11:17:36 1453803456 DEBUG: Cart 65: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-01-26 11:18:00 1453803480 DEBUG: Call params: M=5100&R=65%20-%20Nicole%20TESSIER&T=601183896&A=585501&B=0&C=Visa&D=1603&E=00000&G=D&H=8F69282C35996AC4BCCE5B76EC8C932A6140CBF9&I=FRA&J=&N=&P=CARTE&Q=11%3A17%3A39&S=601123380&W=26012016&Y=FRA&K=SfdYD4VRvPX0D2nnpPM2fJ%2B05vrgRBs8W37ddOvmgPXHiPXcWVpB9ypM4p%2BQaN2PBjfF%2FxSui6mpuMCurS6oPp2NdRnGyCJopX6NzE2wB4ez1aOHw%2FFp%2FXInJcd5dy%2Bmf8hER6i4qW4FSerUOBj1uCA9n3W5Ga1tWic%2FK%2BuACC4%3D
+2016-01-26 11:18:00 1453803480 DEBUG: Cart 65: Standard IPN
+2016-01-26 11:18:00 1453803480 DEBUG: Cart 65: Validating order (PS1.5+)
+2016-01-26 11:18:07 1453803480 DEBUG: Cart 65: Order 19 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-01-26 11:18:08 1453803488 DEBUG: Cart 65: Customer is back from E-Transactions payment page. Payment success.
+2016-01-26 17:27:56 1453825676 DEBUG: URL to check 2
+2016-01-26 17:27:56 1453825676 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-26 17:27:56 1453825676 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-26 17:27:56 1453825676 DEBUG: Cart 70: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-01-26 17:28:34 1453825714 DEBUG: Call params: M=4900&R=70%20-%20Yann%20THEZENAS&T=601301572&A=131553&B=0&C=Visa&D=1606&E=00000&G=D&H=233AF6F4F6BFD57026734072329D89E4F5277BF9&I=FRA&J=&N=&P=CARTE&Q=17%3A27%3A57&S=601216099&W=26012016&Y=FRA&K=mOo%2F4tMpvDtuWkwiPSZpH2aJOPrk7%2B%2BVFi5Yfb9pAWczDfH3xo8Iv5IcxyHI8MTl1NOJYcnHH2ehOjsf5oPdgpezRUXPxPR5QAX5sGkgvX7lSOBGiCzZ8TpaSszk%2FgdJ%2BLbf%2B0FaWXMhTKIi4irc0oORArw1RpLd21ib1jAecdI%3D
+2016-01-26 17:28:34 1453825714 DEBUG: Cart 70: Standard IPN
+2016-01-26 17:28:34 1453825714 DEBUG: Cart 70: Validating order (PS1.5+)
+2016-01-26 17:28:38 1453825714 DEBUG: Cart 70: Order 20 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-01-26 17:28:42 1453825722 DEBUG: Cart 70: Customer is back from E-Transactions payment page. Payment success.
+2016-01-26 23:56:57 1453849017 DEBUG: URL to check 2
+2016-01-26 23:56:57 1453849017 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-26 23:56:57 1453849017 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-26 23:56:57 1453849017 DEBUG: Cart 76: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-01-26 23:57:45 1453849065 DEBUG: Call params: M=4100&R=76%20-%20Veronique%20RECAMIER-HAMELINE&T=601403523&A=469351&B=0&C=Visa&D=1701&E=00000&G=D&H=6625C9806B9F23F7046161782247D6BFD66E12B6&I=FRA&J=&N=&P=CARTE&Q=23%3A56%3A58&S=601298776&W=26012016&Y=FRA&K=JtamqQw498rJ1Oz3lL0lmhI1P0pySnComRbfiYQQQ%2Bbf3PCsCSFgFEiIwkzpOCJOaOGoRmJ2ath68GvbUj2BVOnNiUm%2FMZq7HLmXTvbYBR0d59wbVgSKlEpkfW%2BsUQOndu5uCkrjW4sc4RRec7P3QgZABlc2xrfgPRe%2Blobifiw%3D
+2016-01-26 23:57:45 1453849065 DEBUG: Cart 76: Standard IPN
+2016-01-26 23:57:45 1453849065 DEBUG: Cart 76: Validating order (PS1.5+)
+2016-01-26 23:57:50 1453849065 DEBUG: Cart 76: Order 21 / Le paiement a été autorisé et capturé par E-Transactions.

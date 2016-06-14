@@ -1,0 +1,20 @@
+2016-03-02 15:51:35 1456930295 DEBUG: URL to check 2
+2016-03-02 15:51:35 1456930295 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-02 15:51:35 1456930295 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-02 15:51:35 1456930295 DEBUG: Cart 404: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-02 15:52:50 1456930369 DEBUG: URL to check 2
+2016-03-02 15:52:50 1456930369 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-02 15:52:50 1456930369 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-02 15:52:50 1456930369 DEBUG: Cart 404: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-02 15:53:31 1456930411 DEBUG: Call params: M=2300&R=404%20-%20Alice%20ARRASSUS&T=611209302&A=419194&B=0&C=Visa&D=1709&E=00000&G=D&H=F164EA09106A7B216E3B5991047FDA21BCA228F0&I=FRA&J=&N=&P=CARTE&Q=15%3A52%3A50&S=609610615&W=02032016&Y=FRA&K=OYcyKzsBb2HtDmPgtVBsyLG10GpekUZ91GpmzBvVr2M5EQbJkvaGi1sowxcc7r09g0YGSNgYA8qboHIgKCZF7pCRC9Zrn6sazbZE2a1K0FA%2BKehGUC%2BzUSiJLGy73HLJKUgaYHZNZVaLhHlP%2BJywOue%2F1p8NI%2F%2F0%2BAydv8GS53w%3D
+2016-03-02 15:53:31 1456930411 DEBUG: Cart 404: Standard IPN
+2016-03-02 15:53:31 1456930411 DEBUG: Cart 404: Validating order (PS1.5+)
+2016-03-02 15:53:37 1456930411 DEBUG: Cart 404: Order 48 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-02 16:03:17 1456930997 DEBUG: URL to check 2
+2016-03-02 16:03:17 1456930997 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-02 16:03:17 1456930997 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-02 16:03:17 1456930997 DEBUG: Cart 405: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-02 16:04:26 1456931066 DEBUG: Call params: M=2300&R=405%20-%20Alice%20ARRASSUS&T=611213177&A=343132&B=0&C=Visa&D=1709&E=00000&G=D&H=F164EA09106A7B216E3B5991047FDA21BCA228F0&I=FRA&J=&N=&P=CARTE&Q=16%3A03%3A18&S=609613773&W=02032016&Y=FRA&K=ikxQ6Mwfz40X4%2F7bXVtVpfIvKFRaXVBvAHhGHNpwXRH1jZ82fXobUzXC0MjMSjkLR%2BSnksBWLtXcIQzWH45jcJT%2FGb9wo51bGVvSsc3QBSnNSy5yzr8yyt%2Fsyq2HpYlcfLjpyVr8SqDk7lhADS92RBkrm4rFQBwT1cCEWjK9zTQ%3D
+2016-03-02 16:04:26 1456931066 DEBUG: Cart 405: Standard IPN
+2016-03-02 16:04:26 1456931066 DEBUG: Cart 405: Validating order (PS1.5+)
+2016-03-02 16:04:30 1456931066 DEBUG: Cart 405: Order 49 / Le paiement a été autorisé et capturé par E-Transactions.

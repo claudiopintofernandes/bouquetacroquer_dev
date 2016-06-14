@@ -1,0 +1,104 @@
+.flexslider.more-views {
+	border:none;
+	box-shadow: none;
+	position: relative;
+}
+@media (max-width: 780px) {
+.flexslider.more-views {
+ margin-bottom:80px;
+}
+}
+.flexslider.more-views ul {
+	padding: 0;
+	list-style: none;
+	display: block;
+	border:none;
+}
+
+.flexslider.more-views .flex-viewport {
+	width:70px;
+	margin-left:-4px;
+	margin-top:-4px;
+	padding: 4px;
+	position:relative;
+}
+.flexslider.more-views .flex-viewport li {
+	width:62px;
+	height:72px;
+	padding: 0;
+	margin:0;
+	box-shadow:none;
+	border-radius:0;
+}
+.flexslider.more-views .flex-viewport li img {
+	display: block;
+	float: none;
+	background-color:#fff;
+	border-radius: 6px;
+	background-color:#fff;
+	box-shadow:         0px 0px 4px rgba(0, 0, 0, 0.27);
+
+}
+.flexslider.more-views .flex-direction-nav {
+	position:absolute;
+	bottom:-50px;
+	right:0px;
+}
+.flexslider.more-views .flex-direction-nav a {
+	position:absolute;
+	width:30px;
+	height:30px;
+	padding:0;
+	font-size:28px;
+	line-height:20px;
+	opacity: 1;
+}
+.flexslider.more-views .flex-direction-nav li { 
+	box-shadow: none;
+}
+
+.flexslider.more-views .flex-direction-nav li i {
+	width:100%;
+	font-size:10px;
+	padding:0;
+	margin:0;
+	vertical-align:middle;
+	font-size:24px;
+	line-height:33px;
+	height:33px;
+	text-align:center;
+}
+.flexslider.more-views .flex-direction-nav li i:hover {	
+	color:#fff;
+}
+.flexslider.more-views .flex-direction-nav li .flex-disabled i:hover {	
+	background: #fff !important;
+}
+.flexslider.more-views .flex-direction-nav a:hover {
+}
+.flexslider.more-views .carousel_nav a.carousel_prev.btn {
+}
+.flexslider.more-views .flex-direction-nav .flex-next {
+	right:8px;
+	left:auto;
+}
+.flexslider.more-views .flex-direction-nav .flex-prev {
+	right:40px;
+	left:auto;
+}
+
+@media (max-width: 1359px) {
+.flexslider.more-views .flex-direction-nav {
+	right:-10px;
+}
+}
+@media (max-width: 639px) {
+.flexslider.more-views .flex-direction-nav {
+	right:0px;
+}
+}
+@media (max-width: 479px) {
+.flexslider.more-views .flex-direction-nav {
+	right:-10px;
+}
+}

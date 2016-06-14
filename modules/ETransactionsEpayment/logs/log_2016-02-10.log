@@ -1,0 +1,9 @@
+2016-02-10 18:41:21 1455126080 DEBUG: URL to check 2
+2016-02-10 18:41:21 1455126080 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-10 18:41:21 1455126080 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-10 18:41:21 1455126080 DEBUG: Cart 216: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-10 18:42:50 1455126170 DEBUG: Call params: M=3500&R=216%20-%20Antoine%20audegond&T=1191852413&A=423516&B=0&C=Visa&D=1609&E=00000&G=D&H=859D524122404644DC93CDBECA3B05275C118B62&I=FRA&J=&N=&P=CARTE&Q=18%3A41%3A22&S=87441649&W=10022016&Y=FRA&K=wqeBwXt0eK51kmPP48TlcJE0Uss8gfxwX3Tcy3JcdG15RyKFaCkfbSVmLEFpW7dSRAh5tKbfn0EqHylGWep%2FF5kyaH0OE06WasL1w71hJSzFYxEmFwoVKv0UriNAd%2FjU6daozPQbmCUaCjSJR80vp4Sj0Pv8NmDatxIH%2BpUOXiU%3D
+2016-02-10 18:42:50 1455126170 DEBUG: Cart 216: Standard IPN
+2016-02-10 18:42:50 1455126170 DEBUG: Cart 216: Validating order (PS1.5+)
+2016-02-10 18:42:54 1455126170 DEBUG: Cart 216: Order 35 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-10 18:43:46 1455126226 DEBUG: Cart 216: Customer is back from E-Transactions payment page. Payment success.

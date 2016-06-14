@@ -1,0 +1,17 @@
+2016-06-07 14:45:25 1465303525 DEBUG: URL to check 2
+2016-06-07 14:45:25 1465303525 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-07 14:45:26 1465303525 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-07 14:45:26 1465303525 DEBUG: Cart 1359: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-06-07 14:46:13 1465303573 DEBUG: Call params: M=4100&R=1359%20-%20Martine%20Berthelemy&T=631928029&A=242363&B=0&C=Visa&D=1706&E=00000&G=D&H=C7C8391A9414DF9CD29D10061A81ADA3884939B3&I=FRA&J=&N=&P=CARTE&Q=14%3A45%3A27&S=627876682&W=07062016&Y=FRA&K=VfvhPuzAhZpf1rer7%2F%2FQEW1Y08JphoSYU0Z6WCrad%2BUTnbj3XsfUNZZlT0FtC4LbRcaWFgJAGdAytDqprzbnD7fW7jM9Ch2KTSwjSsk%2FINfJlRjp9euEPYNwsj3h4Z1O0TQfe69II9nu01o8%2B06sOt%2Fw3aX5yfRroDhS64oazGs%3D
+2016-06-07 14:46:13 1465303573 DEBUG: Cart 1359: Standard IPN
+2016-06-07 14:46:13 1465303573 DEBUG: Cart 1359: Validating order (PS1.5+)
+2016-06-07 14:46:17 1465303573 DEBUG: Cart 1359: Order 176 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-07 18:14:52 1465316092 DEBUG: URL to check 2
+2016-06-07 18:14:52 1465316092 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-07 18:14:52 1465316092 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-07 18:14:52 1465316092 DEBUG: Cart 1362: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-06-07 18:15:30 1465316130 DEBUG: Call params: M=3800&R=1362%20-%20Samantha%20Janssens&T=631960925&A=366656&B=0&C=Visa&D=1903&E=00000&G=D&H=CADD958E8F673E3D518EAC1E7391D00D52947532&I=FRA&J=&N=&P=CARTE&Q=18%3A14%3A53&S=627909500&W=07062016&Y=FRA&K=uOmo7iLON99A2hoJeRvdloQIOu8RGK5K%2FehMhyaswMDn%2FheSDMy6hdk6xWNaI4t8IKqbclyd%2FBgC3gm69ywysigEWVXxifJM0kMVcA9Xp1nrVhrnUN79ze0t1WwjLjy3DjacHAyWS66zjGtxU8QV0y4DD848PSafmgDP68o1IHc%3D
+2016-06-07 18:15:30 1465316130 DEBUG: Cart 1362: Standard IPN
+2016-06-07 18:15:30 1465316130 DEBUG: Cart 1362: Validating order (PS1.5+)
+2016-06-07 18:15:34 1465316130 DEBUG: Cart 1362: Order 177 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-07 18:15:46 1465316146 DEBUG: Cart 1362: Customer is back from E-Transactions payment page. Payment success.

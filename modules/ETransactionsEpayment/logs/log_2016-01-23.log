@@ -1,0 +1,22 @@
+2016-01-23 15:56:45 1453561005 DEBUG: URL to check 2
+2016-01-23 15:56:45 1453561005 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-23 15:56:45 1453561005 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-23 15:56:45 1453561005 DEBUG: Cart 45: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-23 16:23:18 1453562598 DEBUG: Cart 45: Customer is back fromE-Transactions payment page. Payment refused by E-Transactions (30).
+2016-01-23 16:23:25 1453562605 DEBUG: URL to check 2
+2016-01-23 16:23:25 1453562605 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-23 16:23:26 1453562605 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-23 16:23:26 1453562605 DEBUG: Cart 45: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-23 16:25:02 1453562702 DEBUG: URL to check 2
+2016-01-23 16:25:02 1453562702 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-23 16:25:02 1453562702 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-23 16:25:02 1453562702 DEBUG: Cart 45: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-23 16:26:39 1453562799 DEBUG: URL to check 2
+2016-01-23 16:26:39 1453562799 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-23 16:26:39 1453562799 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-23 16:26:39 1453562799 DEBUG: Cart 46: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-01-23 16:27:19 1453562839 DEBUG: Call params: M=500&R=46%20-%20Benani-Merle%20souad&T=600839567&A=461557&B=0&C=MasterCard&D=1611&E=00000&G=D&H=F2C9E69214B6CD60D84C8F98788B60FBB5224577&I=FRA&J=&N=&P=CARTE&Q=16%3A26%3A40&S=600786954&W=23012016&Y=FRA&K=XiLGDO%2F6CIx%2FwhQAYVOA92AOCDZCKl46cdxpLZ%2BFcH6iXJp2vWCeApnwcJXuLzSAZoVhnCDe029w%2F7ngCgUQ9Fbu%2BMUUYqN3gKY2WSq3IIIPF%2BJDWr%2B74NOlJJc2lm0nAoWyiBvL1LgUQyr0JWAPQ4ZvDht0dbvdXYIH7MFtS9U%3D
+2016-01-23 16:27:19 1453562839 DEBUG: Cart 46: Standard IPN
+2016-01-23 16:27:19 1453562839 DEBUG: Cart 46: Validating order (PS1.5+)
+2016-01-23 16:27:23 1453562839 DEBUG: Cart 46: Order 15 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-01-23 16:27:24 1453562844 DEBUG: Cart 46: Customer is back from E-Transactions payment page. Payment success.

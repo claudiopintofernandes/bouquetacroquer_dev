@@ -1,0 +1,25 @@
+/**
+ * Overrides carrier shipping with Table Rate Shipping
+ * 
+ * Table Rate Shipping by Kahanit(https://www.kahanit.com/) is licensed under a 
+ * Creative Creative Commons Attribution-NoDerivatives 4.0 International License.
+ * Based on a work at https://www.kahanit.com/.
+ * Permissions beyond the scope of this license may be available at https://www.kahanit.com/.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/.
+ * 
+ * @author    Amit Sidhpura <amit@kahanit.com>
+ * @copyright 2015 Kahanit
+ * @license   http://creativecommons.org/licenses/by-nd/4.0/
+ */
+
+div label{width:auto;float:none;}
+#ktrs-content.bootstrap .row{background:none;}
+#ktrs-content.bootstrap .alert{border:1px solid transparent;border-radius:4px;}
+#ktrs-content.bootstrap .alert.alert-success{color:#3c763d;background-color:#dff0d8;border-color:#d6e9c6;}
+#ktrs-content.bootstrap .alert.alert-danger{color:#a94442;background-color:#f2dede;border-color:#ebccd1;}
+#ktrs-content.bootstrap .alert.alert-warning{color:#8a6d3b;background-color:#fcf8e3;border-color:#faebcc;}
+#ktrs-content.bootstrap .table{border:none;}
+#ktrs-content.bootstrap .table tr th{background:none;}
+#ktrs-content.bootstrap .table tr td{font-size:12px;padding:3px 7px;}
+#ktrs-content.bootstrap .control-label{}
+#ktrs-content.bootstrap .form-control{padding:6px 12px;}

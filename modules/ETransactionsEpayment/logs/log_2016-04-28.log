@@ -1,0 +1,18 @@
+2016-04-28 10:07:44 1461830864 DEBUG: URL to check 2
+2016-04-28 10:07:44 1461830864 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-28 10:07:44 1461830864 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-28 10:07:44 1461830864 DEBUG: Cart 829: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-28 10:10:02 1461831002 DEBUG: Call params: M=3300&R=829%20-%20Emmanuelle%20STEUPERAERT&T=626811562&A=260315&B=0&C=Visa&D=1802&E=00000&G=D&H=CA59E187C0095B63F18FFF0E482C65531AA5E36C&I=FRA&J=&N=&P=CARTE&Q=10%3A07%3A46&S=622735227&W=28042016&Y=FRA&K=M5tJdn4pt2rg3JwM%2B3%2FERgEAWk4PbxADTisBxJyb5yC3u4N9XtU6K04XKeDNxDJS53hMn4MoP7uphf9LAnQT69T5vgkw6aWAubu7ICI0%2F8kNpHPizmwlcOxC3ZQoGpiBMkuJhr%2BE6etJz3RKmPZkvQvSXjI7GHjWwUX9%2B2Q%2BR3M%3D
+2016-04-28 10:10:02 1461831002 DEBUG: Cart 829: Standard IPN
+2016-04-28 10:10:02 1461831002 DEBUG: Cart 829: Validating order (PS1.5+)
+2016-04-28 10:10:07 1461831002 DEBUG: Cart 829: Order 114 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-28 10:10:08 1461831008 DEBUG: Cart 829: Customer is back from E-Transactions payment page. Payment success.
+2016-04-28 21:40:22 1461872422 DEBUG: URL to check 2
+2016-04-28 21:40:22 1461872422 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-28 21:40:22 1461872422 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-28 21:40:22 1461872422 DEBUG: Cart 832: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-28 21:41:40 1461872500 DEBUG: Call params: M=4800&R=832%20-%20Benjamin%20Croset&T=626911835&A=694349&B=0&C=Visa&D=1711&E=00000&G=D&H=D0C02806DF3E3CD9CA10ABA471C047518D73DC48&I=FRA&J=&N=&P=CARTE&Q=21%3A40%3A23&S=622832890&W=28042016&Y=FRA&K=IAzN4g6xHxF3mhgmo34U5lGGbhZ5fcqlON%2FYx9BqGmvdgVF6WNDpKi7eJPHbF9SMIwyHq66%2BbB1Jg%2FRavKklp1lbJHxYOiQVRe9MYkuzpByeMGIA%2FveNha7B3%2B6emQD8NfvcWzkCiYi98YwAvNoxag0LRKqvoJK4pjyXSBnJoJM%3D
+2016-04-28 21:41:40 1461872500 DEBUG: Cart 832: Standard IPN
+2016-04-28 21:41:40 1461872500 DEBUG: Cart 832: Validating order (PS1.5+)
+2016-04-28 21:41:44 1461872500 DEBUG: Cart 832: Order 115 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-28 21:41:57 1461872517 DEBUG: Cart 832: Customer is back from E-Transactions payment page. Payment success.

@@ -1,0 +1,8 @@
+2016-01-25 22:48:14 1453758494 DEBUG: URL to check 2
+2016-01-25 22:48:14 1453758494 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-01-25 22:48:14 1453758494 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-01-25 22:48:14 1453758494 DEBUG: Cart 60: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-01-25 22:49:25 1453758565 DEBUG: Call params: M=3100&R=60%20-%20Alexandra%20Louchard&T=601127492&A=864166&B=0&C=Visa&D=1709&E=00000&G=D&H=CE8090D9B27AC1DDD4E41F4D8D27DA0C687E6FA8&I=FRA&J=&N=&P=CARTE&Q=22%3A48%3A15&S=601070461&W=25012016&Y=FRA&K=oKiNOWbKbRMYEEiA4x7XA4X2tYoHZXUEhUhweZHRdXNF6Wmp9kEeQxd15BAL3SVxEE0hdb2uiBp2igoMQlZQ7ZuPzGacZ4YqbTNBUVBxGJ%2FPpmAjNVcmwZRN879TL3hDbO%2FtA5jXpA8havpxmk3pXtkX85rJM%2BUDrmMvjqo3oRs%3D
+2016-01-25 22:49:25 1453758565 DEBUG: Cart 60: Standard IPN
+2016-01-25 22:49:25 1453758565 DEBUG: Cart 60: Validating order (PS1.5+)
+2016-01-25 22:49:30 1453758565 DEBUG: Cart 60: Order 18 / Le paiement a été autorisé et capturé par E-Transactions.

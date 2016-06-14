@@ -1,0 +1,9 @@
+2016-03-04 01:46:50 1457052410 DEBUG: URL to check 2
+2016-03-04 01:46:50 1457052410 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-04 01:46:50 1457052410 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-04 01:46:50 1457052410 DEBUG: Cart 421: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-04 01:47:31 1457052451 DEBUG: Call params: M=4800&R=421%20-%20Karen%20Meilland&T=611719210&A=121797&B=0&C=Visa&D=1711&E=00000&G=D&H=86B3B25E0EA987E64939973E6D758E93785EF2B5&I=FRA&J=&N=&P=CARTE&Q=01%3A46%3A52&S=610020382&W=04032016&Y=FRA&K=W9%2FYwjB%2BeugMZXahutsomn%2FNQYln%2F4XWAb2aBGTLOhIpfgXWHHjVDcYuPJTFli%2B4fGPEodsqSoUTq2tGu6iUtZCmrB%2FpRW3LkK4oh85LBvK1WVInx7UsHFGmtZQ19VjQrLaxsPyJTRVnTEWzkHfOLDbkhUPy3fjfl7VuNyzxoFM%3D
+2016-03-04 01:47:31 1457052451 DEBUG: Cart 421: Standard IPN
+2016-03-04 01:47:31 1457052451 DEBUG: Cart 421: Validating order (PS1.5+)
+2016-03-04 01:47:35 1457052451 DEBUG: Cart 421: Order 51 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-04 01:47:48 1457052468 DEBUG: Cart 421: Customer is back from E-Transactions payment page. Payment success.

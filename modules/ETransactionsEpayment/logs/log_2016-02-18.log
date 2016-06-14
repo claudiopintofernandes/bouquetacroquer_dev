@@ -1,0 +1,13 @@
+2016-02-18 19:28:56 1455820136 DEBUG: URL to check 2
+2016-02-18 19:28:56 1455820136 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-18 19:28:56 1455820136 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-18 19:28:56 1455820136 DEBUG: Cart 318: Redirecting customer to E-Transactions (CARTE, CB).
+2016-02-18 19:34:14 1455820453 DEBUG: URL to check 2
+2016-02-18 19:34:14 1455820453 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-18 19:34:14 1455820453 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-18 19:34:14 1455820453 DEBUG: Cart 318: Redirecting customer to E-Transactions (CARTE, CB).
+2016-02-18 19:35:33 1455820533 DEBUG: Call params: M=3100&R=318%20-%20Audrey%20Deval&T=607198372&A=359563&B=0&C=Visa&D=1710&E=00000&G=D&H=EA49107588D11EB107EC8C882D6C4FB650A3634E&I=FRA&J=&N=&P=CARTE&Q=19%3A34%3A15&S=606295195&W=18022016&Y=FRA&K=J7iAFXxoxFrzr6KZTMjUxvyWlIZbYm0FdB%2FcLQydYK7IfRZ0PLi2ZxgUmr32638kKeScHM%2FhQLiTRZdOrDXUy5sjAlhynKlA6RdYSaCqgdAdCC7ZHjQNQOZsiYUs8LdrHTL4Zk71d6eG32pKhRzZqb6D1wsp0e5h6nGq23Ey%2BuY%3D
+2016-02-18 19:35:33 1455820533 DEBUG: Cart 318: Standard IPN
+2016-02-18 19:35:33 1455820533 DEBUG: Cart 318: Validating order (PS1.5+)
+2016-02-18 19:35:38 1455820533 DEBUG: Cart 318: Order 41 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-18 19:35:44 1455820544 DEBUG: Cart 318: Customer is back from E-Transactions payment page. Payment success.

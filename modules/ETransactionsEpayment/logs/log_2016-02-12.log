@@ -1,0 +1,17 @@
+2016-02-12 08:30:10 1455262210 DEBUG: URL to check 2
+2016-02-12 08:30:10 1455262210 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-12 08:30:11 1455262210 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-12 08:30:11 1455262210 DEBUG: Cart 241: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-12 08:30:58 1455262258 DEBUG: Call params: M=4800&R=241%20-%20Mohammed%20Reda%20el%20kohli&T=605739554&A=549448&B=0&C=Visa&D=1812&E=00000&G=D&H=18763BCA29F6E79FC66FA09D0EBE91B67AD8B7FA&I=FRA&J=&N=&P=CARTE&Q=08%3A30%3A12&S=605007368&W=12022016&Y=FRA&K=Wuza2CIbyqUAqZBjXCqSZ4aBXCWLrSihw5Sdprd3zN1oIqh7NwcSQE4yH30SH1GcXYt7eVbKlWpos32qFEvYqwHQTYPGDPG1F3agoinzAoxvAAvenH5dX3ASbxUqnHo98s%2FUrhzuaW4AS%2BrhQmM8jNx3i%2FydItKaBMfcHRoLw6g%3D
+2016-02-12 08:30:58 1455262258 DEBUG: Cart 241: Standard IPN
+2016-02-12 08:30:58 1455262258 DEBUG: Cart 241: Validating order (PS1.5+)
+2016-02-12 08:31:04 1455262258 DEBUG: Cart 241: Order 37 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-12 08:31:18 1455262278 DEBUG: Cart 241: Customer is back from E-Transactions payment page. Payment success.
+2016-02-12 17:28:20 1455294500 DEBUG: URL to check 2
+2016-02-12 17:28:20 1455294500 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-12 17:28:21 1455294500 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-12 17:28:21 1455294500 DEBUG: Cart 251: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-02-12 17:28:59 1455294539 DEBUG: Call params: M=5100&R=251%20-%20Emmanuelle%20Chapiron&T=605828341&A=674989&B=0&C=MasterCard&D=1812&E=00000&G=D&H=1A4111DDD8608E21B3AD1A7EC58BCB391C2E7890&I=FRA&J=&N=&P=CARTE&Q=17%3A28%3A22&S=605091799&W=12022016&Y=GBR&K=m%2F4FfHW8W8%2FHHLSn5sc9ayixBSt5LqRDvKZpbdJSisttB9gwSmd20iJiBXBbe1EupAyuchfdkiCSeAum9JmGND0VNidYn10F59wj8y%2FP%2FcX7hOSmKIb3rlEfDv%2FiB5hWdXTzzOk9V1UHQ5%2FP8gCwPLmljqGHZL0Q5Z8JGuP5rcs%3D
+2016-02-12 17:28:59 1455294539 DEBUG: Cart 251: Standard IPN
+2016-02-12 17:28:59 1455294539 DEBUG: Cart 251: Validating order (PS1.5+)
+2016-02-12 17:29:05 1455294539 DEBUG: Cart 251: Order 38 / Le paiement a été autorisé et capturé par E-Transactions.

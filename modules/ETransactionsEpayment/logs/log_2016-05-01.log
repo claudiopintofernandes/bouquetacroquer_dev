@@ -1,0 +1,9 @@
+2016-05-01 21:12:23 1462129942 DEBUG: URL to check 2
+2016-05-01 21:12:23 1462129942 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-01 21:12:23 1462129942 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-01 21:12:23 1462129942 DEBUG: Cart 850: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-01 21:18:01 1462130281 DEBUG: Call params: M=2100&R=850%20-%20Anne%20Lise%20frison&T=627308163&A=555583&B=0&C=MasterCard&D=1607&E=00000&G=D&H=4AC540E5DD7ECA48EB456C43C561B05F3359D5AE&I=FRA&J=&N=&P=CARTE&Q=21%3A12%3A24&S=623239755&W=01052016&Y=FRA&K=WlSHRdGzAlLFRdamONVpfetZmgMz3et9sTP6xEXL4tW9vtlRS3491yNDjeR4Aw5OE76ncgRpwWkYEGgEJJCejRSXkJ6VmGXDqgqlYrmjHMrxcIbwNlSfQ0B8V%2B32%2BIkwjTt40VeC3ZhZoMamr%2Bo0pt2jISyt8nAWXq3czhvDdks%3D
+2016-05-01 21:18:01 1462130281 DEBUG: Cart 850: Standard IPN
+2016-05-01 21:18:01 1462130281 DEBUG: Cart 850: Validating order (PS1.5+)
+2016-05-01 21:18:06 1462130281 DEBUG: Cart 850: Order 117 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-01 21:18:15 1462130295 DEBUG: Cart 850: Customer is back from E-Transactions payment page. Payment success.

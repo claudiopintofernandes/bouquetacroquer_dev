@@ -1,0 +1,5 @@
+2016-02-19 14:30:45 1455888645 DEBUG: URL to check 2
+2016-02-19 14:30:45 1455888645 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-19 14:30:45 1455888645 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-19 14:30:45 1455888645 DEBUG: Cart 323: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-19 14:30:57 1455888657 DEBUG: Cart 323: Payment was canceled by user onE-Transactions payment page.

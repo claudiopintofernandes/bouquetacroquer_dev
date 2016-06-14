@@ -1,0 +1,4 @@
+#next_slide, #prev_slide {
+background-color: {$button_color};
+}
+#prev_slide:hover,#next_slide:hover{background-color:{$button_hover_color} !important;}

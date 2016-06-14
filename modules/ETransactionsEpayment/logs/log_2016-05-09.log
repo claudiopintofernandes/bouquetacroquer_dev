@@ -1,0 +1,9 @@
+2016-05-09 09:15:38 1462778138 DEBUG: URL to check 2
+2016-05-09 09:15:38 1462778138 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-09 09:15:38 1462778138 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-09 09:15:38 1462778138 DEBUG: Cart 919: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-09 09:16:18 1462778178 DEBUG: Call params: M=6000&R=919%20-%20Martine%20%20Stevens&T=628227315&A=377087&B=0&C=MasterCard&D=1706&E=00000&G=D&H=FB33D670D5D76501B23ACF8AD08D683A6EB1E7EE&I=FRA&J=&N=&P=CARTE&Q=09%3A15%3A39&S=624162771&W=09052016&Y=FRA&K=UL7agMcAcl2ZXl5SXxNCNyWu4y3RQBFrVvltq1G71dcq00eMjFc7pMFXtm5xWH9hXlWaU2n7Q8E0ripPTIYEvZ3vlwBj4D8zFUM7g%2B83PJ9V60SsRYYEJvLZkUMMC0aJggFu9jCnULXtqM5U%2FD5HmGq8d%2FLWT2Gg4xbwgXnBfvc%3D
+2016-05-09 09:16:18 1462778178 DEBUG: Cart 919: Standard IPN
+2016-05-09 09:16:18 1462778178 DEBUG: Cart 919: Validating order (PS1.5+)
+2016-05-09 09:16:22 1462778178 DEBUG: Cart 919: Order 130 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-09 09:16:26 1462778186 DEBUG: Cart 919: Customer is back from E-Transactions payment page. Payment success.

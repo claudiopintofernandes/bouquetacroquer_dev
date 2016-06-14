@@ -1,0 +1,9 @@
+2016-04-09 11:49:24 1460195364 DEBUG: URL to check 2
+2016-04-09 11:49:24 1460195364 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-09 11:49:24 1460195364 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-09 11:49:24 1460195364 DEBUG: Cart 685: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-09 11:50:35 1460195435 DEBUG: Call params: M=4300&R=685%20-%20Guy%20LEQUESNE&T=623583974&A=337082&B=0&C=Visa&D=1605&E=00000&G=D&H=1F5B1E39156CCED8B3337186ABAEF52FDFD5E3F2&I=FRA&J=&N=&P=CARTE&Q=11%3A49%3A25&S=619734418&W=09042016&Y=FRA&K=TryMToKlJKAdqn9cnWq1GGJFybaRJDpyvoy0bcnzj7B1oXgrtXfYXs4g1zue9W1i9xZ4NhwQYiYodpcQOt8AqdKkNvbV1ywIIoY0HuQweV5JQktm9d1NOVwNXDZGJ%2Ffcl4dhq%2FaWLtTUR4ivYvnTTA0jdEUP%2Fr1gKEBiiZuNwo0%3D
+2016-04-09 11:50:35 1460195435 DEBUG: Cart 685: Standard IPN
+2016-04-09 11:50:35 1460195435 DEBUG: Cart 685: Validating order (PS1.5+)
+2016-04-09 11:50:40 1460195435 DEBUG: Cart 685: Order 96 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-09 11:50:42 1460195442 DEBUG: Cart 685: Customer is back from E-Transactions payment page. Payment success.

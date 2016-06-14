@@ -1,0 +1,4 @@
+#next_slide, #prev_slide {
+background-color: #F4F4F4;
+}
+#prev_slide:hover,#next_slide:hover{background-color:#9D3BC6 !important;}

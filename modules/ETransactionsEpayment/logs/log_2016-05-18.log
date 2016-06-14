@@ -1,0 +1,9 @@
+2016-05-18 18:03:51 1463587431 DEBUG: URL to check 2
+2016-05-18 18:03:51 1463587431 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-18 18:03:51 1463587431 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-18 18:03:51 1463587431 DEBUG: Cart 1024: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-18 18:04:17 1463587457 DEBUG: Call params: M=4600&R=1024%20-%20Alban%20Gessier&T=629485246&A=216353&B=0&C=Visa&D=1610&E=00000&G=D&H=7273003DC6B47AD52985C5CB01BE75096CCE42B1&I=FRA&J=&N=&P=CARTE&Q=18%3A03%3A52&S=625414249&W=18052016&Y=FRA&K=uANtLegP5sDIRN9IgriRJoeHbsjWSWuV%2Bg4ceqRzsECMlJ11Ti25%2FOZ5BnSARwlMaGDuzMwTXHL0QjKr4H%2FvhSQ5gw2FpqIerOKayQ4DNGPcdc4K2GMNgE9jZTEZZAh2n0T3BOdUaaHljOm3wdZiDMVw9M1T0BjMB2mh6qdWfbs%3D
+2016-05-18 18:04:17 1463587457 DEBUG: Cart 1024: Standard IPN
+2016-05-18 18:04:17 1463587457 DEBUG: Cart 1024: Validating order (PS1.5+)
+2016-05-18 18:04:21 1463587457 DEBUG: Cart 1024: Order 142 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-18 18:04:22 1463587462 DEBUG: Cart 1024: Customer is back from E-Transactions payment page. Payment success.

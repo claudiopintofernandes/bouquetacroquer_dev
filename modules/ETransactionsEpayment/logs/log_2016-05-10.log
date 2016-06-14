@@ -1,0 +1,16 @@
+2016-05-10 18:20:54 1462897253 DEBUG: URL to check 2
+2016-05-10 18:20:54 1462897253 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-10 18:20:54 1462897253 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-10 18:20:54 1462897253 DEBUG: Cart 942: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-10 18:21:04 1462897264 DEBUG: URL to check 2
+2016-05-10 18:21:04 1462897264 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-10 18:21:04 1462897264 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-10 18:21:04 1462897264 DEBUG: Cart 942: Redirecting customer to E-Transactions (CARTE, CB).
+2016-05-10 18:21:15 1462897275 DEBUG: URL to check 2
+2016-05-10 18:21:15 1462897275 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-10 18:21:15 1462897275 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-10 18:21:15 1462897275 DEBUG: Cart 942: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-10 18:21:24 1462897284 DEBUG: URL to check 2
+2016-05-10 18:21:24 1462897284 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-10 18:21:24 1462897284 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-10 18:21:24 1462897284 DEBUG: Cart 942: Redirecting customer to E-Transactions (CARTE, E_CARD).

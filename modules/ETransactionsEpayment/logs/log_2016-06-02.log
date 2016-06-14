@@ -1,0 +1,9 @@
+2016-06-02 12:14:24 1464862464 DEBUG: URL to check 2
+2016-06-02 12:14:24 1464862464 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-02 12:14:24 1464862464 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-02 12:14:24 1464862464 DEBUG: Cart 1305: Redirecting customer to E-Transactions (CARTE, CB).
+2016-06-02 12:23:38 1464863018 DEBUG: Call params: M=2300&R=1305%20-%20Cindy%20VIGREUX&T=631291266&A=267722&B=0&C=Visa&D=1609&E=00000&G=D&H=AA9FF74A2D7D476C7848F5AFAD261E1B83433A03&I=FRA&J=&N=&P=CARTE&Q=12%3A14%3A27&S=627234530&W=02062016&Y=FRA&K=2xnukyzkAIVl%2FD%2FkfBjVp4RMNYm8vRBfQX45Il4ZLH9%2FNduRkS004BOe3PKTZF3bYcAYTQiKDuMmvrYZ3IgYuXQZWny%2F2fiMwbYhuQ%2BIOE4hwMiH29nunvo9LloYpgZJPAP5TZU01EccgMpXJYTQiIzWAS7GRWpV2cAMb0Gyz8Q%3D
+2016-06-02 12:23:38 1464863018 DEBUG: Cart 1305: Standard IPN
+2016-06-02 12:23:38 1464863018 DEBUG: Cart 1305: Validating order (PS1.5+)
+2016-06-02 12:23:43 1464863018 DEBUG: Cart 1305: Order 170 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-02 12:23:50 1464863030 DEBUG: Cart 1305: Customer is back from E-Transactions payment page. Payment success.

@@ -1,0 +1,26 @@
+2016-05-29 10:29:53 1464510593 DEBUG: URL to check 2
+2016-05-29 10:29:53 1464510593 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-29 10:29:53 1464510593 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-29 10:29:53 1464510593 DEBUG: Cart 1254: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-29 10:30:33 1464510633 DEBUG: Call params: M=4400&R=1254%20-%20Anais%20Guillernino&T=630719759&A=553501&B=0&C=Visa&D=1806&E=00000&G=D&H=8EF36BFB211F1E22DBDAD034AA4BD4F6134153A1&I=GBR&J=&N=&P=CARTE&Q=10%3A29%3A55&S=626653929&W=29052016&Y=GBR&K=oTehLKd6dQDKPQqyLo3YeObr5D2y%2FdV23jPL1QwxydTCiJah%2BEWPPFMdJMq4gsvbSdiD0G9uE5hUZkFwM4Ryo1R4defORac73e3cVL5HC92k3tIXSTuKbB4Aaj5Z4eZsQX7iFY0h%2BJP0O0TdCCnayGBYLtt8mMU6oDTPm99lcnw%3D
+2016-05-29 10:30:33 1464510633 DEBUG: Cart 1254: Standard IPN
+2016-05-29 10:30:33 1464510633 DEBUG: Cart 1254: Validating order (PS1.5+)
+2016-05-29 10:30:37 1464510633 DEBUG: Cart 1254: Order 166 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-29 10:31:05 1464510665 DEBUG: Cart 1254: Customer is back from E-Transactions payment page. Payment success.
+2016-05-29 23:14:07 1464556447 DEBUG: URL to check 2
+2016-05-29 23:14:07 1464556447 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-29 23:14:07 1464556447 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-29 23:14:07 1464556447 DEBUG: Cart 1264: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-29 23:16:08 1464556568 DEBUG: Call params: M=7800&R=1264%20-%20Pascale%20PEYRET&T=630807938&A=763726&B=0&C=E_CARD&D=1608&E=00000&G=D&H=EA22AB6BBC73029AE130DB341DF234DAEBF03E33&I=FRA&J=&N=&P=CARTE&Q=23%3A14%3A09&S=626741305&W=29052016&Y=FRA&K=3LGxWVV3ob4cqAlS5ECDpG4ZiP82VdbbtgUDsFvSvz2ELcqsWZUku1Wphluym2r8x98wd%2FP9Z8nui%2FhHBU99FqqbPTsv16Li%2Bx1eJtG7EcHx955kOJA65uQOHgbtOQNhbbRZ2%2BPo68EohTSMByb48I4x2wAPByMGEyre2NwSVfE%3D
+2016-05-29 23:16:08 1464556568 DEBUG: Cart 1264: Standard IPN
+2016-05-29 23:16:08 1464556568 DEBUG: Cart 1264: Validating order (PS1.5+)
+2016-05-29 23:16:12 1464556568 DEBUG: Cart 1264: Order 167 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-29 23:38:26 1464557906 DEBUG: URL to check 2
+2016-05-29 23:38:26 1464557906 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-29 23:38:26 1464557906 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-29 23:38:26 1464557906 DEBUG: Cart 1266: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-29 23:39:37 1464557977 DEBUG: Call params: M=4800&R=1266%20-%20Violaine%20Cochet&T=630809499&A=037560&B=0&C=Visa&D=1804&E=00000&G=D&H=5A3E31DA02289CD1E6A638642A2F396482DF95BA&I=FRA&J=&N=&P=CARTE&Q=23%3A38%3A28&S=626742745&W=29052016&Y=FRA&K=zipaRgwfax9pu1rscoCnJbLQD9MqnyatSGSnqX58%2FBAk3SeARLLVdu1RKmJxkQ1T7HTRLLJDiOuDGKNNbkas%2FMnUvs8bRDK5i39AMlPeTlnlDNf1nsjTv7JToYp35fdQImYe8xS8kc7eLBmjmeFbI6IdDeQa2EjMk8wbhe0Qg9Y%3D
+2016-05-29 23:39:37 1464557977 DEBUG: Cart 1266: Standard IPN
+2016-05-29 23:39:37 1464557977 DEBUG: Cart 1266: Validating order (PS1.5+)
+2016-05-29 23:39:42 1464557977 DEBUG: Cart 1266: Order 168 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-29 23:39:54 1464557994 DEBUG: Cart 1266: Customer is back from E-Transactions payment page. Payment success.

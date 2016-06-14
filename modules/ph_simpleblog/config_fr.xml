@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>ph_simpleblog</name>
+	<displayName><![CDATA[Simple Blog]]></displayName>
+	<version><![CDATA[1.2.0.8]]></version>
+	<description><![CDATA[Ajoutez un blog &agrave; votre boutique prestashop]]></description>
+	<author><![CDATA[www.PrestaHome.com]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Voulez-vous vraiment supprimer ce module ?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

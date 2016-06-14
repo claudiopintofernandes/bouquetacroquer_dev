@@ -1,0 +1,56 @@
+2016-05-23 10:56:55 1463993815 DEBUG: URL to check 2
+2016-05-23 10:56:55 1463993815 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-23 10:56:55 1463993815 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-23 10:56:55 1463993815 DEBUG: Cart 1081: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-23 10:57:25 1463993845 DEBUG: Call params: M=6300&R=1081%20-%20Berangere%20Pruvot&T=630013645&B=0&C=EUROCARD_MASTERCARD&D=1606&E=00004&H=52C0289DADECC658B1F3D975DD53F8A08DA3083C&I=FRA&J=&N=&P=CARTE&Q=10%3A56%3A56&S=625944549&W=23052016&K=OsrrjFVc3M7KV1SRJdy2zzgP%2B3BkuYurfjm%2Fn1k52wQD6v6a18hpDt8sJSXGkDFrG8nVmuG7y9TrhGsX%2B8ErLUC3lK4ELa%2BaKA0LcnT6CcgAtwvHoPTsa1hUoGUZByOowTqpD8fICDQvoC1NlZp9ZBjQMHu8vcNbxYmvCSnndhE%3D
+2016-05-23 10:57:25 1463993845 DEBUG: Cart 1081: (IPN) Payment was refused by E-Transactions(4).
+2016-05-23 10:57:30 1463993850 DEBUG: Cart 1081: Customer is back fromE-Transactions payment page. Payment refused by E-Transactions (4).
+2016-05-23 10:57:39 1463993859 DEBUG: URL to check 2
+2016-05-23 10:57:39 1463993859 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-23 10:57:39 1463993859 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-23 10:57:39 1463993859 DEBUG: Cart 1081: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-23 10:58:03 1463993883 DEBUG: Call params: M=6300&R=1081%20-%20Berangere%20Pruvot&T=630013788&A=662125&B=0&C=MasterCard&D=1606&E=00000&G=D&H=812AD4EEA4FC3CF6C56E7772A5239D9D19D29AE9&I=FRA&J=&N=&P=CARTE&Q=10%3A57%3A40&S=625944661&W=23052016&Y=FRA&K=x3Fc07wyXzz%2Bc0BS8giJPKVUD0GM3KNZw69IS2aFp5liS1sy%2Fy2UoUc%2FNBjrcBK%2B%2BIWsI0%2FUBPSjxwlKXxG0OW7n4MsArTPe%2FCkJRtVpXxJROYFbQlo4zliJuqUJl7G5wQYPC3bIuoKjKj14LDD9Yi6mRxftYUti5bpiBLj3%2Fdw%3D
+2016-05-23 10:58:03 1463993883 DEBUG: Cart 1081: Standard IPN
+2016-05-23 10:58:03 1463993883 DEBUG: Cart 1081: Validating order (PS1.5+)
+2016-05-23 10:58:08 1463993883 DEBUG: Cart 1081: Order 147 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-23 14:44:30 1464007470 DEBUG: URL to check 2
+2016-05-23 14:44:30 1464007470 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-23 14:44:30 1464007470 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-23 14:44:30 1464007470 DEBUG: Cart 1084: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-23 14:45:16 1464007516 DEBUG: Call params: M=6100&R=1084%20-%20Marielle%20MADJAR&T=630051743&A=284804&B=0&C=MasterCard&D=1702&E=00000&G=D&H=2CAAAFB1668E9DB07C58932CD2645EDA12ED9263&I=FRA&J=&N=&P=CARTE&Q=14%3A44%3A32&S=625982195&W=23052016&Y=FRA&K=iEadyXxjO8LnWiPTpUBQSkIZxn5zXWUoH4VLEUY6NSAMX8qIfBRfElWmG5pB%2BplPjt%2F43ldJ44j0BzoIKBsY1BWORNgK2Aga61lhqGwzMjRh%2BT%2F79umOmALD%2BWre%2BAqFM31QU0ZmiPlXdo%2BOXjEtN0D9dZfjR36hQtI6AS0Diqc%3D
+2016-05-23 14:45:16 1464007516 DEBUG: Cart 1084: Standard IPN
+2016-05-23 14:45:16 1464007516 DEBUG: Cart 1084: Validating order (PS1.5+)
+2016-05-23 14:45:20 1464007516 DEBUG: Cart 1084: Order 148 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-23 15:29:16 1464010156 DEBUG: URL to check 2
+2016-05-23 15:29:16 1464010156 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-23 15:29:16 1464010156 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-23 15:29:16 1464010156 DEBUG: Cart 1091: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-23 15:29:52 1464010192 DEBUG: Call params: M=5600&R=1091%20-%20Cyrielle%20LUC&T=630058403&A=744955&B=0&C=Visa&D=1902&E=00000&G=D&H=AD5853FC43DBBE82863744100F33E65969D1998B&I=FRA&J=&N=&P=CARTE&Q=15%3A29%3A17&S=625988683&W=23052016&Y=FRA&K=GBy5ojALbvR9003VH5QT5Ez%2B3fjVZeNygGgNytMnMGPS%2BlILBMvBoMlOKgd2DZLLntEwOM1dqNErYywmZbRIRRZrzbsvN8rj8Cz6Jj1VOyCiHOPKh27cwNEA4sAW3hyDHyrykQz0r9FGxTUhLZ3aJW6OA2btIIFy%2Bh%2BSMMkQfa8%3D
+2016-05-23 15:29:52 1464010192 DEBUG: Cart 1091: Standard IPN
+2016-05-23 15:29:52 1464010192 DEBUG: Cart 1091: Validating order (PS1.5+)
+2016-05-23 15:29:57 1464010192 DEBUG: Cart 1091: Order 149 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-23 18:39:36 1464021576 DEBUG: URL to check 2
+2016-05-23 18:39:36 1464021576 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-23 18:39:36 1464021576 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-23 18:39:36 1464021576 DEBUG: Cart 1077: Redirecting customer to E-Transactions (CARTE, E_CARD).
+2016-05-23 18:40:51 1464021651 DEBUG: Call params: M=4400&R=1077%20-%20Loic%20Laurent&T=630086461&A=322335&B=0&C=E_CARD&D=1608&E=00000&G=D&H=12ADABF8B61F333F64EA85776582FAFC72CF48B7&I=FRA&J=&N=&P=CARTE&Q=18%3A39%3A38&S=626016220&W=23052016&Y=FRA&K=TGyMrP2lLa%2FWZT9UlHK0BVhmOFBwx9bPP15UbkfwsvsQJR7rWnP%2BrmKle8DUfN3xNmyPYilZxGLZppTBGjiMLgZ5XnsvGdFy%2FcN7CL%2B4ViCSLqVyAcEDyZDJZSBy3cUzp2zxUMSGzab2PUx4Y0X1UAbpjJnr7yH%2FlFRbA23UHmA%3D
+2016-05-23 18:40:51 1464021651 DEBUG: Cart 1077: Standard IPN
+2016-05-23 18:40:51 1464021651 DEBUG: Cart 1077: Validating order (PS1.5+)
+2016-05-23 18:40:55 1464021655 DEBUG: Cart 1077: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2016-05-23 18:40:56 1464021651 DEBUG: Cart 1077: Order 150 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-23 18:40:56 1464021656 DEBUG: Cart 1077: Customer is back from E-Transactions payment page. Payment success.
+2016-05-23 21:25:48 1464031548 DEBUG: URL to check 2
+2016-05-23 21:25:48 1464031548 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-23 21:25:48 1464031548 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-23 21:25:48 1464031548 DEBUG: Cart 1101: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-23 21:26:27 1464031587 DEBUG: Cart 1101: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2016-05-23 21:26:28 1464031588 DEBUG: Cart 1101: Customer is back from E-Transactions payment page. Waiting order validation (loop 1).
+2016-05-23 21:26:29 1464031589 DEBUG: Cart 1101: Customer is back from E-Transactions payment page. Waiting order validation (loop 2).
+2016-05-23 21:26:29 1464031589 DEBUG: Call params: M=6100&R=1101%20-%20Berenice%20RIVAYRAN&T=630108629&A=383206&B=0&C=Visa&D=1804&E=00000&G=D&H=BCA297C8FF52AAF1FC628CC036B95DE3060FB1A7&I=FRA&J=&N=&P=CARTE&Q=21%3A25%3A50&S=626037921&W=23052016&Y=FRA&K=ihR29jqr1uXKw9sIsRRhifU1zwe65Rmm7BSqP6srfXXffOQWYv5wfeSKSZ%2FaQQzFzAUGnBjPVtdIQCjahI3hJ2jnVSe%2FEmphgooHNyQtA7242cUF2aL1EAZrVge%2Bc86xeRRdyItWnDXtueV0RbMtDqeqhQyIWipbL%2FGpjs7Bj5Y%3D
+2016-05-23 21:26:29 1464031589 DEBUG: Cart 1101: Standard IPN
+2016-05-23 21:26:29 1464031589 DEBUG: Cart 1101: Validating order (PS1.5+)
+2016-05-23 21:26:30 1464031590 DEBUG: Cart 1101: Customer is back from E-Transactions payment page. Waiting order validation (loop 3).
+2016-05-23 21:26:32 1464031592 DEBUG: Cart 1101: Customer is back from E-Transactions payment page. Waiting order validation (loop 4).
+2016-05-23 21:26:33 1464031593 DEBUG: Cart 1101: Customer is back from E-Transactions payment page. Waiting order validation (loop 5).
+2016-05-23 21:26:33 1464031589 DEBUG: Cart 1101: Order 151 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-23 21:26:38 1464031598 DEBUG: Cart 1101: Customer is back from E-Transactions payment page. Payment success.

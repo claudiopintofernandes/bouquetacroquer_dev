@@ -1,0 +1,12 @@
+2016-03-25 11:55:42 1458903342 DEBUG: URL to check 2
+2016-03-25 11:55:42 1458903342 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-25 11:55:42 1458903342 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-25 11:55:42 1458903342 DEBUG: Cart 599: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-03-25 13:53:56 1458910436 DEBUG: URL to check 2
+2016-03-25 13:53:56 1458910436 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-25 13:53:56 1458910436 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-25 13:53:56 1458910436 DEBUG: Cart 602: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-03-25 13:54:25 1458910465 DEBUG: Call params: M=2100&R=602%20-%20Aurelie%20BILLY&T=618796302&A=245664&B=0&C=MasterCard&D=1702&E=00000&G=D&H=02EFD10B0A6B8E1025077B1AAC5908C515BC60C2&I=FRA&J=&N=&P=CARTE&Q=13%3A53%3A57&S=615819564&W=25032016&Y=FRA&K=lC37AbC335ujqiDcgZZ4oqwPrh4EwN3mmGATZ24lNOXu7RpXDfyrbBJ4%2F3NzDTSsCYgrSPCfuLGZ6iuFoKe9yIby%2FwxF68HlNuApzQ9h3eC%2BREGqvYrUHmUCzcBpyzhYf8hbIbYPHTu9I5MyjqrT88tQIyEb6P%2Ft5KG9WkGUgSg%3D
+2016-03-25 13:54:25 1458910465 DEBUG: Cart 602: Standard IPN
+2016-03-25 13:54:25 1458910465 DEBUG: Cart 602: Validating order (PS1.5+)
+2016-03-25 13:54:35 1458910465 DEBUG: Cart 602: Order 83 / Le paiement a été autorisé et capturé par E-Transactions.

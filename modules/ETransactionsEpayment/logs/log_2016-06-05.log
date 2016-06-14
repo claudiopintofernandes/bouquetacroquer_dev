@@ -1,0 +1,8 @@
+2016-06-05 18:48:05 1465145285 DEBUG: URL to check 2
+2016-06-05 18:48:05 1465145285 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-05 18:48:05 1465145285 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-05 18:48:05 1465145285 DEBUG: Cart 1337: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-06-05 18:48:42 1465145322 DEBUG: Call params: M=4800&R=1337%20-%20Annie%20viand&T=631663402&A=544346&B=0&C=MasterCard&D=1702&E=00000&G=D&H=B9F806FD3D9CFA07A36923C3C8EAC85CE9008730&I=FRA&J=&N=&P=CARTE&Q=18%3A48%3A07&S=627607833&W=05062016&Y=FRA&K=R8DDks0phnuSHEHaK0yjtDeTCPMVbODp%2BF8HoolsSp%2B0ZpRWp7iOVZWbbJAZTTIdOr983uwzeaXqbROf9dcdCZVUkPhEl41AZaTAzlo4Si7n8Ufvoo5HRLE4qQiX7pybdwV7A1y1kMazlRSon7qbbYthT4YNgBWdOl%2FumDiYdAw%3D
+2016-06-05 18:48:42 1465145322 DEBUG: Cart 1337: Standard IPN
+2016-06-05 18:48:42 1465145322 DEBUG: Cart 1337: Validating order (PS1.5+)
+2016-06-05 18:48:47 1465145322 DEBUG: Cart 1337: Order 173 / Le paiement a été autorisé et capturé par E-Transactions.

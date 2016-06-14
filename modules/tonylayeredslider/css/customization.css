@@ -1,0 +1,5 @@
+#layerslider #next_slide, #layerslider #prev_slide {
+background-color: #c4c4c4;
+color:white;
+}
+#layerslider #prev_slide:hover,#layerslider #next_slide:hover{background-color:#9D3BC6 !important;}

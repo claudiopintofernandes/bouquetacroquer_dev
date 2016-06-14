@@ -1,0 +1,54 @@
+.info {
+  text-transform: none;
+  color: #777;
+}
+.shipping {
+  margin: 0;
+  width: 600px;
+  color: #b50260;
+  text-transform: uppercase;
+}
+
+.shipping > .shipping-title {
+  margin: 10px 0;
+  padding: 0;
+  width: 500px;
+}
+
+.shipping > .shipping-details {
+  display: block;
+  margin: 0;
+  padding: 0 0 20px;
+  width: auto;
+}
+
+.shipping > .shipping-details > .shipping-detail {
+  display: inline-block;
+  margin-right: 3px;
+  list-style: none;
+  max-width: 300px;
+}
+
+.shipping > .shipping-details > .shipping-detail > .shipping-type {
+  display: block;
+  margin-bottom: 7px;
+  padding: 5px;
+  color: #fff;
+  background-color: #b50260;
+}
+
+.shipping > .shipping-details > .shipping-detail > .shipping-date {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+/****************************/
+
+.product_attributes.clearfix {
+    display: inline-block;
+}
+
+.content_prices.clearfix {
+    display: inline-block;
+}

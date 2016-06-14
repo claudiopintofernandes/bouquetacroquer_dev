@@ -1,0 +1,8 @@
+2016-02-09 14:51:38 1455025897 DEBUG: URL to check 2
+2016-02-09 14:51:38 1455025897 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-09 14:51:38 1455025897 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-09 14:51:38 1455025897 DEBUG: Cart 203: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-09 14:52:09 1455025929 DEBUG: Call params: M=7300&R=203%20-%20Corinne%20lapray&T=605438669&A=503146&B=0&C=Visa&D=1706&E=00000&G=D&H=A71D52F62F4CCA69F5BEBBB84605F8EDD9F5909D&I=FRA&J=&N=&P=CARTE&Q=14%3A51%3A39&S=604713289&W=09022016&Y=FRA&K=Qu7v%2FRImlf%2Fs72MXVhMjsHBJ%2FHlEh2Ftj2n8%2BdYp3TIDb9xaDXc5jHMnW84jHykabv6ZJmpb2dLy2LPInGRQOK6yrN5stSPQXIDPmYYF6xnqbBS0D0Jg32TfR2Be69OAzRqsdzpE4xqGqc7j1pjrX59%2B8zlQgLKHcvWgU6PH10I%3D
+2016-02-09 14:52:09 1455025929 DEBUG: Cart 203: Standard IPN
+2016-02-09 14:52:09 1455025929 DEBUG: Cart 203: Validating order (PS1.5+)
+2016-02-09 14:52:14 1455025929 DEBUG: Cart 203: Order 34 / Le paiement a été autorisé et capturé par E-Transactions.

@@ -1,0 +1,8 @@
+2016-04-17 18:11:30 1460909490 DEBUG: URL to check 2
+2016-04-17 18:11:30 1460909490 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-17 18:11:30 1460909490 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-17 18:11:30 1460909490 DEBUG: Cart 752: Redirecting customer to E-Transactions (CARTE, CB).
+2016-04-17 18:16:48 1460909808 DEBUG: Call params: M=3900&R=752%20-%20Quynh%20Chuong&T=625330529&A=303448&B=0&C=Visa&D=1802&E=00000&G=D&H=8340DB82E6485B719E401F3A2F9F01A8942C6553&I=FRA&J=&N=&P=CARTE&Q=18%3A14%3A20&S=621296527&W=17042016&Y=FRA&K=k49qH5pFnekA07lDccEYn658rohU0EixXDbZXlw%2FieoiHmm9PRNSmzVPAndh%2BSl%2FCY%2BzTQL%2B1sV74aYq%2F89ZW0TofBJPUr5MgfwHc2WAFjY7Nwh2rvpc1DSf7qxhl%2FdW3Uf%2BVK4dWBjwehOOs8iOt9PLPZKQQj8WnE67T5s78Kw%3D
+2016-04-17 18:16:48 1460909808 DEBUG: Cart 752: Standard IPN
+2016-04-17 18:16:49 1460909808 DEBUG: Cart 752: Validating order (PS1.5+)
+2016-04-17 18:16:53 1460909808 DEBUG: Cart 752: Order 104 / Le paiement a été autorisé et capturé par E-Transactions.

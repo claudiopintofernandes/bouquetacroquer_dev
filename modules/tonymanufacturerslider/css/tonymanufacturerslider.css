@@ -1,0 +1,22 @@
+.brands_block{clear:both;overflow:hidden;padding:0px 0 20px 0;}
+.brands_block img{-webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease}
+.brands_block a{display:block}
+.brands_active{opacity:1;-webkit-transform:scale(1);-webkit-transition-duration:500ms;-webkit-transition-timing-function:ease-out;-moz-transform:scale(1);-moz-transition-duration:500ms;-moz-transition-timing-function:ease-out;-o-transform:scale(1);-o-transition-duration:500ms;-p-transition-timing-function:ease-out;-ms-transform:scale(1);-ms-transform-duration:500ms;-ms-transform-timing-function:ease-out}
+.brands_n_active{opacity:.4;-webkit-transform:scale(0.8);-webkit-transition-duration:500ms;-webkit-transition-timing-function:ease-out;-moz-transform:scale(0.8);-moz-transition-duration:500ms;-moz-transition-timing-function:ease-out;-o-transform:scale(0.8);-o-transition-duration:500ms;-p-transition-timing-function:ease-out;-ms-transform:scale(0.8);-ms-transform-duration:500ms;-ms-transform-timing-function:ease-out}
+#manufacturers-wrapper li{float:left;text-align:center;width:200px;}
+
+
+
+.jcarousel-skin-buyshop .jcarousel-direction-rtl{direction:rtl}
+.jcarousel-skin-buyshop .jcarousel-container-horizontal{padding:0}
+.jcarousel-skin-buyshop .jcarousel-clip{overflow:hidden;width:100%}
+.jcarousel-skin-buyshop .jcarousel-item{text-align:center}
+.jcarousel-skin-buyshop .jcarousel-item-horizontal{margin-left:0;margin-right:10px}
+.jcarousel-skin-buyshop .jcarousel-direction-rtl .jcarousel-item-horizontal{margin-left:10px;margin-right:0}
+.jcarousel-skin-buyshop .jcarousel-item-placeholder{background:#fff;color:#000}
+.jcarousel-skin-buyshop .jcarousel-next-horizontal{position:absolute !important;top:-49px !important;right:0 !important;cursor:pointer}
+.jcarousel-skin-buyshop .jcarousel-direction-rtl .jcarousel-next-horizontal{left:0 !important}
+.jcarousel-skin-buyshop .jcarousel-next-disabled-horizontal,.jcarousel-skin-buyshop .jcarousel-next-disabled-horizontal:hover,.jcarousel-skin-buyshop .jcarousel-next-disabled-horizontal:focus,.jcarousel-skin-buyshop .jcarousel-next-disabled-horizontal:active{cursor:default !important}
+.jcarousel-skin-buyshop .jcarousel-prev-horizontal{position:absolute !important;top:-49px !important;cursor:pointer;right:40px !important}
+.jcarousel-skin-buyshop .jcarousel-direction-rtl .jcarousel-prev-horizontal{left:40px !important}
+.jcarousel-skin-buyshop .jcarousel-prev-disabled-horizontal,.jcarousel-skin-buyshop .jcarousel-prev-disabled-horizontal:hover,.jcarousel-skin-buyshop .jcarousel-prev-disabled-horizontal:focus,.jcarousel-skin-buyshop .jcarousel-prev-disabled-horizontal:active{cursor:default !important}

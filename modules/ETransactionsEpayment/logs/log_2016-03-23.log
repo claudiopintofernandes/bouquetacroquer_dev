@@ -1,0 +1,18 @@
+2016-03-23 13:16:58 1458735418 DEBUG: URL to check 2
+2016-03-23 13:16:58 1458735418 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-23 13:16:58 1458735418 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-23 13:16:58 1458735418 DEBUG: Cart 585: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-23 13:18:25 1458735505 DEBUG: Call params: M=4800&R=585%20-%20Nathalie%20pin&T=618132542&A=297723&B=0&C=Visa&D=1711&E=00000&G=D&H=A3CFC67E4EC929D5B77921BCF6B27A13E9E57FDA&I=FRA&J=&N=&P=CARTE&Q=13%3A17%3A00&S=615281300&W=23032016&Y=FRA&K=tUEdcBOZuZb6W4cY2%2FwV%2B2qfMKtL%2B6ewzaO5%2BuxT6WyJ9rZVsRlvjEbqRaXxkx2Fr01sko5F98hoN77tRDtGcTP2wrUTcsRYEihREzC08%2F8rDJnQeY961wFqOGnpFhJUOMuomdSHyWUCeLlAv20Q3hZB8G8jNvc%2BzyaXuoT%2FXNY%3D
+2016-03-23 13:18:25 1458735505 DEBUG: Cart 585: Standard IPN
+2016-03-23 13:18:25 1458735505 DEBUG: Cart 585: Validating order (PS1.5+)
+2016-03-23 13:18:30 1458735510 DEBUG: Cart 585: Customer is back from E-Transactions payment page. Waiting order validation (loop 0).
+2016-03-23 13:18:30 1458735505 DEBUG: Cart 585: Order 81 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-23 13:18:31 1458735511 DEBUG: Cart 585: Customer is back from E-Transactions payment page. Payment success.
+2016-03-23 18:19:39 1458753579 DEBUG: URL to check 2
+2016-03-23 18:19:39 1458753579 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-23 18:19:39 1458753579 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-23 18:19:39 1458753579 DEBUG: Cart 588: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-23 18:20:20 1458753620 DEBUG: Call params: M=5900&R=588%20-%20Sandy%20Bonifacj&T=618255789&A=651271&B=0&C=Visa&D=1902&E=00000&G=D&H=8F9C69FDC41E0825833973BC54AEB6CC1C515F29&I=FRA&J=&N=&P=CARTE&Q=18%3A19%3A42&S=615378295&W=23032016&Y=FRA&K=wpwH8IedpILMXayPO%2Bp2YUoLZ4B8qKLPXXC5k5VL1lwzp%2FC2FBvqAWKDM0YvzlrrP01efuo0DCyzgFzrKdSx5LebcHOtJwV4nvZD%2FmSi8bE4ak2kuo3gvHqIfNeXSQ5%2BRJh6WN%2BTK2cLOSsoLXdC9Tj5D2dK2MviTB1rwUXvKus%3D
+2016-03-23 18:20:20 1458753620 DEBUG: Cart 588: Standard IPN
+2016-03-23 18:20:20 1458753620 DEBUG: Cart 588: Validating order (PS1.5+)
+2016-03-23 18:20:25 1458753620 DEBUG: Cart 588: Order 82 / Le paiement a été autorisé et capturé par E-Transactions.

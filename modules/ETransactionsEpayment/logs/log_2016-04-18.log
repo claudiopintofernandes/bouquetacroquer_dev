@@ -1,0 +1,18 @@
+2016-04-18 14:35:37 1460982937 DEBUG: URL to check 2
+2016-04-18 14:35:37 1460982937 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-18 14:35:37 1460982937 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-18 14:35:37 1460982937 DEBUG: Cart 757: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-18 14:36:10 1460982970 DEBUG: Call params: M=4600&R=757%20-%20Stephanie%20KUPERAS&T=625455720&A=241960&B=0&C=Visa&D=1809&E=00000&G=D&H=0DEEE579874A574E10955521F32BC2DC180EFBD8&I=GBR&J=&N=&P=CARTE&Q=14%3A35%3A40&S=621414512&W=18042016&Y=FRA&K=lG0EZTYF5VYGT7E5aNWweUAHu5sH%2BGvrbAqjrAg0xobax5vTwtwP6Yx%2FWFvq16TUvCu%2B1KR8%2Bs0rLFPcLxSiuQVVT7Kj9h22NNfngQJMncqhpR0T8HYlt1lsn2Ck%2BqbYDfgRBKPkX%2FS6KDAJrNQqwuDwGJSiuHSs4oNEmlT1ZH8%3D
+2016-04-18 14:36:10 1460982970 DEBUG: Cart 757: Standard IPN
+2016-04-18 14:36:10 1460982970 DEBUG: Cart 757: Validating order (PS1.5+)
+2016-04-18 14:36:16 1460982970 DEBUG: Cart 757: Order 105 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-18 14:36:46 1460983006 DEBUG: Cart 757: Customer is back from E-Transactions payment page. Payment success.
+2016-04-18 20:21:37 1461003697 DEBUG: URL to check 2
+2016-04-18 20:21:37 1461003697 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-18 20:21:38 1461003697 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-18 20:21:38 1461003697 DEBUG: Cart 760: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-18 20:22:20 1461003740 DEBUG: Call params: M=4800&R=760%20-%20Marlene%20donnay&T=625519060&A=411613&B=0&C=Visa&D=1709&E=00000&G=D&H=176E74414748D6752A8F49510FE9B2C042A54F13&I=FRA&J=&N=&P=CARTE&Q=20%3A21%3A41&S=621469801&W=18042016&Y=FRA&K=AXXmK4xITQZ6YRPz4cJV9%2FhC%2FfASBMvOHq6ZQ07Srs894pnHK1FaJPSV0XAxP%2BCWJNVCqD%2Bwkom5QMDDv4YGcijhobGI02RU11QZ5LV2ES%2Bhvh9lBMbgKQD4b2gJVdaaKV%2Be84jFk%2FWWO9GgZyGJQOvRMvcA1fLxJnviA9m6Nuk%3D
+2016-04-18 20:22:20 1461003740 DEBUG: Cart 760: Standard IPN
+2016-04-18 20:22:20 1461003740 DEBUG: Cart 760: Validating order (PS1.5+)
+2016-04-18 20:22:25 1461003740 DEBUG: Cart 760: Order 106 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-18 20:22:29 1461003749 DEBUG: Cart 760: Customer is back from E-Transactions payment page. Payment success.

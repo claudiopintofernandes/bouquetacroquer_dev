@@ -1,0 +1,17 @@
+2016-04-13 11:28:49 1460539729 DEBUG: URL to check 2
+2016-04-13 11:28:49 1460539729 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-13 11:28:49 1460539729 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-13 11:28:49 1460539729 DEBUG: Cart 713: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-04-13 11:29:44 1460539784 DEBUG: Call params: M=6100&R=713%20-%20Myriam%20Lelore&T=624658094&A=595496&B=0&C=MasterCard&D=1804&E=00000&G=D&H=E544A63469E83C30A5E08A6625BA80121AC8CDA6&I=FRA&J=&N=&P=CARTE&Q=11%3A28%3A51&S=620668830&W=13042016&Y=FRA&K=Ccu1e7nv64R66PQ%2Fhc3bkdnFgL3hb3J5PryQu5jcymj9E2kGh%2B0a65zy%2BRepd7gJWjMvI%2FmGMD6ERHPGBc7hu%2Ff%2F%2BjGskFxpNfw58DC82wJQXqC8TPN0A3xj9zoGRVml6kiPqULQw8l1EPpTEOeaU2eRjn6RWkCcfGy%2BWEZ7TE4%3D
+2016-04-13 11:29:44 1460539784 DEBUG: Cart 713: Standard IPN
+2016-04-13 11:29:44 1460539784 DEBUG: Cart 713: Validating order (PS1.5+)
+2016-04-13 11:29:48 1460539784 DEBUG: Cart 713: Order 101 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-13 17:52:16 1460562736 DEBUG: URL to check 2
+2016-04-13 17:52:16 1460562736 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-13 17:52:16 1460562736 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-13 17:52:16 1460562736 DEBUG: Cart 717: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-13 18:00:16 1460563216 DEBUG: Call params: M=1700&R=717%20-%20Gaelle%20Gallard&T=624760962&A=226301&B=0&C=Visa&D=1712&E=00000&G=D&H=4541CAE9BB6E1720AE837325BD448B9BA54F10A9&I=FRA&J=&N=&P=CARTE&Q=17%3A52%3A17&S=620757925&W=13042016&Y=FRA&K=UWUTUIwQTuBeQtK%2F4H8gbpdOSk8WTdwXG6my5bD%2Ft0DwYORdXbDBcSEEKTsx2hqz%2BTHRlvov1HnGlRZYZ9m6QCwvR5D5FhvtxybgEh5LOmbBHjFEZUMEADkXQTe2PFVjab82wK9puRFJRqQfcK8h4jVESmOY%2FLsmXavZ8ffTSvQ%3D
+2016-04-13 18:00:16 1460563216 DEBUG: Cart 717: Standard IPN
+2016-04-13 18:00:16 1460563216 DEBUG: Cart 717: Validating order (PS1.5+)
+2016-04-13 18:00:22 1460563216 DEBUG: Cart 717: Order 102 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-13 18:00:22 1460563222 DEBUG: Cart 717: Customer is back from E-Transactions payment page. Payment success.

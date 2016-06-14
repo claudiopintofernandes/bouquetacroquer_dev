@@ -1,0 +1,88 @@
+/* LayerSlider Neocart Skin */
+.ls-neocart {
+	position:relative;
+}
+
+.ls-neocart .ls-nav-prev {
+	opacity: 0;
+}
+
+.ls-neocart:hover .ls-nav-prev {
+	opacity: 1;
+}
+
+.ls-neocart .ls-nav-next {
+	opacity: 0;
+}
+
+.ls-neocart:hover .ls-nav-next {
+	opacity: 1;
+}
+
+.ls-neocart .ls-nav-prev,
+.ls-neocart .ls-nav-next {
+	width: 50px !important;
+	height: 50px !important;
+	font-size:30px !important;
+	text-align: center;
+	line-height:50px !important;
+	z-index: 10000 !important;
+	margin-top: -25px !important;	
+	top: 50% !important;
+	position: absolute !important;
+	border-width: 2px !important;
+}
+
+
+.custom_blocks a.btn.rounded[class^="icon-"],
+.custom_blocks a.btn.rounded[class*=" icon-"] { 
+	color:#fff;
+}
+.custom_blocks a.btn.rounded[class^="icon-"]:hover,
+.custom_blocks a.btn.rounded[class*=" icon-"]:hover{
+	border-color: #fd4326;
+}
+
+.custom_blocks a.btn.rounded[class^="icon-"]:after,
+.custom_blocks a.btn.rounded[class*=" icon-"]:after { 
+	background:#e6e6e6;
+}
+
+.custom_blocks a.btn.rounded[class^="icon-"]:hover:after,
+.custom_blocks a.btn.rounded[class*=" icon-"]:hover:after {
+	-webkit-transform: scale(0.80);
+	-moz-transform: scale(0.80);
+	-ms-transform: scale(0.80);
+	transform: scale(0.80);
+	background:#fd4326;
+	border-color: #fd4326; 
+}
+
+
+.ls-neocart .ls-nav-prev {
+	left: 10px;	
+}
+
+.ls-neocart .ls-nav-next {
+	right: 10px;	
+}
+
+.l1-s1, .l2-s1, .l3-s1 {
+	color: #fff;
+	font-size: 38px;
+	line-height: 38px;
+	font-family:  'Open Sans', sans-serif;
+	padding: 10px 15px;
+	margin: 0px;
+	border-width: 0px;
+	border-style: none;
+	background: #333;
+	white-space:nowrap;
+	text-shadow:none;
+	text-transform:uppercase;
+}
+.l2-s1 {
+	font-weight:bold;
+}
+.l3-s1 {
+	text-transform: none;}

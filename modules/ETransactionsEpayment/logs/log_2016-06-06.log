@@ -1,0 +1,18 @@
+2016-06-06 17:30:49 1465227049 DEBUG: URL to check 2
+2016-06-06 17:30:49 1465227049 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-06 17:30:50 1465227049 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-06 17:30:50 1465227049 DEBUG: Cart 1345: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-06-06 17:32:08 1465227128 DEBUG: Call params: M=4600&R=1345%20-%20Deborah%20Dubois&T=631807421&A=117184&B=0&C=MasterCard&D=1804&E=00000&G=D&H=6A0FD4AFDADB025E299D46FBD3D3EF12EBF5BAB5&I=FRA&J=&N=&P=CARTE&Q=17%3A30%3A51&S=627753468&W=06062016&Y=FRA&K=ZPwrEtGTvlxyw9NTYnJ2LDRIXLYPsoQUV0jtliVNuqngGhpDb49FvI1C%2BwcGFS5XDEMd%2Fwu4ROaZz57L%2B1B1B87ZgSQ%2F%2B3IBPkQeqYnRdALzoGQrd0vRT%2FG8qiaDAw7Wtswmz3ZyZ4YQhbz54yQ9x2tbyHvv67HfjMRl1m0DGwA%3D
+2016-06-06 17:32:08 1465227128 DEBUG: Cart 1345: Standard IPN
+2016-06-06 17:32:08 1465227128 DEBUG: Cart 1345: Validating order (PS1.5+)
+2016-06-06 17:32:13 1465227128 DEBUG: Cart 1345: Order 174 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-06 17:32:26 1465227146 DEBUG: Cart 1345: Customer is back from E-Transactions payment page. Payment success.
+2016-06-06 20:37:55 1465238275 DEBUG: URL to check 2
+2016-06-06 20:37:55 1465238275 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-06 20:37:55 1465238275 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-06 20:37:55 1465238275 DEBUG: Cart 1348: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-06-06 20:39:55 1465238395 DEBUG: Call params: M=4800&R=1348%20-%20Orset%20Nadia&T=631832931&A=841952&B=0&C=MasterCard&D=1710&E=00000&G=D&H=E0487E7D79442054CE19ABEB23351ACBA2CC9E0E&I=FRA&J=&N=&P=CARTE&Q=20%3A37%3A57&S=627779156&W=06062016&Y=FRA&K=KmKTA1z2V6kN3yBbNTCODqGf9yKb37amopPRyJ0AUYe2d8OT%2F%2B%2F%2FsmSFGis6k7WthUv7HGTVNb9drOIx95qFLyO5frJEcKXicP0E11WHaSkFuCYuM4T%2FJBkaKZYBa%2FrwhmfJchnahNtHV6wyIPZftcen%2Bqj33Zy6NGARw5SNsjw%3D
+2016-06-06 20:39:55 1465238395 DEBUG: Cart 1348: Standard IPN
+2016-06-06 20:39:55 1465238395 DEBUG: Cart 1348: Validating order (PS1.5+)
+2016-06-06 20:40:00 1465238395 DEBUG: Cart 1348: Order 175 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-06 20:40:07 1465238407 DEBUG: Cart 1348: Customer is back from E-Transactions payment page. Payment success.

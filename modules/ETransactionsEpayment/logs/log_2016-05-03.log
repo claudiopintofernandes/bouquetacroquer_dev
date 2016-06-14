@@ -1,0 +1,30 @@
+2016-05-03 13:17:19 1462274239 DEBUG: URL to check 2
+2016-05-03 13:17:19 1462274239 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-03 13:17:19 1462274239 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-03 13:17:19 1462274239 DEBUG: Cart 870: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-03 13:17:51 1462274271 DEBUG: Call params: M=3300&R=870%20-%20Charlotte%20coquillaud&T=627547369&A=216138&B=0&C=Visa&D=1709&E=00000&G=D&H=764340B8312C1D78842B245C9E36EE7CB713CE2A&I=FRA&J=&N=&P=CARTE&Q=13%3A17%3A21&S=623480055&W=03052016&Y=FRA&K=uIpo0Qmj%2Ff23GOLa7sepNRABEzjQLJEn0WksfS0Rgzq8J160XevE5h2vaLrXZsLLEmVvfmAhSLxG9ZEhwmKr6dt7cCT3qTvUIVFKsAQAbuZcZMdlSH8z0%2FwSyjqsNype1hahAH6I9n2yOYXyIKncNvNm6HlBXlq%2BzP0pBFUXfL4%3D
+2016-05-03 13:17:51 1462274271 DEBUG: Cart 870: Standard IPN
+2016-05-03 13:17:51 1462274271 DEBUG: Cart 870: Validating order (PS1.5+)
+2016-05-03 13:17:56 1462274271 DEBUG: Cart 870: Order 122 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-03 13:17:58 1462274278 DEBUG: Cart 870: Customer is back from E-Transactions payment page. Payment success.
+2016-05-03 20:08:14 1462298894 DEBUG: URL to check 2
+2016-05-03 20:08:14 1462298894 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-03 20:08:14 1462298894 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-03 20:08:14 1462298894 DEBUG: Cart 858: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-03 20:09:01 1462298941 DEBUG: Cart 858: Payment was canceled by user onE-Transactions payment page.
+2016-05-03 20:13:35 1462299215 DEBUG: URL to check 2
+2016-05-03 20:13:35 1462299215 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-03 20:13:35 1462299215 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-03 20:13:35 1462299215 DEBUG: Cart 858: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-03 20:15:11 1462299311 DEBUG: Call params: M=3600&R=858%20-%20Corinne%20Molina&T=627610563&A=455675&B=0&C=Visa&D=1809&E=00000&G=D&H=150C1112CFA9479D8023CC62968659AA8E40A4D6&I=FRA&J=&N=&P=CARTE&Q=20%3A13%3A36&S=623542214&W=03052016&Y=FRA&K=QtqO8P%2FTF2p9FmDfxECxK60E7usxHpe4G2%2Ffv4YzCkjB6tHDh5d%2Bl9ZVKzjlczPQroqWgeE7bJYBEmiLvAA2LiB%2BD4N0a7sM5r%2Bm7kZRpdq0gCE6AiUO0djV6TaJCruwaPT4h1%2B%2F9ZR2oJFnJG3pP2nbwWQwxMM3vFdemWtsIek%3D
+2016-05-03 20:15:11 1462299311 DEBUG: Cart 858: Standard IPN
+2016-05-03 20:15:11 1462299311 DEBUG: Cart 858: Validating order (PS1.5+)
+2016-05-03 20:15:16 1462299311 DEBUG: Cart 858: Order 123 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-03 22:55:11 1462308911 DEBUG: URL to check 2
+2016-05-03 22:55:11 1462308911 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-03 22:55:11 1462308911 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-03 22:55:11 1462308911 DEBUG: Cart 878: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-05-03 22:56:17 1462308977 DEBUG: Call params: M=5100&R=878%20-%20Christelle%20Baron&T=627633706&A=913035&B=0&C=MasterCard&D=1710&E=00000&G=D&H=651430D7069CE515D453F742DF8ABEA1B5B6D024&I=FRA&J=&N=&P=CARTE&Q=22%3A55%3A14&S=623564063&W=03052016&Y=FRA&K=nhVal1cOG%2FS4GWNuE0qTWAZzKpIQC%2Fd%2BeJTSeRGl2c4V0wtqouuiLRvPtYH9qhixv85F2gIa38wZuOmdW4NYcRvHw%2F6k29ncJGGDLFsT6nM%2F8dzUPVsNIvR3m9rsddROcnU7u%2BdiGYvd02Qwcy0WXGasphZrqRgwdxeopTQTxOo%3D
+2016-05-03 22:56:17 1462308977 DEBUG: Cart 878: Standard IPN
+2016-05-03 22:56:17 1462308977 DEBUG: Cart 878: Validating order (PS1.5+)
+2016-05-03 22:56:21 1462308977 DEBUG: Cart 878: Order 124 / Le paiement a été autorisé et capturé par E-Transactions.

@@ -1,0 +1,39 @@
+2016-05-11 02:03:11 1462924991 DEBUG: URL to check 2
+2016-05-11 02:03:11 1462924991 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-11 02:03:11 1462924991 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-11 02:03:11 1462924991 DEBUG: Cart 942: Redirecting customer to E-Transactions (CARTE, E_CARD).
+2016-05-11 02:03:19 1462924998 DEBUG: URL to check 2
+2016-05-11 02:03:19 1462924998 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-11 02:03:19 1462924998 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-11 02:03:19 1462924998 DEBUG: Cart 942: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-11 02:04:17 1462925057 DEBUG: Call params: M=4800&R=942%20-%20Beatrice%20%20Omnes&T=628534799&A=315431&B=0&C=MasterCard&D=1812&E=00000&G=D&H=8A7CC4C6DA5EB0E14D3DC1F0D2EAC5182FE79969&I=FRA&J=&N=&P=CARTE&Q=02%3A03%3A20&S=624472873&W=11052016&Y=FRA&K=iZpJEmkMurQgs9lq%2BZSJbnEYBkS%2FTv7hYw8zBGFX7%2FW2i7q%2BCUH1vOH8tPEQc5teZcR2DMTGrONhgu5I7gris8xMQPgC8%2BHrOUCkxb%2BNWcB%2FcJoBOeaj1hZVzSY3HygcUbkoM1VGigMkd0uf6DZ8xg7sn1rKXc9XnSw0WMZMSTM%3D
+2016-05-11 02:04:17 1462925057 DEBUG: Cart 942: Standard IPN
+2016-05-11 02:04:17 1462925057 DEBUG: Cart 942: Validating order (PS1.5+)
+2016-05-11 02:04:27 1462925057 DEBUG: Cart 942: Order 131 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-11 13:04:42 1462964682 DEBUG: URL to check 2
+2016-05-11 13:04:42 1462964682 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-11 13:04:42 1462964682 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-11 13:04:42 1462964682 DEBUG: Cart 949: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-11 13:05:12 1462964712 DEBUG: Call params: M=4800&R=949%20-%20Jeremy%20%20Dussac&T=628592236&A=556165&B=0&C=Visa&D=1704&E=00000&G=D&H=DD3B45E971AC32081C571ACF16BEE69ABFF9C639&I=FRA&J=&N=&P=CARTE&Q=13%3A04%3A43&S=624529660&W=11052016&Y=FRA&K=VpUydnQkxC%2BXGMA98Gb8GEYDOOZ3kukoBGQ12fwo48v7xbL8I4cu6pYEFqgYxVvaIzUsZffq%2FOFfJtLfnkW2XURbxKZoYmHZhPHfF2oYntfezaQgQdCklMRUJSe%2FQMDQsA0Z9F2kw8lDyMqMaZk5DQLIa0xaJ6oF6Gb1Wa%2BMRdo%3D
+2016-05-11 13:05:12 1462964712 DEBUG: Cart 949: Standard IPN
+2016-05-11 13:05:12 1462964712 DEBUG: Cart 949: Validating order (PS1.5+)
+2016-05-11 13:05:17 1462964712 DEBUG: Cart 949: Order 132 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-11 13:05:33 1462964733 DEBUG: Cart 949: Customer is back from E-Transactions payment page. Payment success.
+2016-05-11 19:12:17 1462986737 DEBUG: URL to check 2
+2016-05-11 19:12:17 1462986737 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-11 19:12:17 1462986737 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-11 19:12:17 1462986737 DEBUG: Cart 953: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-11 19:13:28 1462986808 DEBUG: Call params: M=5100&R=953%20-%20Sigrid%20MARTIN&T=628651427&A=984225&B=0&C=Visa&D=1711&E=00000&G=D&H=878A614590F9EBF68B0BEE379A747F61E976066E&I=GUF&J=&N=&P=CARTE&Q=19%3A12%3A20&S=624586657&W=11052016&Y=FRA&K=mkVdvkJFONBCa%2Fgbty2jlp2YYFbXstlMI3VTuKmyOZfUZnIw8NddBLZVUROMIBoV%2Fclhv3QLYHcMMwiVxtoJGc03iGwNkXVKJjob9ssN5UkunFvhqHtpF4ADEr4DZ7uPS6BpofNCWcMl%2BWvX9SrA2o673DqF1wIGebKb3bwRUj8%3D
+2016-05-11 19:13:28 1462986808 DEBUG: Cart 953: Standard IPN
+2016-05-11 19:13:28 1462986808 DEBUG: Cart 953: Validating order (PS1.5+)
+2016-05-11 19:13:33 1462986808 DEBUG: Cart 953: Order 133 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-11 19:13:38 1462986818 DEBUG: Cart 953: Customer is back from E-Transactions payment page. Payment success.
+2016-05-11 19:24:05 1462987444 DEBUG: URL to check 2
+2016-05-11 19:24:05 1462987444 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-05-11 19:24:05 1462987444 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-05-11 19:24:05 1462987444 DEBUG: Cart 954: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-05-11 19:24:42 1462987482 DEBUG: Call params: M=2100&R=954%20-%20Sigrid%20MARTIN&T=628652985&A=034810&B=0&C=Visa&D=1711&E=00000&G=D&H=878A614590F9EBF68B0BEE379A747F61E976066E&I=GUF&J=&N=&P=CARTE&Q=19%3A24%3A07&S=624588086&W=11052016&Y=FRA&K=w59EaQxbsSLvEj3NxhPIuZXEDPL5UpmUj75H4obTWWOfSwFel6NxWYPIqMiIyjN8YLCjAe7g5FxCFxfOFX5O3a8kHarQnSnHrnb3z1uJWC4geVVAYOYtqtUum%2Bn%2BHYPvj3sbfH%2BcIOmDMQ%2FKFAYC%2BaUo%2Fur%2FX9F9qpBap9qVtmQ%3D
+2016-05-11 19:24:42 1462987482 DEBUG: Cart 954: Standard IPN
+2016-05-11 19:24:42 1462987482 DEBUG: Cart 954: Validating order (PS1.5+)
+2016-05-11 19:24:48 1462987482 DEBUG: Cart 954: Order 134 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-05-11 19:24:48 1462987488 DEBUG: Cart 954: Customer is back from E-Transactions payment page. Payment success.

@@ -1,0 +1,9 @@
+2016-04-06 11:02:22 1459933342 DEBUG: URL to check 2
+2016-04-06 11:02:22 1459933342 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-06 11:02:22 1459933342 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-06 11:02:22 1459933342 DEBUG: Cart 663: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-06 11:03:18 1459933398 DEBUG: Call params: M=5900&R=663%20-%20Francoise%20BAL&T=622549907&A=964144&B=0&C=Visa&D=1611&E=00000&G=D&H=63EB84660AC522D28B78EE4C8246FD2ED72C5787&I=FRA&J=&N=&P=CARTE&Q=11%3A02%3A24&S=618878683&W=06042016&Y=FRA&K=T5o75SZ9yWxx6j0xGdGOkE1%2B2BGqvAehcX2xxD%2F4wf6bZ%2B0OUkTKN3evuu%2FlIVF6Lv2tz2Da4fv5kZLCNseV9mcFhnOcM8W0rRwbx2MeI7oFeU%2BKM2txCpBMB2PiuRwq%2B%2BrF9Sz2w0u9ZMHmJJlFDGuwNYAyBW7uOumHWHvLmyA%3D
+2016-04-06 11:03:18 1459933398 DEBUG: Cart 663: Standard IPN
+2016-04-06 11:03:18 1459933398 DEBUG: Cart 663: Validating order (PS1.5+)
+2016-04-06 11:03:23 1459933398 DEBUG: Cart 663: Order 95 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-06 11:03:34 1459933414 DEBUG: Cart 663: Customer is back from E-Transactions payment page. Payment success.

@@ -1,0 +1,4 @@
+#layerslider .ls-nav-prev,
+#layerslider .ls-nav-next { background: #c4c4c4; color: #fff; }
+#layerslider .ls-nav-prev:hover,
+#layerslider .ls-nav-next:hover { background: #9D3BC6; }

@@ -1,0 +1,31 @@
+2016-03-16 13:23:53 1458131033 DEBUG: URL to check 2
+2016-03-16 13:23:53 1458131033 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-16 13:23:58 1458131033 DEBUG:   Exception Exception: name lookup timed out
+2016-03-16 13:23:58 1458131033 DEBUG: Checking E-Transactions URL https://tpeweb1.e-transactions.fr/load.html
+2016-03-16 13:24:03 1458131033 DEBUG:   Exception Exception: name lookup timed out
+2016-03-16 13:24:03 1458131033 DEBUG: No valid URL found!
+2016-03-16 13:24:20 1458131059 DEBUG: URL to check 2
+2016-03-16 13:24:20 1458131059 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-16 13:24:25 1458131059 DEBUG:   Exception Exception: name lookup timed out
+2016-03-16 13:24:25 1458131059 DEBUG: Checking E-Transactions URL https://tpeweb1.e-transactions.fr/load.html
+2016-03-16 13:24:25 1458131059 DEBUG:   Valid url found: https://tpeweb1.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-16 13:24:25 1458131059 DEBUG: Cart 537: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-16 13:25:20 1458131120 DEBUG: URL to check 2
+2016-03-16 13:25:20 1458131120 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-16 13:25:25 1458131120 DEBUG:   Exception Exception: name lookup timed out
+2016-03-16 13:25:25 1458131120 DEBUG: Checking E-Transactions URL https://tpeweb1.e-transactions.fr/load.html
+2016-03-16 13:25:26 1458131120 DEBUG:   Valid url found: https://tpeweb1.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-16 13:25:26 1458131120 DEBUG: Cart 537: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-16 16:47:30 1458143250 DEBUG: URL to check 2
+2016-03-16 16:47:30 1458143250 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-16 16:47:31 1458143250 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-16 16:47:31 1458143250 DEBUG: Cart 542: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-16 16:48:50 1458143330 DEBUG: URL to check 2
+2016-03-16 16:48:50 1458143330 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-16 16:48:50 1458143330 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-16 16:48:50 1458143330 DEBUG: Cart 542: Redirecting customer to E-Transactions (CARTE, CB).
+2016-03-16 16:49:44 1458143384 DEBUG: Call params: M=2800&R=542%20-%20Delphine%20CITHER&T=615966356&A=462090&B=0&C=Visa&D=1805&E=00000&G=D&H=E0C4ABC5EAB7ED4C972A0F8413004A291944D2D9&I=FRA&J=&N=&P=CARTE&Q=16%3A48%3A51&S=613499971&W=16032016&Y=FRA&K=a3qadnDtAMqASsPUkDHeuQX%2B1GRCcu62%2BdWP3B%2Fm6UjzCu4NTziGbWdQLIGElvaLJSBpaGtP3WvNm1XBUNHNJu0PvS6WdyLl1QPbdMokHpI55PjL7QHzu5SklhDinj%2FGHEPdi7czKAx6RQEPpLpEtgtwY7%2FarSECJ%2BSaIpWOX0w%3D
+2016-03-16 16:49:44 1458143384 DEBUG: Cart 542: Standard IPN
+2016-03-16 16:49:44 1458143384 DEBUG: Cart 542: Validating order (PS1.5+)
+2016-03-16 16:49:49 1458143384 DEBUG: Cart 542: Order 75 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-03-16 16:49:52 1458143392 DEBUG: Cart 542: Customer is back from E-Transactions payment page. Payment success.

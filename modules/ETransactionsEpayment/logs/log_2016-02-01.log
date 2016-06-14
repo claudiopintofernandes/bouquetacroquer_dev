@@ -1,0 +1,9 @@
+2016-02-01 07:59:45 1454309985 DEBUG: URL to check 2
+2016-02-01 07:59:45 1454309985 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-01 07:59:45 1454309985 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-01 07:59:45 1454309985 DEBUG: Cart 123: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-01 08:01:50 1454310110 DEBUG: Call params: M=3800&R=123%20-%20Myriam%20PENOT&T=602903572&A=655652&B=0&C=Visa&D=1806&E=00000&G=D&H=D31AE4462D8E05750E81F5888399C5776C22237E&I=AUS&J=&N=&P=CARTE&Q=07%3A59%3A50&S=602583539&W=01022016&Y=FRA&K=plqjBxyVnMdAM2t5D8ARUYl8yhwRb7U00AuBuVUw4KiMKAqHUCI73Ydmen8E0BXCq5r3jAeOsnCgTfjbf%2FtoqCq69g%2F6FDPo742fy8nqER0KhevM%2FETwQ78abY6WOC1gg1Eb3aJJsbwAIzzEN2LPAD3tue%2BF7KyUOrYP5DsHNVo%3D
+2016-02-01 08:01:50 1454310110 DEBUG: Cart 123: Standard IPN
+2016-02-01 08:01:50 1454310110 DEBUG: Cart 123: Validating order (PS1.5+)
+2016-02-01 08:01:54 1454310110 DEBUG: Cart 123: Order 27 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-01 08:02:04 1454310124 DEBUG: Cart 123: Customer is back from E-Transactions payment page. Payment success.

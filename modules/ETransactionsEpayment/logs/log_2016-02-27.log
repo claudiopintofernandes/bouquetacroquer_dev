@@ -1,0 +1,13 @@
+2016-02-27 09:13:56 1456560836 DEBUG: URL to check 2
+2016-02-27 09:13:56 1456560836 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-27 09:13:56 1456560836 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-27 09:13:56 1456560836 DEBUG: Cart 362: Redirecting customer to E-Transactions (CARTE, CB).
+2016-02-27 19:09:11 1456596551 DEBUG: URL to check 2
+2016-02-27 19:09:11 1456596551 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-27 19:09:11 1456596551 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-27 19:09:11 1456596551 DEBUG: Cart 369: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-02-27 19:11:03 1456596663 DEBUG: Call params: M=4400&R=369%20-%20Latifa%20SMATTI&T=609899643&A=423555&B=0&C=MasterCard&D=1801&E=00000&G=D&H=3BDDC267C8E860F7B045ACA3DE921011DD6CA351&I=FRA&J=&N=&P=CARTE&Q=19%3A09%3A13&S=608517165&W=27022016&Y=FRA&K=TMbTlepvWBRhaWPZ50cgUvHNMZhm4nQbuTSwml2GZ3UZeOHcLIeIcdwULRFFn9N0H4X1OufY4vX00%2FDa6mtlWEgVTwYsqHSFQmeCQvrIwpEy9O6q1erFX5%2FQuuRtk8xzYsaPWo3WYu9DywFpk9uO%2B1PaPe%2Bn6W22D%2B9oU9CLUn4%3D
+2016-02-27 19:11:03 1456596663 DEBUG: Cart 369: Standard IPN
+2016-02-27 19:11:03 1456596663 DEBUG: Cart 369: Validating order (PS1.5+)
+2016-02-27 19:11:07 1456596663 DEBUG: Cart 369: Order 47 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-27 19:11:23 1456596683 DEBUG: Cart 369: Customer is back from E-Transactions payment page. Payment success.

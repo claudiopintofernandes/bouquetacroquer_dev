@@ -1,0 +1,9 @@
+2016-04-02 15:28:34 1459603714 DEBUG: URL to check 2
+2016-04-02 15:28:34 1459603714 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-02 15:28:34 1459603714 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-02 15:28:34 1459603714 DEBUG: Cart 643: Redirecting customer to E-Transactions (CARTE, E_CARD).
+2016-04-02 15:30:58 1459603858 DEBUG: Call params: M=4300&R=643%20-%20Nathalie%20LAPORTE&T=621300664&A=785464&B=0&C=E_CARD&D=1607&E=00000&G=D&H=59C1FEB9D81A1680CD82C1C9CC1A344C3A76AB1B&I=FRA&J=&N=&P=CARTE&Q=15%3A28%3A36&S=617859811&W=02042016&Y=FRA&K=PkjrRHKLwTTZ9SNF97qSMBRGxrVE9qwvnrvF88HnAtP9Oi%2BTP34Yo%2FrnDb4sM5tMP6DOnZevtknhfoat2qz740Uh8VdIJxoJGb2EgfP63vkj1jnAVeP37S%2F3fkCpLZJGEPiFeROsOtZv6WrXE06P1SOQhA%2FvtytMbN9Aa%2BQutw8%3D
+2016-04-02 15:30:58 1459603858 DEBUG: Cart 643: Standard IPN
+2016-04-02 15:30:58 1459603858 DEBUG: Cart 643: Validating order (PS1.5+)
+2016-04-02 15:31:03 1459603858 DEBUG: Cart 643: Order 90 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-02 15:31:03 1459603863 DEBUG: Cart 643: Customer is back from E-Transactions payment page. Payment success.

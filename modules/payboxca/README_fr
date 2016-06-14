@@ -1,0 +1,7 @@
+Configuration du module
+
+Pour installer ce module, il faut avoir premièrement souscrit à une offre Paybox au près de votre banque.
+Ensuite, vous obtiendez des informations dont le numéro de TPE, le numéro de rang et un identifiant Paybox
+nécessaires à la sécurisation des paiements vers votre compte depuis le module.
+
+Ensuite, vous devez mettre le contenu du répertoire /paybox/cgi dans le dossier cgi-bin de votre hébergement puis appeler l'URL {votre_url}/cgi-bin/modulev2.cgi. Si une erreur 500 est générée, ceci signifie que le fichier cgi n'est pas compatible avec votre serveur. Dans ce cas, il faut tester les autres fichiers cgi en le renommant à tour de rôle "modulev2.cgi". Si aucun d'entre eux ne correspond, une instruction "phpinfo()" peut être utile pour connaitre l'architecture du système d'exploitation de votre serveur. Ceci vous permettra de charger le bon fichier cgi depuis : http://www1.paybox.com/telechargement_focus.aspx?cat=3

@@ -1,0 +1,13 @@
+2016-04-29 14:52:53 1461934373 DEBUG: URL to check 2
+2016-04-29 14:52:53 1461934373 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-29 14:52:53 1461934373 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-29 14:52:53 1461934373 DEBUG: Cart 839: Redirecting customer to E-Transactions (CARTE, E_CARD).
+2016-04-29 14:54:47 1461934487 DEBUG: URL to check 2
+2016-04-29 14:54:47 1461934487 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-29 14:54:47 1461934487 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-29 14:54:47 1461934487 DEBUG: Cart 839: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-29 14:56:23 1461934583 DEBUG: Call params: M=4700&R=839%20-%20Nadine%20VIRICEL&T=627000818&A=516954&B=0&C=Visa&D=1902&E=00000&G=D&H=290B6DEFBB588B0AEF79EC0BFD63633F0ABFD586&I=FRA&J=&N=&P=CARTE&Q=14%3A54%3A48&S=622930937&W=29042016&Y=FRA&K=hDw1cdkGqIzjtsEU5d9O4n1NmzRMcxibYnDGAm8WyaLVKVU35DHR8LNIr5tCpcwWAW9J55%2B9Eqn%2Bt2NUwhcJLx6vCiQAboPCrcR7Nz3%2FEZTaQ2TouNT1Cd2wo0QoOawo7L5KEuu2EH79uF39oWqPn88Rx1qlfpd%2FM8IrBeJoGAI%3D
+2016-04-29 14:56:23 1461934583 DEBUG: Cart 839: Standard IPN
+2016-04-29 14:56:23 1461934583 DEBUG: Cart 839: Validating order (PS1.5+)
+2016-04-29 14:56:28 1461934583 DEBUG: Cart 839: Order 116 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-29 14:57:00 1461934620 DEBUG: Cart 839: Customer is back from E-Transactions payment page. Payment success.

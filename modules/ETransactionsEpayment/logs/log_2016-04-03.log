@@ -1,0 +1,16 @@
+2016-04-03 10:57:05 1459673825 DEBUG: URL to check 2
+2016-04-03 10:57:05 1459673825 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-03 10:57:05 1459673825 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-03 10:57:05 1459673825 DEBUG: Cart 646: Redirecting customer to E-Transactions (CARTE, CB).
+2016-04-03 19:51:42 1459705902 DEBUG: URL to check 2
+2016-04-03 19:51:42 1459705902 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-03 19:51:43 1459705902 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-03 19:51:43 1459705902 DEBUG: Cart 647: Redirecting customer to E-Transactions (CARTE, CB).
+2016-04-03 21:14:23 1459710863 DEBUG: URL to check 2
+2016-04-03 21:14:23 1459710863 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-03 21:14:23 1459710863 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-03 21:14:23 1459710863 DEBUG: Cart 648: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-04-03 21:15:00 1459710900 DEBUG: Call params: M=4100&R=648%20-%20Corinne%20lapray&T=621635902&A=464012&B=0&C=Visa&D=1706&E=00000&G=D&H=A71D52F62F4CCA69F5BEBBB84605F8EDD9F5909D&I=FRA&J=&N=&P=CARTE&Q=21%3A14%3A24&S=618133638&W=03042016&Y=FRA&K=qofIK5xpqkcnOFq3dz%2BNRcUXjFF7tqeLZ6E4YCaLIjN5jMmXl4CeCGVs0tCN1oVuv0VVWFwIMW5hKUdNhiw80Vbm9yJ0XZS5OQ57ftfCDABn4du2Tu5wsAq%2FOeougtnnQSO%2BNkItZOymFaSJkcw81%2Bb5pw9nFUGqpFxOc%2BhDd9M%3D
+2016-04-03 21:15:00 1459710900 DEBUG: Cart 648: Standard IPN
+2016-04-03 21:15:00 1459710900 DEBUG: Cart 648: Validating order (PS1.5+)
+2016-04-03 21:15:04 1459710900 DEBUG: Cart 648: Order 92 / Le paiement a été autorisé et capturé par E-Transactions.

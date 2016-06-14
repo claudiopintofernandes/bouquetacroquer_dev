@@ -1,0 +1,16 @@
+2016-06-08 09:54:43 1465372483 DEBUG: URL to check 2
+2016-06-08 09:54:43 1465372483 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-08 09:54:44 1465372483 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-08 09:54:44 1465372483 DEBUG: Cart 1366: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-06-08 09:55:17 1465372517 DEBUG: Call params: M=4100&R=1366%20-%20Charles%20pelletier&T=632025660&A=654415&B=0&C=Visa&D=1609&E=00000&G=D&H=279F886DD1DA0150BB124426AA06BB4400B0DA9A&I=FRA&J=&N=&P=CARTE&Q=09%3A54%3A45&S=627977459&W=08062016&Y=FRA&K=yC1hagVDgtkLq5rHiau8mC4LkjJxxWDd0oXSBbTHz9aLVxy972%2F85r28S3yynMYrntpeyxhvPG6Gs2q8MdGMKx%2BXWkSkaBxKXop4HDbWysrqAtxqPEzikYAYiWtfd9P4JqUh4n3VV%2Fu7iSGowO03aTGgJqNdPsMPTE9kKkydNh8%3D
+2016-06-08 09:55:17 1465372517 DEBUG: Cart 1366: Standard IPN
+2016-06-08 09:55:17 1465372517 DEBUG: Cart 1366: Validating order (PS1.5+)
+2016-06-08 09:55:22 1465372517 DEBUG: Cart 1366: Order 178 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-06-08 17:46:33 1465400793 DEBUG: URL to check 2
+2016-06-08 17:46:33 1465400793 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-06-08 17:46:33 1465400793 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-06-08 17:46:33 1465400793 DEBUG: Cart 1368: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-06-08 17:46:58 1465400818 DEBUG: Call params: M=6000&R=1368%20-%20Lise%20roman&T=632111700&A=820644&B=0&C=Visa&D=1703&E=00000&G=D&H=FD533FAE0F451F6B6143C3767132E725DB9DDEE1&I=FRA&J=&N=&P=CARTE&Q=17%3A46%3A34&S=628062480&W=08062016&Y=FRA&K=0oW9gIGAp%2FkuzNtawLDTk9HT8Bm1Y6gfP0aqANq9UCNut80jivdo5CB%2FXjyhEF61iM%2B8o0Y6ax%2FpS0JERCnnb9fvaGqNqsJ%2FO7oSfPv0ON7kTT7%2FWTQYi6T4MpwuIUZFmvDKGOusEqj2R3VPrrn7%2F3hbGDZxRhW15%2FraEHUkspU%3D
+2016-06-08 17:46:58 1465400818 DEBUG: Cart 1368: Standard IPN
+2016-06-08 17:46:58 1465400818 DEBUG: Cart 1368: Validating order (PS1.5+)
+2016-06-08 17:47:03 1465400818 DEBUG: Cart 1368: Order 179 / Le paiement a été autorisé et capturé par E-Transactions.

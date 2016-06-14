@@ -1,0 +1,27 @@
+2016-02-22 11:59:02 1456138742 DEBUG: URL to check 2
+2016-02-22 11:59:02 1456138742 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-22 11:59:02 1456138742 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-22 11:59:02 1456138742 DEBUG: Cart 334: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-22 11:59:29 1456138769 DEBUG: Call params: M=3400&R=334%20-%20Benedicte%20vivet-gros&T=608154615&A=952712&B=0&C=Visa&D=1606&E=00000&G=D&H=9161F6906586C6E2861F4D2E515778F1EEFABD72&I=FRA&J=&N=&P=CARTE&Q=11%3A59%3A03&S=607098100&W=22022016&Y=FRA&K=XLCqTdYWidz0nCmqCcKR5woGRx7xd%2FYjMGtaETrozMQbuAdjz6rbWuOy5M7UjKr8GInzoS15SAE%2BVDOrIkHi5Wj2AesJrNsDrspjkivVPS04HY9wIMq2NyF1SXEu8NVSaKYqq7KzecJKL7kuNZF%2B315hTPYtLU%2BkKA98irpe8Uk%3D
+2016-02-22 11:59:29 1456138769 DEBUG: Cart 334: Standard IPN
+2016-02-22 11:59:29 1456138769 DEBUG: Cart 334: Validating order (PS1.5+)
+2016-02-22 11:59:33 1456138769 DEBUG: Cart 334: Order 43 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-22 11:59:38 1456138778 DEBUG: Cart 334: Customer is back from E-Transactions payment page. Payment success.
+2016-02-22 16:44:01 1456155841 DEBUG: URL to check 2
+2016-02-22 16:44:01 1456155841 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-22 16:44:01 1456155841 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-22 16:44:01 1456155841 DEBUG: Cart 335: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-22 16:44:36 1456155876 DEBUG: Call params: M=6100&R=335%20-%20Samantha%20ZEDET&T=608257885&A=572643&B=0&C=Visa&D=1802&E=00000&G=D&H=1B1EB8A8717DA4144ACB0E3C3D284502CCA1EC05&I=FRA&J=&N=&P=CARTE&Q=16%3A44%3A03&S=607179337&W=22022016&Y=FRA&K=PVeU5nlCUlsAtSZafyWO691aTAWoJmUgb%2BW3jblU4YjtSotj3O5SkktCHZ54cEa6cy1ij1uqKy7hn9Otd9PekvtuARqJuUP8lcpoxlnzhyQlXHvfE6Hhr1Hf5ljktG0bp8UM8DBIbHpb55HVaxLLR8WMGprEi%2BtVz6pFPtCo3dc%3D
+2016-02-22 16:44:36 1456155876 DEBUG: Cart 335: Standard IPN
+2016-02-22 16:44:36 1456155876 DEBUG: Cart 335: Validating order (PS1.5+)
+2016-02-22 16:44:40 1456155876 DEBUG: Cart 335: Order 44 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-22 16:44:42 1456155882 DEBUG: Cart 335: Customer is back from E-Transactions payment page. Payment success.
+2016-02-22 16:56:25 1456156584 DEBUG: URL to check 2
+2016-02-22 16:56:25 1456156584 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-22 16:56:25 1456156584 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-22 16:56:25 1456156584 DEBUG: Cart 282: Redirecting customer to E-Transactions (CARTE, CB).
+2016-02-22 16:57:42 1456156662 DEBUG: Call params: M=4300&R=282%20-%20Candice%20Colonello&T=608262847&A=548245&B=0&C=Visa&D=1801&E=00000&G=D&H=B0A22137682DFE8F95DB5D3B338F8554E16AB4D5&I=FRA&J=&N=&P=CARTE&Q=16%3A56%3A27&S=607182964&W=22022016&Y=FRA&K=UWFPU1aebTBCNRsxylpSPXsVy5LaA%2BFALS4scaXP7F9ozh7dI58qeEz2sSQ0aOPSFoozatiMOS5wse%2FveLw0ODd%2Br%2FJC700jvSqBQanO6MvHz0nRa5b5W9Inmpn0Un54xUuqNAG5eELGNfTIOYd8D0FXc5inbl2uUgn1uKjy3qA%3D
+2016-02-22 16:57:42 1456156662 DEBUG: Cart 282: Standard IPN
+2016-02-22 16:57:42 1456156662 DEBUG: Cart 282: Validating order (PS1.5+)
+2016-02-22 16:57:46 1456156662 DEBUG: Cart 282: Order 45 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-22 16:57:51 1456156671 DEBUG: Cart 282: Customer is back from E-Transactions payment page. Payment success.

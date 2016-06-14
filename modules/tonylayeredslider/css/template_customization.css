@@ -1,0 +1,5 @@
+#layerslider #next_slide, #layerslider #prev_slide {
+background-color: {$button_color};
+color:white;
+}
+#layerslider #prev_slide:hover,#layerslider #next_slide:hover{background-color:{$button_hover_color} !important;}

@@ -1,0 +1,8 @@
+2016-02-21 15:58:02 1456066682 DEBUG: URL to check 2
+2016-02-21 15:58:02 1456066682 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-21 15:58:02 1456066682 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-21 15:58:02 1456066682 DEBUG: Cart 268: Redirecting customer to E-Transactions (CARTE, CB).
+2016-02-21 16:01:05 1456066865 DEBUG: Call params: M=2300&R=268%20-%20Sandra%20cheftel&T=607941905&A=657205&B=0&C=MasterCard&D=1603&E=00000&G=D&H=CCC9BEB7BB44CD829A0259D56CB5BFE9BE2BB3F1&I=FRA&J=&N=&P=CARTE&Q=15%3A58%3A05&S=606918181&W=21022016&Y=FRA&K=MFDFWxYyhvhLcuQWlZhYZzrlYtbDA6QbNQAXWznM8agEP6pGIYeCUgkThyvjpk8c455MSBUnt5iggm6CVCrz7aypyuANcmURWL2dBLYM5EG8F2KHiL0cwmcvxuBYqLL54znN4MWPGMfSbdh1NRbepMko367128YG3AIjIm%2Bpzio%3D
+2016-02-21 16:01:05 1456066865 DEBUG: Cart 268: Standard IPN
+2016-02-21 16:01:05 1456066865 DEBUG: Cart 268: Validating order (PS1.5+)
+2016-02-21 16:01:11 1456066865 DEBUG: Cart 268: Order 42 / Le paiement a été autorisé et capturé par E-Transactions.

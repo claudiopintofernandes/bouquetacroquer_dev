@@ -1,0 +1,9 @@
+2016-02-13 15:10:02 1455372602 DEBUG: URL to check 2
+2016-02-13 15:10:02 1455372602 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-02-13 15:10:02 1455372602 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-02-13 15:10:02 1455372602 DEBUG: Cart 262: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-02-13 15:10:43 1455372643 DEBUG: Call params: M=4600&R=262%20-%20L.%20DEDIEU&T=605939790&A=118865&B=0&C=Visa&D=1805&E=00000&G=D&H=508E0EFCB328C4CCA89B3A37676728136D1A9F4E&I=FRA&J=&N=&P=CARTE&Q=15%3A10%3A04&S=605200262&W=13022016&Y=FRA&K=ikgqSZIV1AukK6vYFXgvbg2jo7mW8YqmXwu0LeYce6bcWVKupDcimCJWSsQjD0tARP25dFREyK5g4gVSPj1m6UkdZoN3%2BxG1KU28YKuMMKOKdnMaU2Ns0Z0KqHHVQnTt%2B4OQcLr2YsebzXsE8oBH78Cx8nJgLQmFx%2FLC1MaWDFI%3D
+2016-02-13 15:10:43 1455372643 DEBUG: Cart 262: Standard IPN
+2016-02-13 15:10:43 1455372643 DEBUG: Cart 262: Validating order (PS1.5+)
+2016-02-13 15:10:47 1455372643 DEBUG: Cart 262: Order 39 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-02-13 15:10:53 1455372653 DEBUG: Cart 262: Customer is back from E-Transactions payment page. Payment success.

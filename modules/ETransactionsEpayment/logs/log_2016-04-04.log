@@ -1,0 +1,9 @@
+2016-04-04 10:41:53 1459759313 DEBUG: URL to check 2
+2016-04-04 10:41:53 1459759313 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-04-04 10:41:53 1459759313 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-04-04 10:41:53 1459759313 DEBUG: Cart 651: Redirecting customer to E-Transactions (CARTE, EUROCARD_MASTERCARD).
+2016-04-04 10:42:44 1459759364 DEBUG: Call params: M=4800&R=651%20-%20Marie-Pierre%20COVILLE&T=621754244&A=335029&B=0&C=MasterCard&D=1709&E=00000&G=D&H=5421BE40B9B30D119B6AE6B55CC9C196D2F8D423&I=FRA&J=&N=&P=CARTE&Q=10%3A41%3A54&S=618233848&W=04042016&Y=FRA&K=X4B8ufvgm3vmXYhMLlD8HH3926aJCnKsakpTu6jD9AROv2q%2FSvYm0doqBwMqJs67eQ20bPWobPwaskw%2F6xLhdq6Qeku2wIaDWPpS0wZjL9SqbxnxmxwJeI0ALikDuG02OZ%2Bk1n%2BRA%2BP0XJiPkjPaMMzMXKl1A167JMwopXBeuZQ%3D
+2016-04-04 10:42:44 1459759364 DEBUG: Cart 651: Standard IPN
+2016-04-04 10:42:44 1459759364 DEBUG: Cart 651: Validating order (PS1.5+)
+2016-04-04 10:42:49 1459759364 DEBUG: Cart 651: Order 93 / Le paiement a été autorisé et capturé par E-Transactions.
+2016-04-04 10:42:59 1459759379 DEBUG: Cart 651: Customer is back from E-Transactions payment page. Payment success.

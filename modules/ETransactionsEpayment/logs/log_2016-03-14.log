@@ -1,0 +1,8 @@
+2016-03-14 18:55:22 1457978122 DEBUG: URL to check 2
+2016-03-14 18:55:22 1457978122 DEBUG: Checking E-Transactions URL https://tpeweb.e-transactions.fr/load.html
+2016-03-14 18:55:22 1457978122 DEBUG:   Valid url found: https://tpeweb.e-transactions.fr/cgi/MYchoix_pagepaiement.cgi
+2016-03-14 18:55:22 1457978122 DEBUG: Cart 519: Redirecting customer to E-Transactions (CARTE, VISA).
+2016-03-14 18:56:30 1457978190 DEBUG: Call params: M=4400&R=519%20-%20Mathieu%20hanesse&T=615320425&A=523266&B=0&C=Visa&D=1703&E=00000&G=D&H=499ED09743A591A17BE6338FF3C8C74B9DE1C2AD&I=FRA&J=&N=&P=CARTE&Q=18%3A55%3A23&S=612977466&W=14032016&Y=FRA&K=l04hXMHKuUDELe95qohFgllE5vO0czkVJmHhp63ztMHBTuJhY2ajcmu8CpqIWFs7BaGaUk9YXnKUZVTMzgcjcueQvsOOIukQs2BWYe3bWVPmYWcev4uJAM%2F4OSsGgT6ZExhVaH92zXFQKkgevA93aYIO0VQRZLEhTxzZmF07kQ8%3D
+2016-03-14 18:56:30 1457978190 DEBUG: Cart 519: Standard IPN
+2016-03-14 18:56:30 1457978190 DEBUG: Cart 519: Validating order (PS1.5+)
+2016-03-14 18:56:35 1457978190 DEBUG: Cart 519: Order 72 / Le paiement a été autorisé et capturé par E-Transactions.
